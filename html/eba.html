@@ -1,0 +1,175 @@
+<!-- 
+    Author: Liam Meagher
+    Last Updated: 1/12/2026
+    This is the Portfolio website for Liam Meagher
+
+    Project: Camp Emerald Bay
+-->
+
+<!-- Blank Comment Below -->
+<!--  -->
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+    <!-- Setting the viewport to make your website look good on all devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Define the character set used -->
+    <meta charset="UTF-8">
+    <!-- Author of the HTML code -->
+    <meta name="author" content="Liam Meagher">
+
+    <!-- Link to Generic Style Sheet -->
+    <link rel="stylesheet" href="\css\styles.css">
+    <!-- Link to Navbar Style Sheet -->
+    <link rel="stylesheet" href="\css\navbar.css">
+
+    <!-- Import jQuery -->
+    <script src="\js\jquery-3.7.1.min.js"></script>
+    
+    <!-- Title of the Website that shows on tab -->
+    <title>Liam Meagher | Work: Camp Emerald Bay</title>
+    <!-- Favicon Icon that shows on tab -->
+    <link rel="icon" type="image/x-icon" href="\images\favicon.ico">
+    <!-- Description that shows up in google search -->
+    <meta name="description" content="Liam Meagher Portfolio Website">
+
+</head>
+<body>
+
+    <nav id="nav-bar">
+        
+        <label class="hamburger-menu">
+            <input id="hamburger-check" type="checkbox"/>
+        </label>
+
+        <aside class="sidebar">
+            <nav>
+                <a href="\html\about-me.html">About Me</a>
+                <a href="\html\projects.html">Projects</a>
+                <a href="\html\resume.html">R&eacutesum&eacute</a>
+                <a href="\html\contact.html">Contact</a>
+            </nav>
+        </aside>
+
+        <!-- Logo in the top left -->
+        <a href="/" class="logo">Liam Meagher</a>
+
+        <!-- Empty div to dim page when sidebar is open --> 
+        <div id="page-dim"></div>
+
+    </nav>
+
+    <main>
+
+        <header id="projects" class="header-block"
+        style="background-image: url(/images/camp_sign.jpg);"
+        title="Camp Emerald Bay Header Image">
+
+            <h1>Camp Emerald Bay</h1>
+
+            <!-- Div for caron symbol to scroll to main body -->
+            <div class="caron">
+                <a href="#project-top">&#8681</a>
+            </div>
+
+        </header>
+
+        <!-- Main text section after title header -->
+        <div class="main-body">
+
+            <!-- Blank div for spacing -->
+            <div></div>
+
+            <!-- Middle div is for centered content -->
+            <div class="center-column">
+
+                <div id="project-top" class="content-block id-anchor">
+
+                    <h3><b>Camp Emerald Bay</b> | Avalon, CA (2017-Present)</h3>
+
+                    <div class="pictext-bot">
+                    
+                        <div>
+                            <p>
+                                Camp Emerald Bay is a summer camp located on Catalina Island, California. 
+                                I have been a counselor and activity instructor at the camp since 2017.
+                                Camp Emerald Bay has been a significant part of my life since I was 13 years old.
+                                Over the years, I have taken on various roles, including leading activities such as
+                                hiking, biking, kayaking, snorkeling, swimming, sailing, archery, and arts and crafts.
+                            </p>
+                        </div>
+
+                    </div>
+
+                    <div class="pictext-bot">
+
+                        <div class="pictext-img">
+                            <img src="\images\emerald-bay.png"
+                            alt="Brief Image of Camp Emerald Bay's Waterfront Area">
+                        </div>
+                    
+                        <div>
+                            <p>
+                                [Quoted from the Camp Emerald Bay Website]<br><br>
+                            </p>
+                            <p>
+                                Emerald Bay, located on the undeveloped West End of Catalina Island, enjoys unparalleled access to the natural
+                                gems of Catalina’s singular ecosystem. The secluded beaches and coves that surround us boast world-renowned
+                                snorkeling and diving, frequently counted among the top ten destinations in the world. For the terrestrial
+                                naturalists, the hiking trails that radiate from our camp provide the perfect opportunity to spot the endemic
+                                Catalina Island Fox or the famously anachronistic Bison. This well-preserved environment, under the care of the
+                                Catalina Island Conservancy, provides a uniquely accurate window into the natural history of California.
+                            </p>
+                            <p>
+                                The recorded history of Emerald Bay dates back to the 18th century when Chumash Indians, Spaniards, 
+                                and the odd pirate occupied the land. In the mid-19th century, the Johnson Brothers used Emerald Bay to graze 
+                                cattle and ship them to the mainland. The occasional corral fencing from Johnson’s Landing (as it was known at 
+                                the time) can still be found in our campsites to this day. It wasn’t until 1925 that the Crescent Bay Area Council 
+                                founded the Scouting facility that we know today. For 15 years, the camp served hundreds of local Scouts and 
+                                Scouters until, in 1940, the Navy requisitioned the camp for  underwater demolition training. Some of our oldest 
+                                staff cabins are the remnants of the officer and trainee housing from this era. In 1946, Camp Emerald Bay 
+                                re-opened with roughly 80-100 campers and 15 staffers — a mere fraction of the numbers we serve today.
+                            </p>
+                            <p>    
+                                The camp has continued to grow and now serves over 4,500 scouts in a summer with a staff of roughly 150 young men 
+                                and women dedicated to producing a unique and unparalleled scouting experience. Additionally, the Spring and Fall 
+                                Seasons have become an increasingly popular time for school, church, business, and organization retreats and events. 
+                                Emerald Bay is more than a resort or weekend away. We work, through Environmental Education, Marine Science 
+                                Initiatives, and Ethics and Leadership Training, to build good people. 
+                        </div>
+
+                    </div>
+
+                    <div class="content-block button">
+                        <button>
+                            <a href="https://www.campemeraldbay.org/" target="_blank">
+                                <b>Camp Emerald Bay Website</b>
+                            </a>
+                        </button>
+                    </div>
+
+                </div>
+
+            </div>
+            
+            <!-- Blank div for spacing -->
+            <div></div>
+
+        </div>
+
+    </main>
+
+    <div class="footer">
+        <a href="https://github.com/darth-liam/darth-liam.github.io" target="_blank">
+            <p>This website is hosted on GitHub Pages</p>
+        </a>
+    </div>
+
+    <!-- Link to Javascript Sheets -->
+    <script src="\js\script.js"></script>
+    <script src="\js\navbar.js"></script>
+
+</body>
+</html>
