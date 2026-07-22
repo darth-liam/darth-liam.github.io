@@ -1,0 +1,38 @@
+name: Update job listings
+
+on:
+  schedule:
+    # 06:00 and 18:00 UTC daily. Twice a day is plenty for these sources
+    # (Remotive specifically asks API consumers not to poll more often).
+    - cron: "0 6,18 * * *"
+  workflow_dispatch: {} # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-jobs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch latest jobs
+        run: node fetch-jobs.js
+
+      - name: Commit jobs.json if it changed
+        run: |
+          git config user.name "job-aggregator-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add jobs.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update job listings"
+            git push
+          fi
