@@ -23,7 +23,7 @@ jobs:
           node-version: 20
 
       - name: Fetch latest jobs
-        run: node fetch-jobs.js
+        run: node ./js/fetch-jobs.js
 
       - name: Commit jobs.json if it changed
         run: |
