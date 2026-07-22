@@ -1,6 +1,4179 @@
 {
-  "updated_at": null,
-  "count": 0,
-  "sources": {},
-  "jobs": []
+  "updated_at": "2026-07-22T06:54:10.187Z",
+  "count": 240,
+  "sources": {
+    "RemoteOK": {
+      "ok": true,
+      "count": 99
+    },
+    "Remotive": {
+      "ok": true,
+      "count": 41
+    },
+    "Arbeitnow": {
+      "ok": true,
+      "count": 100
+    }
+  },
+  "jobs": [
+    {
+      "id": "arbeitnow-head-of-direct-response-cro-senior-landau-449476",
+      "title": "Head of Direct Response & CRO (Senior)",
+      "company": "agencro",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/agencro/head-of-direct-response-cro-senior-landau-449476",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Strategic Marketing"
+      ],
+      "posted": "2026-07-21T22:59:04.000Z"
+    },
+    {
+      "id": "arbeitnow-java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-436151",
+      "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+      "company": "Auralis Group",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-436151",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "posted": "2026-07-21T22:00:26.000Z"
+    },
+    {
+      "id": "arbeitnow-data-analyst-flixtrain-operations-berlin-393690",
+      "title": "Data Analyst FlixTrain Operations (m/w/d)",
+      "company": "Flix",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/data-analyst-flixtrain-operations-berlin-393690",
+      "source": "Arbeitnow",
+      "tags": [],
+      "posted": "2026-07-21T20:45:24.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-analytics-engineer-run-grow-berlin-92066",
+      "title": "Senior Analytics Engineer - Run & Grow",
+      "company": "SumUp",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-analytics-engineer-run-grow-berlin-92066",
+      "source": "Arbeitnow",
+      "tags": [],
+      "posted": "2026-07-21T20:45:24.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-business-developer-berlin-78695",
+      "title": "Senior Business Developer",
+      "company": "Atolls",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/atolls/senior-business-developer-berlin-78695",
+      "source": "Arbeitnow",
+      "tags": [],
+      "posted": "2026-07-21T20:45:24.000Z"
+    },
+    {
+      "id": "arbeitnow-werkstudentin-planung-angebotserstellung-in-koln-hamburg-essen-cologne-70122",
+      "title": "Werkstudent:in Planung & Angebotserstellung (m/w/d) in Köln / Hamburg / Essen",
+      "company": "nanuq GmbH",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/nanuq-gmbh/werkstudentin-planung-angebotserstellung-in-koln-hamburg-essen-cologne-70122",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "posted": "2026-07-21T20:30:39.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-software-developer-java-kotlin-with-spring-boot-darmstadt-436777",
+      "title": "Senior Software Developer (m/f/d) Java/Kotlin with Spring Boot",
+      "company": "etalytics gmbh",
+      "location": "Darmstadt",
+      "url": "https://www.arbeitnow.com/jobs/companies/etalytics-gmbh/senior-software-developer-java-kotlin-with-spring-boot-darmstadt-436777",
+      "source": "Arbeitnow",
+      "tags": [
+        "Information technology",
+        "associate's degree"
+      ],
+      "posted": "2026-07-21T19:20:14.000Z"
+    },
+    {
+      "id": "arbeitnow-tech-ai-specialist-marketing-agency-landau-136662",
+      "title": "Tech & AI Specialist (Marketing Agency)",
+      "company": "agencro",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/agencro/tech-ai-specialist-marketing-agency-landau-136662",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Web Development"
+      ],
+      "posted": "2026-07-21T19:00:23.000Z"
+    },
+    {
+      "id": "arbeitnow-content-creator-social-media-managerin-minijob-puchheim-338174",
+      "title": "Content Creator & Social Media Manager:in (Minijob)",
+      "company": "Racksolut GmbH",
+      "location": "Puchheim",
+      "url": "https://www.arbeitnow.com/jobs/companies/racksolut-gmbh/content-creator-social-media-managerin-minijob-puchheim-338174",
+      "source": "Arbeitnow",
+      "tags": [
+        "Online Marketing"
+      ],
+      "posted": "2026-07-21T18:30:29.000Z"
+    },
+    {
+      "id": "arbeitnow-seo-manager-sea-manager-schwerpunkt-seo-reutlingen-362330",
+      "title": "SEO Manager / SEA-Manager - Schwerpunkt SEO (w/m/d)",
+      "company": "Stecker Express GmbH",
+      "location": "Reutlingen",
+      "url": "https://www.arbeitnow.com/jobs/companies/stecker-express-gmbh/seo-manager-sea-manager-schwerpunkt-seo-reutlingen-362330",
+      "source": "Arbeitnow",
+      "tags": [
+        "Online Marketing"
+      ],
+      "posted": "2026-07-21T18:00:58.000Z"
+    },
+    {
+      "id": "arbeitnow-account-executive-netherlands-ludwigsburg-441386",
+      "title": "Account Executive - Netherlands (f/m/d)",
+      "company": "Instagrid",
+      "location": "Ludwigsburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/instagrid/account-executive-netherlands-ludwigsburg-441386",
+      "source": "Arbeitnow",
+      "tags": [
+        "Energy",
+        "bachelor's degree"
+      ],
+      "posted": "2026-07-21T17:20:14.000Z"
+    },
+    {
+      "id": "arbeitnow-projektmanagerin-grossbatteriespeicher-munich-180529",
+      "title": "Projektmanager:in Großbatteriespeicher",
+      "company": "Luxera Energy GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/luxera-energy-gmbh/projektmanagerin-grossbatteriespeicher-munich-180529",
+      "source": "Arbeitnow",
+      "tags": [
+        "Project Management"
+      ],
+      "posted": "2026-07-21T17:00:26.000Z"
+    },
+    {
+      "id": "arbeitnow-regionalleiter-immobilienverwaltung-cologne-426908",
+      "title": "Regionalleiter Immobilienverwaltung (m/w/d)",
+      "company": "Buena",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/buena/regionalleiter-immobilienverwaltung-cologne-426908",
+      "source": "Arbeitnow",
+      "tags": [
+        "Directors",
+        "Chief Executives"
+      ],
+      "posted": "2026-07-21T16:30:30.000Z"
+    },
+    {
+      "id": "arbeitnow-praktikum-im-bereich-influencer-marketing-und-social-media-berlin-341243",
+      "title": "Praktikum im Bereich Influencer Marketing und Social Media",
+      "company": "HOLZRICHTER Berlin",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/holzrichter-berlin/praktikum-im-bereich-influencer-marketing-und-social-media-berlin-341243",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing and Communication"
+      ],
+      "posted": "2026-07-21T16:30:30.000Z"
+    },
+    {
+      "id": "arbeitnow-herzliches-team-sucht-dich-it-systemadministrator-gesucht-herford-167610",
+      "title": "Herzliches Team sucht Dich -  IT Systemadministrator (m/w/d) gesucht",
+      "company": "Intercon Solutions GmbH",
+      "location": "Herford",
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/herzliches-team-sucht-dich-it-systemadministrator-gesucht-herford-167610",
+      "source": "Arbeitnow",
+      "tags": [
+        "System and Network Administration"
+      ],
+      "posted": "2026-07-21T16:30:30.000Z"
+    },
+    {
+      "id": "arbeitnow-sympathischer-it-systemadministrator-gesucht-minden-217444",
+      "title": "Sympathischer IT Systemadministrator (m/w/d) gesucht",
+      "company": "Intercon Solutions GmbH",
+      "location": "Minden",
+      "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/sympathischer-it-systemadministrator-gesucht-minden-217444",
+      "source": "Arbeitnow",
+      "tags": [
+        "System and Network Administration"
+      ],
+      "posted": "2026-07-21T16:30:29.000Z"
+    },
+    {
+      "id": "arbeitnow-sap-hcm-berater-karlsfeld-488311",
+      "title": "SAP HCM Berater (m/w/d)",
+      "company": "HR Team Consult GmbH",
+      "location": "Karlsfeld",
+      "url": "https://www.arbeitnow.com/jobs/companies/hr-team-consult-gmbh/sap-hcm-berater-karlsfeld-488311",
+      "source": "Arbeitnow",
+      "tags": [
+        "Business Consulting"
+      ],
+      "posted": "2026-07-21T16:30:29.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-ai-engineer-technical-project-lead-koln-cologne-69952",
+      "title": "(Senior) AI Engineer & Technical Project Lead (Köln) (w/d/m)",
+      "company": "WEBUILDAI GmbH",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/webuildai-gmbh/senior-ai-engineer-technical-project-lead-koln-cologne-69952",
+      "source": "Arbeitnow",
+      "tags": [
+        "Consulting",
+        "Engineering"
+      ],
+      "posted": "2026-07-21T16:00:22.000Z"
+    },
+    {
+      "id": "arbeitnow-technische-kundensupport-spezialist-level-2-dusseldorf-208594",
+      "title": "Technische Kundensupport Spezialist (Level 2 - Berlin oder Düsseldorf)",
+      "company": "NoDi GmbH",
+      "location": "Düsseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/nodi-gmbh/technische-kundensupport-spezialist-level-2-dusseldorf-208594",
+      "source": "Arbeitnow",
+      "tags": [
+        "Customer Service"
+      ],
+      "posted": "2026-07-21T15:59:02.000Z"
+    },
+    {
+      "id": "arbeitnow-finance-manager-murg-93683",
+      "title": "Finance Manager (m/w/d)",
+      "company": "Biomatch GmbH",
+      "location": "Murg",
+      "url": "https://www.arbeitnow.com/jobs/companies/biomatch-gmbh/finance-manager-murg-93683",
+      "source": "Arbeitnow",
+      "tags": [
+        "Finance"
+      ],
+      "posted": "2026-07-21T15:30:26.000Z"
+    },
+    {
+      "id": "arbeitnow-fahrer-delmenhorst-78436",
+      "title": "Fahrer (W/M/D)",
+      "company": "Aquent HR International",
+      "location": "Delmenhorst",
+      "url": "https://www.arbeitnow.com/jobs/companies/aquent-hr-international/fahrer-delmenhorst-78436",
+      "source": "Arbeitnow",
+      "tags": [
+        "Graphic Arts and Communication Design"
+      ],
+      "posted": "2026-07-21T15:30:25.000Z"
+    },
+    {
+      "id": "arbeitnow-werkstudent-sales-berlin-148917",
+      "title": "Werkstudent Sales (m/w/d)",
+      "company": "Ergotopia",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/ergotopia/werkstudent-sales-berlin-148917",
+      "source": "Arbeitnow",
+      "tags": [
+        "Sales",
+        "college coursework completed"
+      ],
+      "posted": "2026-07-21T15:20:14.000Z"
+    },
+    {
+      "id": "arbeitnow-creative-director-bonn-84580",
+      "title": "Creative Director (m/w/d)",
+      "company": "benuta GmbH",
+      "location": "Bonn",
+      "url": "https://www.arbeitnow.com/jobs/companies/benuta-gmbh/creative-director-bonn-84580",
+      "source": "Arbeitnow",
+      "tags": [
+        "Design and creative",
+        "bachelor's degree"
+      ],
+      "posted": "2026-07-21T15:20:14.000Z"
+    },
+    {
+      "id": "arbeitnow-minijobber-fur-versand-und-logistik-frankfurt-am-main-12518",
+      "title": "Minijobber für Versand und Logistik (m/w/d)",
+      "company": "Seed Supplier GmbH",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/seed-supplier-gmbh/minijobber-fur-versand-und-logistik-frankfurt-am-main-12518",
+      "source": "Arbeitnow",
+      "tags": [
+        "HR"
+      ],
+      "posted": "2026-07-21T15:00:28.000Z"
+    },
+    {
+      "id": "arbeitnow-werkstudent-im-online-marketing-baiersdorf-186272",
+      "title": "Werkstudent (m/w/d) im (Online) Marketing",
+      "company": "Hey Little GmbH",
+      "location": "Baiersdorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/hey-little-gmbh/werkstudent-im-online-marketing-baiersdorf-186272",
+      "source": "Arbeitnow",
+      "tags": [
+        "Online Marketing"
+      ],
+      "posted": "2026-07-21T15:00:28.000Z"
+    },
+    {
+      "id": "arbeitnow-vertriebsmitarbeiter-mwd-plossberg-448779",
+      "title": "Vertriebsmitarbeiter m|w|d|",
+      "company": "LS Onlinevertrieb",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/ls-onlinevertrieb/vertriebsmitarbeiter-mwd-plossberg-448779",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Marketing and Communication"
+      ],
+      "posted": "2026-07-21T15:00:28.000Z"
+    },
+    {
+      "id": "arbeitnow-golang-entwickler-remote-deutschland-berlin-106446",
+      "title": "Golang-Entwickler (m/w/d) - Remote (Deutschland)",
+      "company": "Muxon",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/muxon/golang-entwickler-remote-deutschland-berlin-106446",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "posted": "2026-07-21T15:00:27.000Z"
+    },
+    {
+      "id": "arbeitnow-hr-generalist-stuttgart-43264",
+      "title": "HR Generalist",
+      "company": "Nextcloud",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/nextcloud/hr-generalist-stuttgart-43264",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Personnel Specialist"
+      ],
+      "posted": "2026-07-21T15:00:27.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-creator-marketing-coordinator-berlin-417088",
+      "title": "(Senior) Creator Marketing Coordinator (m/w/d)",
+      "company": "gocomo GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/gocomo-gmbh/senior-creator-marketing-coordinator-berlin-417088",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing and Communication"
+      ],
+      "posted": "2026-07-21T15:00:27.000Z"
+    },
+    {
+      "id": "arbeitnow-creator-marketing-coordinator-berlin-203666",
+      "title": "Creator Marketing Coordinator (m/w/d)",
+      "company": "gocomo GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/gocomo-gmbh/creator-marketing-coordinator-berlin-203666",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing and Communication"
+      ],
+      "posted": "2026-07-21T15:00:26.000Z"
+    },
+    {
+      "id": "arbeitnow-influencer-marketing-manager-berlin-247002",
+      "title": "Influencer Marketing Manager (m/w/d)",
+      "company": "gocomo GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/gocomo-gmbh/influencer-marketing-manager-berlin-247002",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing and Communication"
+      ],
+      "posted": "2026-07-21T15:00:25.000Z"
+    },
+    {
+      "id": "arbeitnow-cro-berlin-121571",
+      "title": "CRO",
+      "company": "EquiMatch GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/equimatch-gmbh/cro-berlin-121571",
+      "source": "Arbeitnow",
+      "tags": [
+        "Mergers & Acquisitions"
+      ],
+      "posted": "2026-07-21T14:30:28.000Z"
+    },
+    {
+      "id": "arbeitnow-it-leiter-boppard-365798",
+      "title": "IT-Leiter (m/w/d)",
+      "company": "Hohn Digital",
+      "location": "Boppard",
+      "url": "https://www.arbeitnow.com/jobs/companies/hohn-digital/it-leiter-boppard-365798",
+      "source": "Arbeitnow",
+      "tags": [
+        "IT"
+      ],
+      "posted": "2026-07-21T14:30:28.000Z"
+    },
+    {
+      "id": "arbeitnow-kundenbetreuung-losungs-zufriedenheitsmanagement-berlin-179794",
+      "title": "Kundenbetreuung (m/w/d) – Lösungs- & Zufriedenheitsmanagement",
+      "company": "1KOMMA5˚",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/kundenbetreuung-losungs-zufriedenheitsmanagement-berlin-179794",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "posted": "2026-07-21T14:30:26.000Z"
+    },
+    {
+      "id": "arbeitnow-projektmanagerin-fur-wohnimmobilien-oldenburg-159672",
+      "title": "Projektmanager:in für Wohnimmobilien (m/w/d)",
+      "company": "ZukunftsWert Projektentwicklung GmbH",
+      "location": "Oldenburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/zukunftswert-projektentwicklung-gmbh/projektmanagerin-fur-wohnimmobilien-oldenburg-159672",
+      "source": "Arbeitnow",
+      "tags": [
+        "Project Management"
+      ],
+      "posted": "2026-07-21T14:29:03.000Z"
+    },
+    {
+      "id": "arbeitnow-schadlingsbekampfer-32000-45000-eur-dienstwagen-zur-privatnutzung-karlsruhe-443146",
+      "title": "Schädlingsbekämpfer (m/w/d) | 32.000 - 45.000 € + Dienstwagen zur Privatnutzung",
+      "company": "Riverstate Premium Recruiting",
+      "location": "Karlsruhe",
+      "url": "https://www.arbeitnow.com/jobs/companies/riverstate-premium-recruiting/schadlingsbekampfer-32000-45000-eur-dienstwagen-zur-privatnutzung-karlsruhe-443146",
+      "source": "Arbeitnow",
+      "tags": [
+        "Customer Service"
+      ],
+      "posted": "2026-07-21T14:00:29.000Z"
+    },
+    {
+      "id": "arbeitnow-consultant-finance-gn-tech-branche-berlin-374414",
+      "title": "Consultant Finance (gn) - Tech Branche",
+      "company": "Argus Search GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/argus-search-gmbh/consultant-finance-gn-tech-branche-berlin-374414",
+      "source": "Arbeitnow",
+      "tags": [
+        "Consulting"
+      ],
+      "posted": "2026-07-21T14:00:29.000Z"
+    },
+    {
+      "id": "arbeitnow-schadlingsbekampfer-32000-45000-eur-dienstwagen-zur-privatnutzung-rastatt-204480",
+      "title": "Schädlingsbekämpfer (m/w/d) | 32.000 - 45.000 € + Dienstwagen zur Privatnutzung",
+      "company": "Riverstate Premium Recruiting",
+      "location": "Rastatt",
+      "url": "https://www.arbeitnow.com/jobs/companies/riverstate-premium-recruiting/schadlingsbekampfer-32000-45000-eur-dienstwagen-zur-privatnutzung-rastatt-204480",
+      "source": "Arbeitnow",
+      "tags": [
+        "Customer Service"
+      ],
+      "posted": "2026-07-21T14:00:28.000Z"
+    },
+    {
+      "id": "arbeitnow-cfo-finance-praktikant-tax-eschborn-340948",
+      "title": "[CFO Finance] Praktikant Tax (m/w/d)",
+      "company": "LG Electronics Deutschland GmbH",
+      "location": "Eschborn",
+      "url": "https://www.arbeitnow.com/jobs/companies/lg-electronics-deutschland-gmbh/cfo-finance-praktikant-tax-eschborn-340948",
+      "source": "Arbeitnow",
+      "tags": [
+        "Finance"
+      ],
+      "posted": "2026-07-21T14:00:28.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-azure-cloud-platform-architect-nuremberg-415088",
+      "title": "Senior Azure Cloud Platform Architect (m/w/d)",
+      "company": "think about IT GmbH",
+      "location": "Nuremberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-azure-cloud-platform-architect-nuremberg-415088",
+      "source": "Arbeitnow",
+      "tags": [
+        "IT"
+      ],
+      "posted": "2026-07-21T14:00:28.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-microsoft-ai-copilot-engineer-nuremberg-145005",
+      "title": "Senior Microsoft AI & Copilot Engineer (m/w/d)",
+      "company": "think about IT GmbH",
+      "location": "Nuremberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-microsoft-ai-copilot-engineer-nuremberg-145005",
+      "source": "Arbeitnow",
+      "tags": [
+        "IT"
+      ],
+      "posted": "2026-07-21T14:00:28.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-microsoft-cloud-transformation-architect-nuremberg-258582",
+      "title": "Senior Microsoft Cloud Transformation Architect (m/w/d)",
+      "company": "think about IT GmbH",
+      "location": "Nuremberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-microsoft-cloud-transformation-architect-nuremberg-258582",
+      "source": "Arbeitnow",
+      "tags": [
+        "IT"
+      ],
+      "posted": "2026-07-21T14:00:28.000Z"
+    },
+    {
+      "id": "arbeitnow-team-lead-accounting-bochum-3719",
+      "title": "Team Lead Accounting (m/w/d)",
+      "company": "think about IT GmbH",
+      "location": "Bochum",
+      "url": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/team-lead-accounting-bochum-3719",
+      "source": "Arbeitnow",
+      "tags": [
+        "IT"
+      ],
+      "posted": "2026-07-21T14:00:27.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-it-administrator-bochum-145398",
+      "title": "Senior IT Administrator (m/w/d)",
+      "company": "think about IT GmbH",
+      "location": "Bochum",
+      "url": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-it-administrator-bochum-145398",
+      "source": "Arbeitnow",
+      "tags": [
+        "IT"
+      ],
+      "posted": "2026-07-21T14:00:27.000Z"
+    },
+    {
+      "id": "arbeitnow-service-desk-spezialist-onsite-in-koln-cologne-179240",
+      "title": "Service Desk Spezialist - Onsite in Köln (m/w/d)",
+      "company": "think about IT GmbH",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/service-desk-spezialist-onsite-in-koln-cologne-179240",
+      "source": "Arbeitnow",
+      "tags": [
+        "IT"
+      ],
+      "posted": "2026-07-21T14:00:27.000Z"
+    },
+    {
+      "id": "arbeitnow-it-system-engineer-bochum-385344",
+      "title": "IT-System Engineer (m/w/d)",
+      "company": "think about IT GmbH",
+      "location": "Bochum",
+      "url": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/it-system-engineer-bochum-385344",
+      "source": "Arbeitnow",
+      "tags": [
+        "IT"
+      ],
+      "posted": "2026-07-21T14:00:27.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-influencers-marketing-manager-maternity-cover-berlin-196990",
+      "title": "Senior Influencers Marketing Manager - maternity cover (m/f/d)",
+      "company": "Flix",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-influencers-marketing-manager-maternity-cover-berlin-196990",
+      "source": "Arbeitnow",
+      "tags": [],
+      "posted": "2026-07-21T13:45:28.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-influencers-marketing-manager-maternity-cover-munich-452072",
+      "title": "Senior Influencers Marketing Manager - maternity cover (m/f/d)",
+      "company": "Flix",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-influencers-marketing-manager-maternity-cover-munich-452072",
+      "source": "Arbeitnow",
+      "tags": [],
+      "posted": "2026-07-21T13:45:28.000Z"
+    },
+    {
+      "id": "arbeitnow-it-systemelektroniker-bochum-136251",
+      "title": "IT-Systemelektroniker (m/w/d)",
+      "company": "think about IT GmbH",
+      "location": "Bochum",
+      "url": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/it-systemelektroniker-bochum-136251",
+      "source": "Arbeitnow",
+      "tags": [
+        "IT"
+      ],
+      "posted": "2026-07-21T13:30:39.000Z"
+    },
+    {
+      "id": "arbeitnow-werkstudentin-marketing-und-social-media-munich-336739",
+      "title": "Werkstudent*in Marketing und Social Media",
+      "company": "BAVAROI Kultur + Produkt GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/bavaroi-kultur-produkt-gmbh/werkstudentin-marketing-und-social-media-munich-336739",
+      "source": "Arbeitnow",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "posted": "2026-07-21T13:30:38.000Z"
+    },
+    {
+      "id": "arbeitnow-vertriebsingenieurin-technical-sales-mngm-sicherheitstechnik-stuttgart-80000-100000-37958",
+      "title": "Vertriebsingenieur:in Technical Sales Mngm. Sicherheitstechnik, Stuttgart, 80.000-100.000",
+      "company": "wabcon",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/wabcon/vertriebsingenieurin-technical-sales-mngm-sicherheitstechnik-stuttgart-80000-100000-37958",
+      "source": "Arbeitnow",
+      "tags": [
+        "Sales Engineer"
+      ],
+      "posted": "2026-07-21T13:30:37.000Z"
+    },
+    {
+      "id": "arbeitnow-sap-lead-consultant-sap-transformation-digital-supply-chain-dusseldorf-93242",
+      "title": "SAP Lead Consultant (m/w/d) SAP Transformation & Digital Supply Chain",
+      "company": "Slenderiser GmbH",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/slenderiser-gmbh/sap-lead-consultant-sap-transformation-digital-supply-chain-dusseldorf-93242",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "SAP/ERP Consulting",
+        "Development"
+      ],
+      "posted": "2026-07-21T13:30:37.000Z"
+    },
+    {
+      "id": "arbeitnow-social-media-manager-content-community-partnerbetreuung-konigstein-im-taunus-59331",
+      "title": "Social Media Manager (m/w/d) - Content, Community & Partnerbetreuung",
+      "company": "ENERDOMO Franchisezentrale",
+      "location": "Königstein im Taunus",
+      "url": "https://www.arbeitnow.com/jobs/companies/enerdomo-franchisezentrale/social-media-manager-content-community-partnerbetreuung-konigstein-im-taunus-59331",
+      "source": "Arbeitnow",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "posted": "2026-07-21T13:30:37.000Z"
+    },
+    {
+      "id": "arbeitnow-kreditsachbearbeitung-rahden-284704",
+      "title": "Kreditsachbearbeitung (m/w/d)",
+      "company": "Volksbank PLUS eG",
+      "location": "Rahden",
+      "url": "https://www.arbeitnow.com/jobs/companies/volksbank-plus-eg/kreditsachbearbeitung-rahden-284704",
+      "source": "Arbeitnow",
+      "tags": [
+        "Credit Analysis"
+      ],
+      "posted": "2026-07-21T13:30:37.000Z"
+    },
+    {
+      "id": "arbeitnow-sap-logistik-consultant-dusseldorf-454230",
+      "title": "SAP Logistik Consultant (m/w/d)",
+      "company": "Slenderiser GmbH",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/slenderiser-gmbh/sap-logistik-consultant-dusseldorf-454230",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "SAP/ERP Consulting",
+        "Development"
+      ],
+      "posted": "2026-07-21T13:30:36.000Z"
+    },
+    {
+      "id": "arbeitnow-brand-content-designer-mediengestalter-bonn-17596",
+      "title": "Brand & Content Designer / Mediengestalter (m/w/d)",
+      "company": "GLOBAL FINANZ AG",
+      "location": "Bonn",
+      "url": "https://www.arbeitnow.com/jobs/companies/global-finanz-ag/brand-content-designer-mediengestalter-bonn-17596",
+      "source": "Arbeitnow",
+      "tags": [
+        "Graphic Arts and Communication Design"
+      ],
+      "posted": "2026-07-21T13:00:24.000Z"
+    },
+    {
+      "id": "arbeitnow-apotune-it-support-mit-schwerpunkt-ki-automatisierung-dorsten-79836",
+      "title": "ApoTune IT-Support mit Schwerpunkt KI & Automatisierung",
+      "company": "ApoTune GmbH",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/apotune-gmbh/apotune-it-support-mit-schwerpunkt-ki-automatisierung-dorsten-79836",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "System and Network Administration"
+      ],
+      "posted": "2026-07-21T13:00:23.000Z"
+    },
+    {
+      "id": "arbeitnow-compiler-software-engineer-bochum-423612",
+      "title": "Compiler / Software Engineer",
+      "company": "Variant Security",
+      "location": "Bochum",
+      "url": "https://www.arbeitnow.com/jobs/companies/variant-security/compiler-software-engineer-bochum-423612",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "posted": "2026-07-21T13:00:22.000Z"
+    },
+    {
+      "id": "arbeitnow-werkstudent-it-consultant-test-automation-hybrid-hamburg-102406",
+      "title": "Werkstudent IT Consultant (m/w/d) Test Automation - Hybrid (Hamburg)",
+      "company": "Nelta GmbH",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/nelta-gmbh/werkstudent-it-consultant-test-automation-hybrid-hamburg-102406",
+      "source": "Arbeitnow",
+      "tags": [
+        "Consulting",
+        "Engineering"
+      ],
+      "posted": "2026-07-21T12:30:34.000Z"
+    },
+    {
+      "id": "arbeitnow-team-lead-sdr-berlin-25260",
+      "title": "Team Lead SDR",
+      "company": "Techbiz Global",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global/team-lead-sdr-berlin-25260",
+      "source": "Arbeitnow",
+      "tags": [
+        "Management",
+        "Team Leader"
+      ],
+      "posted": "2026-07-21T12:30:34.000Z"
+    },
+    {
+      "id": "arbeitnow-l1-reports-engineer-berlin-372668",
+      "title": "L1- Reports Engineer",
+      "company": "Boardwise GmbH",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/l1-reports-engineer-berlin-372668",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "posted": "2026-07-21T12:30:34.000Z"
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-php-laravel-friedrichshafen-328486",
+      "title": "Full-Stack-Developer (PHP/Laravel)",
+      "company": "meinMPP GmbH",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/meinmpp-gmbh/full-stack-developer-php-laravel-friedrichshafen-328486",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Web Development"
+      ],
+      "posted": "2026-07-21T12:00:35.000Z"
+    },
+    {
+      "id": "arbeitnow-kundendienst-techniker-servicetechniker-im-aussendienst-pfungstadt-469048",
+      "title": "Kundendienst-Techniker / Servicetechniker im Außendienst (m/w/d)",
+      "company": "Hofmann Mess- und Auswuchttechnik GmbH & Co. KG",
+      "location": "Pfungstadt",
+      "url": "https://www.arbeitnow.com/jobs/companies/hofmann-mess-und-auswuchttechnik-gmbh-co-kg/kundendienst-techniker-servicetechniker-im-aussendienst-pfungstadt-469048",
+      "source": "Arbeitnow",
+      "tags": [
+        "Customer Service"
+      ],
+      "posted": "2026-07-21T12:00:35.000Z"
+    },
+    {
+      "id": "arbeitnow-kundendienst-techniker-servicetechniker-im-aussendienst-pfungstadt-58934",
+      "title": "Kundendienst-Techniker / Servicetechniker im Außendienst (m/w/d)",
+      "company": "Hofmann Mess- und Auswuchttechnik GmbH & Co. KG",
+      "location": "Pfungstadt",
+      "url": "https://www.arbeitnow.com/jobs/companies/hofmann-mess-und-auswuchttechnik-gmbh-co-kg/kundendienst-techniker-servicetechniker-im-aussendienst-pfungstadt-58934",
+      "source": "Arbeitnow",
+      "tags": [
+        "Customer Service"
+      ],
+      "posted": "2026-07-21T12:00:34.000Z"
+    },
+    {
+      "id": "arbeitnow-junior-projektmanager-teilprojektleiter-produktion-in-mannheim-1703-480146",
+      "title": "Junior Projektmanager / Teilprojektleiter (m/w/d) Produktion in Mannheim (1703)",
+      "company": "BRÜGGEN ENGINEERING GmbH",
+      "location": "Mannheim",
+      "url": "https://www.arbeitnow.com/jobs/companies/bruggen-engineering-gmbh/junior-projektmanager-teilprojektleiter-produktion-in-mannheim-1703-480146",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "posted": "2026-07-21T12:00:33.000Z"
+    },
+    {
+      "id": "arbeitnow-forward-deployed-engineer-integrations-customer-success-hamburg-98920",
+      "title": "Forward Deployed Engineer - Integrations & Customer Success (f/m/d)",
+      "company": "VOIDS Technology GmbH",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/voids-technology-gmbh/forward-deployed-engineer-integrations-customer-success-hamburg-98920",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "posted": "2026-07-21T12:00:33.000Z"
+    },
+    {
+      "id": "arbeitnow-berlin-office-manager-team-assistant-part-time-temporary-position-to-cover-parental-leave-mrge-296520",
+      "title": "Berlin Office Manager/Team Assistant (m/f/d) – Part-Time (Temporary Position to Cover Parental Leave) - mrge",
+      "company": "mrge - commerce advertising",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/mrge-commerce-advertising/berlin-office-manager-team-assistant-part-time-temporary-position-to-cover-parental-leave-mrge-296520",
+      "source": "Arbeitnow",
+      "tags": [
+        "HR"
+      ],
+      "posted": "2026-07-21T12:00:33.000Z"
+    },
+    {
+      "id": "arbeitnow-berlin-office-manager-team-assistant-part-time-temporary-position-to-cover-parental-leave-mrge-143856",
+      "title": "Berlin Office Manager/Team Assistant (m/f/d) – Part-Time (Temporary Position to Cover Parental Leave) - mrge",
+      "company": "mrge - commerce advertising",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/mrge-commerce-advertising/berlin-office-manager-team-assistant-part-time-temporary-position-to-cover-parental-leave-mrge-143856",
+      "source": "Arbeitnow",
+      "tags": [
+        "HR"
+      ],
+      "posted": "2026-07-21T12:00:33.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-consultant-it-development-inhouse-ochtrup-424750",
+      "title": "Senior Consultant IT & Development (Inhouse) (w/m/d)",
+      "company": "Right Search",
+      "location": "Ochtrup",
+      "url": "https://www.arbeitnow.com/jobs/companies/right-search/senior-consultant-it-development-inhouse-ochtrup-424750",
+      "source": "Arbeitnow",
+      "tags": [
+        "Consulting",
+        "Engineering"
+      ],
+      "posted": "2026-07-21T11:30:35.000Z"
+    },
+    {
+      "id": "arbeitnow-junior-seo-geo-consultant-in-einer-besonderen-online-marketing-agentur-cologne-85382",
+      "title": "Junior SEO / GEO Consultant (m/w/d) in einer besonderen Online Marketing Agentur",
+      "company": "morefire GmbH",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/morefire-gmbh/junior-seo-geo-consultant-in-einer-besonderen-online-marketing-agentur-cologne-85382",
+      "source": "Arbeitnow",
+      "tags": [
+        "Online Marketing"
+      ],
+      "posted": "2026-07-21T11:30:35.000Z"
+    },
+    {
+      "id": "arbeitnow-test-engineer-berlin-145343",
+      "title": "Test Engineer (m/w/d)",
+      "company": "citema systems GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/citema-systems-gmbh/test-engineer-berlin-145343",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "posted": "2026-07-21T11:30:35.000Z"
+    },
+    {
+      "id": "arbeitnow-geschaftsfuhrer-cfo-coo-eines-private-equity-finanzierten-produktionsunternehmens-mit-beteiligungsmoglichkeit-stuttgart-302719",
+      "title": "Geschäftsführer CFO & COO (m/w/d) eines Private-Equity-finanzierten Produktionsunternehmens mit Beteiligungsmöglichkeit",
+      "company": "MARCA Dienstleistung",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/marca-dienstleistung/geschaftsfuhrer-cfo-coo-eines-private-equity-finanzierten-produktionsunternehmens-mit-beteiligungsmoglichkeit-stuttgart-302719",
+      "source": "Arbeitnow",
+      "tags": [
+        "Directors",
+        "Chief Executives"
+      ],
+      "posted": "2026-07-21T11:30:34.000Z"
+    },
+    {
+      "id": "arbeitnow-technical-customer-support-specialist-level-2-berlin-228879",
+      "title": "Technical Customer Support Specialist (Level 2)",
+      "company": "NoDi GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/nodi-gmbh/technical-customer-support-specialist-level-2-berlin-228879",
+      "source": "Arbeitnow",
+      "tags": [
+        "Customer Service"
+      ],
+      "posted": "2026-07-21T11:30:34.000Z"
+    },
+    {
+      "id": "arbeitnow-service-desk-spezialist-onsite-in-koln-cologne-374223",
+      "title": "Service Desk Spezialist - Onsite in Köln (m/w/d)",
+      "company": "think about IT GmbH",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/service-desk-spezialist-onsite-in-koln-cologne-374223",
+      "source": "Arbeitnow",
+      "tags": [
+        "IT"
+      ],
+      "posted": "2026-07-21T11:30:32.000Z"
+    },
+    {
+      "id": "arbeitnow-leiter-alpina-classic-buchloe-401425",
+      "title": "Leiter ALPINA CLASSIC (m/w/d)",
+      "company": "ALPINA CLASSIC",
+      "location": "Buchloe",
+      "url": "https://www.arbeitnow.com/jobs/companies/alpina-classic/leiter-alpina-classic-buchloe-401425",
+      "source": "Arbeitnow",
+      "tags": [
+        "Management",
+        "Team Leader"
+      ],
+      "posted": "2026-07-21T11:30:30.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-social-media-managerin-gn-berlin-429695",
+      "title": "(Senior) Social Media Manager:in (gn)",
+      "company": "Intermate Media GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-social-media-managerin-gn-berlin-429695",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing and Communication"
+      ],
+      "posted": "2026-07-21T11:30:28.000Z"
+    },
+    {
+      "id": "arbeitnow-plc-programmierer-commissioning-engineer-berlin-289245",
+      "title": "PLC-Programmierer / Commissioning Engineer (m/w/d)",
+      "company": "Hanitel GmbH",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/hanitel-gmbh/plc-programmierer-commissioning-engineer-berlin-289245",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Consulting",
+        "Engineering"
+      ],
+      "posted": "2026-07-21T11:00:38.000Z"
+    },
+    {
+      "id": "arbeitnow-it-administration-devops-engineer-m-w-d-lemforde-307906",
+      "title": "IT-Administration / DevOps Engineer (m, w, d)",
+      "company": "SHERA Werkstoff-Technologie GmbH",
+      "location": "Lemförde",
+      "url": "https://www.arbeitnow.com/jobs/companies/shera-werkstoff-technologie-gmbh/it-administration-devops-engineer-m-w-d-lemforde-307906",
+      "source": "Arbeitnow",
+      "tags": [
+        "Administration"
+      ],
+      "posted": "2026-07-21T11:00:37.000Z"
+    },
+    {
+      "id": "arbeitnow-influencer-marketing-manager-paid-affiliate-werkstudent-bernhardswald-405456",
+      "title": "Influencer Marketing Manager - Paid & Affiliate (Werkstudent)",
+      "company": "zuerstGesund GmbH",
+      "location": "Bernhardswald",
+      "url": "https://www.arbeitnow.com/jobs/companies/zuerstgesund-gmbh/influencer-marketing-manager-paid-affiliate-werkstudent-bernhardswald-405456",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing and Communication"
+      ],
+      "posted": "2026-07-21T11:00:37.000Z"
+    },
+    {
+      "id": "arbeitnow-werkstudent-in-marketing-business-development-fur-am-taufkirchen-414573",
+      "title": "Werkstudent/in Marketing & Business Development für AM (m/w/d)",
+      "company": "APWORKS GmbH",
+      "location": "Taufkirchen",
+      "url": "https://www.arbeitnow.com/jobs/companies/apworks-gmbh/werkstudent-in-marketing-business-development-fur-am-taufkirchen-414573",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing and Communication"
+      ],
+      "posted": "2026-07-21T11:00:37.000Z"
+    },
+    {
+      "id": "arbeitnow-werkstudent-founders-associate-ai-business-development-berlin-96672",
+      "title": "Werkstudent Founders Associate / AI & Business Development (m/w/d)",
+      "company": "Lucid Labs",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/lucid-labs/werkstudent-founders-associate-ai-business-development-berlin-96672",
+      "source": "Arbeitnow",
+      "tags": [
+        "Business Development"
+      ],
+      "posted": "2026-07-21T11:00:36.000Z"
+    },
+    {
+      "id": "arbeitnow-director-public-relations-consumer-electronics-cologne-238566",
+      "title": "Director Public Relations (m/w/d) Consumer Electronics",
+      "company": "Palmer Hargreaves GmbH",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/palmer-hargreaves-gmbh/director-public-relations-consumer-electronics-cologne-238566",
+      "source": "Arbeitnow",
+      "tags": [
+        "Public Relations",
+        "Corporate Communication"
+      ],
+      "posted": "2026-07-21T10:31:49.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-project-lead-ki-beratung-berlin-443858",
+      "title": "(Senior) Project Lead - KI-Beratung  (m/w/d)",
+      "company": "Lucid Labs",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/lucid-labs/senior-project-lead-ki-beratung-berlin-443858",
+      "source": "Arbeitnow",
+      "tags": [
+        "Business Consulting"
+      ],
+      "posted": "2026-07-21T10:31:49.000Z"
+    },
+    {
+      "id": "arbeitnow-prozessverantwortlicher-logistik-oberkochen-470345",
+      "title": "Prozessverantwortlicher (m/w/d) Logistik",
+      "company": "Actana Consulting Services GmbH",
+      "location": "Oberkochen",
+      "url": "https://www.arbeitnow.com/jobs/companies/actana-consulting-services-gmbh/prozessverantwortlicher-logistik-oberkochen-470345",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "posted": "2026-07-21T10:31:48.000Z"
+    },
+    {
+      "id": "arbeitnow-leiter-finanzbuchhaltung-rechnungswesen-immobiliengruppe-berlin-92945",
+      "title": "Leiter Finanzbuchhaltung / Rechnungswesen (m/w/d) - Immobiliengruppe",
+      "company": "Trigon Gruppe GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/trigon-gruppe-gmbh/leiter-finanzbuchhaltung-rechnungswesen-immobiliengruppe-berlin-92945",
+      "source": "Arbeitnow",
+      "tags": [
+        "Management",
+        "Team Leader"
+      ],
+      "posted": "2026-07-21T10:31:48.000Z"
+    },
+    {
+      "id": "arbeitnow-technischer-property-manager-bauleiter-wohnimmobilien-berlin-222600",
+      "title": "Technischer Property Manager / Bauleiter (w/m/d) Wohnimmobilien",
+      "company": "Trigon Gruppe GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/trigon-gruppe-gmbh/technischer-property-manager-bauleiter-wohnimmobilien-berlin-222600",
+      "source": "Arbeitnow",
+      "tags": [
+        "Building",
+        "Supply",
+        "Safety Services Engineering"
+      ],
+      "posted": "2026-07-21T10:31:48.000Z"
+    },
+    {
+      "id": "arbeitnow-monitoring-observability-engineer-kiel-61148",
+      "title": "Monitoring & Observability Engineer (m/w/x)",
+      "company": "K-tronik GmbH",
+      "location": "Kiel",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/monitoring-observability-engineer-kiel-61148",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "posted": "2026-07-21T10:31:48.000Z"
+    },
+    {
+      "id": "arbeitnow-test-engineer-berlin-441120",
+      "title": "Test Engineer (w/m/x)",
+      "company": "K-tronik GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/test-engineer-berlin-441120",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "posted": "2026-07-21T10:31:48.000Z"
+    },
+    {
+      "id": "arbeitnow-junior-it-supporter-1st-2nd-level-weissensberg-141244",
+      "title": "Junior IT-Supporter (m/w/d) 1st/2nd Level",
+      "company": "tecnotron elektronik gmbh",
+      "location": "Weißensberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecnotron-elektronik-gmbh/junior-it-supporter-1st-2nd-level-weissensberg-141244",
+      "source": "Arbeitnow",
+      "tags": [
+        "Helpdesk"
+      ],
+      "posted": "2026-07-21T10:00:32.000Z"
+    },
+    {
+      "id": "arbeitnow-social-media-marketing-praktikum-cologne-223199",
+      "title": "Social Media Marketing Praktikum (m/w/d)",
+      "company": "STARTPLATZ AI Academy",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/startplatz-ai-academy/social-media-marketing-praktikum-cologne-223199",
+      "source": "Arbeitnow",
+      "tags": [
+        "Online Marketing"
+      ],
+      "posted": "2026-07-21T10:00:32.000Z"
+    },
+    {
+      "id": "arbeitnow-it-support-specialist-systemadministration-koordination-1st-2nd-level-weissensberg-85642",
+      "title": "IT Support Specialist (m/w/d) - Systemadministration / Koordination (m/w/d) (1st/2nd Level)",
+      "company": "tecnotron elektronik gmbh",
+      "location": "Weißensberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecnotron-elektronik-gmbh/it-support-specialist-systemadministration-koordination-1st-2nd-level-weissensberg-85642",
+      "source": "Arbeitnow",
+      "tags": [
+        "Helpdesk"
+      ],
+      "posted": "2026-07-21T10:00:32.000Z"
+    },
+    {
+      "id": "arbeitnow-werkstudent-creative-marketing-design-berlin-233495",
+      "title": "Werkstudent Creative / Marketing Design (m/w/d)",
+      "company": "Apricot Health GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/apricot-health-gmbh/werkstudent-creative-marketing-design-berlin-233495",
+      "source": "Arbeitnow",
+      "tags": [
+        "Graphic Arts and Communication Design"
+      ],
+      "posted": "2026-07-21T10:00:32.000Z"
+    },
+    {
+      "id": "arbeitnow-customer-success-manager-berlin-183182",
+      "title": "Customer Success Manager",
+      "company": "ARC Intelligence GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/arc-intelligence-gmbh/customer-success-manager-berlin-183182",
+      "source": "Arbeitnow",
+      "tags": [
+        "Consulting",
+        "Engineering"
+      ],
+      "posted": "2026-07-21T10:00:32.000Z"
+    },
+    {
+      "id": "arbeitnow-projektleiter-service-hosbach-137787",
+      "title": "Projektleiter Service (m/w/d)",
+      "company": "Göhler GmbH & Co. KG, Anlagentechnik",
+      "location": "Hösbach",
+      "url": "https://www.arbeitnow.com/jobs/companies/gohler-gmbh-co-kg-anlagentechnik/projektleiter-service-hosbach-137787",
+      "source": "Arbeitnow",
+      "tags": [
+        "IT"
+      ],
+      "posted": "2026-07-21T09:30:41.000Z"
+    },
+    {
+      "id": "arbeitnow-werkstudentin-youtube-growth-analytics-mainz-282681",
+      "title": "Werkstudent:in YouTube Growth & Analytics (m/w/d)",
+      "company": "HitchOn",
+      "location": "Mainz",
+      "url": "https://www.arbeitnow.com/jobs/companies/hitchon/werkstudentin-youtube-growth-analytics-mainz-282681",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing and Communication"
+      ],
+      "posted": "2026-07-21T09:00:32.000Z"
+    },
+    {
+      "id": "arbeitnow-praktikum-werkstudententatigkeit-recruiting-personalberatung-munich-98675",
+      "title": "Praktikum / Werkstudententätigkeit Recruiting & Personalberatung (m/w/d)",
+      "company": "ANDERS CONSULTING & Cie. GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/anders-consulting-cie-gmbh/praktikum-werkstudententatigkeit-recruiting-personalberatung-munich-98675",
+      "source": "Arbeitnow",
+      "tags": [
+        "Consulting"
+      ],
+      "posted": "2026-07-21T09:00:32.000Z"
+    },
+    {
+      "id": "arbeitnow-compensation-benefits-specialist-munich-43331",
+      "title": "Compensation & Benefits Specialist (m/w/d)",
+      "company": "Glasford International Deutschland GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/glasford-international-deutschland-gmbh/compensation-benefits-specialist-munich-43331",
+      "source": "Arbeitnow",
+      "tags": [
+        "HR"
+      ],
+      "posted": "2026-07-21T09:00:31.000Z"
+    },
+    {
+      "id": "arbeitnow-fpga-software-entwickler-fur-video-bildverarbeitung-geretsried-390153",
+      "title": "FPGA Software Entwickler für Video / Bildverarbeitung (m/w/d)",
+      "company": "Lucius & Baer GmbH",
+      "location": "Geretsried",
+      "url": "https://www.arbeitnow.com/jobs/companies/lucius-baer-gmbh/fpga-software-entwickler-fur-video-bildverarbeitung-geretsried-390153",
+      "source": "Arbeitnow",
+      "tags": [
+        "Development"
+      ],
+      "posted": "2026-07-21T09:00:31.000Z"
+    },
+    {
+      "id": "arbeitnow-full-stack-software-engineer-software-systems-munich-243719",
+      "title": "Full Stack Software Engineer (m/w/d) Software Systems",
+      "company": "citema systems GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/citema-systems-gmbh/full-stack-software-engineer-software-systems-munich-243719",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "posted": "2026-07-21T09:00:30.000Z"
+    },
+    {
+      "id": "arbeitnow-working-student-business-operations-growth-oberhaching-341937",
+      "title": "Working Student (m/w/d) Business Operations & Growth",
+      "company": "PFASuiki GmbH",
+      "location": "Oberhaching",
+      "url": "https://www.arbeitnow.com/jobs/companies/pfasuiki-gmbh/working-student-business-operations-growth-oberhaching-341937",
+      "source": "Arbeitnow",
+      "tags": [
+        "Business Operations"
+      ],
+      "posted": "2026-07-21T09:00:30.000Z"
+    },
+    {
+      "id": "remoteok-1135165",
+      "title": "Designer Residential",
+      "company": "NORR",
+      "location": "Edmonton, Edmonton, Alberta, Canada",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-residential-norr-1135165",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "designer",
+        "dev",
+        "marketing",
+        "education",
+        "photoshop",
+        "engineer",
+        "digital nomad"
+      ],
+      "posted": "2026-07-21T06:03:24+00:00"
+    },
+    {
+      "id": "remoteok-1135131",
+      "title": "sdgsdg",
+      "company": "Better Rehab",
+      "location": "Mount Hawthorn, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-sdgsdg-better-rehab-1135131",
+      "source": "RemoteOK",
+      "tags": [],
+      "posted": "2026-07-21T05:13:20+00:00"
+    },
+    {
+      "id": "remoteok-1135133",
+      "title": "Customer Experience Specialist",
+      "company": "DraftKings Inc.",
+      "location": "Massachusetts, Massachusetts, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-experience-specialist-draftkings-inc-1135133",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "game dev",
+        "recruiter",
+        "customer support",
+        "testing",
+        "microsoft",
+        "ops",
+        "stats",
+        "full time",
+        "non tech"
+      ],
+      "posted": "2026-07-21T04:03:19+00:00"
+    },
+    {
+      "id": "remoteok-1135132",
+      "title": "Auxiliar de Relacionamento Cirurgias Corporativo SP",
+      "company": "Rede D'Or",
+      "location": "SÃ£o Paulo, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-auxiliar-de-relacionamento-cirurgias-corporativo-sp-rede-dor-1135132",
+      "source": "RemoteOK",
+      "tags": [
+        "excel",
+        "non tech"
+      ],
+      "posted": "2026-07-21T03:10:39+00:00"
+    },
+    {
+      "id": "remoteok-1135137",
+      "title": "Insta",
+      "company": "Hakatemia",
+      "location": "Jonai, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-insta-hakatemia-1135137",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "technical",
+        "customer support",
+        "ops"
+      ],
+      "posted": "2026-07-21T03:05:29+00:00"
+    },
+    {
+      "id": "remoteok-1135148",
+      "title": "Nixu",
+      "company": "Hakatemia",
+      "location": "Jonai, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-nixu-hakatemia-1135148",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "technical",
+        "customer support",
+        "ops"
+      ],
+      "posted": "2026-07-21T03:05:24+00:00"
+    },
+    {
+      "id": "remoteok-1135136",
+      "title": "ACCENTURE",
+      "company": "Hakatemia",
+      "location": "Jonai, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-accenture-hakatemia-1135136",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "technical",
+        "customer support",
+        "ops"
+      ],
+      "posted": "2026-07-21T03:05:10+00:00"
+    },
+    {
+      "id": "remoteok-1135142",
+      "title": "Rippling",
+      "company": "StackAmplify",
+      "location": "Anupgarh, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-rippling-stackamplify-1135142",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "technical",
+        "customer support",
+        "ops",
+        "testing",
+        "exec",
+        "video",
+        "golang",
+        "hr",
+        "sys admin",
+        "payroll",
+        "api",
+        "admin",
+        "mobile",
+        "android",
+        "stats",
+        "legal",
+        "full time",
+        "dev",
+        "design",
+        "finance",
+        "microsoft",
+        "sales",
+        "recruiter",
+        "digital nomad"
+      ],
+      "posted": "2026-07-21T02:32:47+00:00"
+    },
+    {
+      "id": "remoteok-1135124",
+      "title": "Leeds",
+      "company": "Suzuki Garphyttan Wire ï¼Suzhouï¼ Co., Ltd           éæ¨å æ®è¾é¢ä¸ï¼èå·ï¼æéå¬å¸",
+      "location": "Wideopen, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-leeds-suzuki-garphyttan-wire-suzhou-co-ltd-1135124",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "recruiter"
+      ],
+      "posted": "2026-07-20T23:33:09+00:00"
+    },
+    {
+      "id": "remoteok-1135129",
+      "title": "Head of People",
+      "company": "Bizee",
+      "location": "Houston, Houston, Texas, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-people-bizee-1135129",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "customer support",
+        "video",
+        "exec",
+        "content writing",
+        "digital nomad",
+        "saas",
+        "hr",
+        "sys admin",
+        "marketing",
+        "payroll",
+        "education",
+        "ops",
+        "legal",
+        "medical"
+      ],
+      "posted": "2026-07-20T23:14:28+00:00"
+    },
+    {
+      "id": "remoteok-1135130",
+      "title": "Testing Recommendation Step",
+      "company": "Jacobs",
+      "location": "Anchorage, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-testing-recommendation-step-jacobs-1135130",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "design",
+        "infosec",
+        "education",
+        "customer support",
+        "ops",
+        "medical",
+        "recruiter",
+        "digital nomad"
+      ],
+      "posted": "2026-07-20T23:13:18+00:00"
+    },
+    {
+      "id": "remoteok-1135143",
+      "title": "Freelance Creative Operations Coordinator",
+      "company": "Klick",
+      "location": "Toronto, Toronto, Ontario, Canada",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-creative-operations-coordinator-klick-1135143",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "sys admin",
+        "consulting",
+        "coordinator",
+        "customer support",
+        "exec",
+        "education",
+        "senior",
+        "ops",
+        "medical",
+        "recruiter",
+        "digital nomad"
+      ],
+      "posted": "2026-07-20T22:39:44+00:00"
+    },
+    {
+      "id": "remoteok-1135113",
+      "title": "Dietician",
+      "company": "MantraCare",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-dietician-mantracare-1135113",
+      "source": "RemoteOK",
+      "tags": [
+        "product manager",
+        "exec",
+        "dev",
+        "digital nomad",
+        "part time"
+      ],
+      "posted": "2026-07-20T22:02:08+00:00"
+    },
+    {
+      "id": "remoteok-1135112",
+      "title": "Product Manager",
+      "company": "360Dialog",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-360dialog-1135112",
+      "source": "RemoteOK",
+      "tags": [
+        "product manager",
+        "exec",
+        "dev",
+        "digital nomad"
+      ],
+      "posted": "2026-07-20T22:00:50+00:00"
+    },
+    {
+      "id": "remoteok-1135120",
+      "title": "Handyman",
+      "company": "The Construction Index Ltd",
+      "location": "Weymouth, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-handyman-the-construction-index-ltd-1135120",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "content writing",
+        "ops",
+        "sales",
+        "engineer",
+        "full time"
+      ],
+      "posted": "2026-07-20T21:22:54+00:00"
+    },
+    {
+      "id": "remoteok-1135119",
+      "title": "Dream Job",
+      "company": "Freestar",
+      "location": "Canada, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-dream-job-freestar-1135119",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "content writing",
+        "ops",
+        "sales",
+        "engineer",
+        "full time"
+      ],
+      "posted": "2026-07-20T21:00:20+00:00"
+    },
+    {
+      "id": "remoteok-1135109",
+      "title": "Human Resources Generalist",
+      "company": "Wheeler Staffing Partners",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-wheeler-staffing-partners-1135109",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "designer",
+        "adult",
+        "exec",
+        "photoshop",
+        "illustrator",
+        "digital nomad",
+        "hr",
+        "consulting",
+        "customer support",
+        "accounting",
+        "payroll",
+        "finance",
+        "microsoft",
+        "ops",
+        "excel",
+        "medical"
+      ],
+      "posted": "2026-07-20T20:09:48+00:00"
+    },
+    {
+      "id": "remoteok-1135128",
+      "title": "Freelance Video Editer",
+      "company": "Control Shift Video",
+      "location": "Texas, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-video-editer-control-shift-video-1135128",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "customer support",
+        "video",
+        "exec",
+        "content writing",
+        "digital nomad"
+      ],
+      "posted": "2026-07-20T19:11:46+00:00"
+    },
+    {
+      "id": "remoteok-1135110",
+      "title": "Freelance Illustrator",
+      "company": "Control Shift Video",
+      "location": "Texas, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-illustrator-control-shift-video-1135110",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "designer",
+        "adult",
+        "exec",
+        "photoshop",
+        "illustrator",
+        "digital nomad",
+        "hr",
+        "consulting",
+        "customer support",
+        "accounting",
+        "payroll",
+        "finance",
+        "microsoft",
+        "ops",
+        "excel",
+        "medical",
+        "technical",
+        "web dev",
+        "video",
+        "content writing"
+      ],
+      "posted": "2026-07-20T19:11:44+00:00"
+    },
+    {
+      "id": "remoteok-1135125",
+      "title": "Programa de EstÃ¡gio Banco B3",
+      "company": "Universia Brasil",
+      "location": "SÃ£o Paulo, SÃ£o Paulo, SÃ£o Paulo, Brasil",
+      "url": "https://remoteOK.com/remote-jobs/remote-programa-de-estagio-banco-b3-universia-brasil-1135125",
+      "source": "RemoteOK",
+      "tags": [],
+      "posted": "2026-07-20T17:55:06+00:00"
+    },
+    {
+      "id": "remoteok-1135104",
+      "title": "Logistics & Supply Chain Management Expert",
+      "company": "YO HR Consultancy",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-logistics-supply-chain-management-expert-yo-hr-consultancy-1135104",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "consulting",
+        "exec"
+      ],
+      "posted": "2026-07-20T17:08:01+00:00"
+    },
+    {
+      "id": "remoteok-1135105",
+      "title": "General Labour",
+      "company": "Aecon Group Inc.",
+      "location": "Christ Church, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-labour-aecon-group-inc-1135105",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "exec",
+        "ops"
+      ],
+      "posted": "2026-07-20T16:43:06+00:00"
+    },
+    {
+      "id": "remoteok-1135106",
+      "title": "Storekeeper",
+      "company": "Aecon Group Inc.",
+      "location": "Speightstown, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-storekeeper-aecon-group-inc-1135106",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "exec",
+        "ops",
+        "supervisor",
+        "microsoft",
+        "excel"
+      ],
+      "posted": "2026-07-20T16:43:06+00:00"
+    },
+    {
+      "id": "remoteok-1135108",
+      "title": "Finance &amp; HR Specialist",
+      "company": "TechHuman",
+      "location": "San Antonio, San Antonio, Texas Metropolitan Area",
+      "url": "https://remoteOK.com/remote-jobs/remote-finance-amp-hr-specialist-techhuman-1135108",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "designer",
+        "adult",
+        "exec",
+        "photoshop",
+        "illustrator",
+        "digital nomad",
+        "hr",
+        "consulting",
+        "customer support",
+        "accounting",
+        "payroll",
+        "finance",
+        "microsoft",
+        "ops",
+        "excel",
+        "medical"
+      ],
+      "posted": "2026-07-20T15:43:34+00:00"
+    },
+    {
+      "id": "remoteok-1135172",
+      "title": "Creator Manager",
+      "company": "Grail Talent",
+      "location": "Greater London, Greater London, England, United Kingdom",
+      "url": "https://remoteOK.com/remote-jobs/remote-creator-manager-grail-talent-1135172",
+      "source": "RemoteOK",
+      "tags": [
+        "consulting",
+        "exec",
+        "marketing",
+        "design",
+        "designer",
+        "customer support",
+        "content writing",
+        "photoshop",
+        "ads",
+        "illustrator",
+        "digital nomad",
+        "virtual assistant",
+        "travel",
+        "finance",
+        "senior",
+        "engineer",
+        "amazon",
+        "music",
+        "dev",
+        "video",
+        "stats",
+        "sales"
+      ],
+      "posted": "2026-07-20T15:32:45+00:00"
+    },
+    {
+      "id": "remoteok-1135116",
+      "title": "Social Media Content Creator",
+      "company": "Hic",
+      "location": "Milano, Milano, Lombardia, Italia",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-content-creator-hic-1135116",
+      "source": "RemoteOK",
+      "tags": [
+        "product manager",
+        "exec",
+        "dev",
+        "digital nomad",
+        "part time",
+        "design",
+        "saas",
+        "infosec",
+        "marketing",
+        "finance",
+        "scheme",
+        "bus dev",
+        "sales",
+        "medical",
+        "shopify",
+        "speech",
+        "content writing",
+        "golang",
+        "social media"
+      ],
+      "posted": "2026-07-20T15:17:52+00:00"
+    },
+    {
+      "id": "remoteok-1135102",
+      "title": "Don't see an open position you'd like fill",
+      "company": "DBOS, Inc.",
+      "location": "Cambridge, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-dont-see-an-open-position-youd-like-fill-dbos-inc-1135102",
+      "source": "RemoteOK",
+      "tags": [
+        "python",
+        "java",
+        "postgres",
+        "typescript",
+        "golang"
+      ],
+      "posted": "2026-07-20T14:08:24+00:00"
+    },
+    {
+      "id": "remoteok-1135134",
+      "title": "Head of Marketing Fragrance &amp; Beauty",
+      "company": "CHANEL",
+      "location": "New York, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-marketing-fragrance-amp-beauty-chanel-1135134",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "game dev",
+        "recruiter",
+        "customer support",
+        "testing",
+        "microsoft",
+        "ops",
+        "stats",
+        "full time",
+        "non tech",
+        "technical",
+        "marketing",
+        "travel",
+        "speech",
+        "finance",
+        "exec",
+        "sales",
+        "medical",
+        "internship"
+      ],
+      "posted": "2026-07-20T14:02:37+00:00"
+    },
+    {
+      "id": "remoteok-1135114",
+      "title": "Docente Doctor a Online en InvestigaciÃ³n Educativa",
+      "company": "Universidad Europea",
+      "location": "Villaviciosa de OdÃ³n, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-docente-doctor-a-online-en-investigacion-educativa-universidad-europea-1135114",
+      "source": "RemoteOK",
+      "tags": [
+        "product manager",
+        "exec",
+        "dev",
+        "digital nomad",
+        "part time"
+      ],
+      "posted": "2026-07-20T13:52:38+00:00"
+    },
+    {
+      "id": "remoteok-1135107",
+      "title": "Designer",
+      "company": "Simon and Schuster Books",
+      "location": "New York, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-simon-and-schuster-books-1135107",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "designer",
+        "adult",
+        "exec",
+        "photoshop",
+        "illustrator",
+        "digital nomad"
+      ],
+      "posted": "2026-07-20T10:49:53+00:00"
+    },
+    {
+      "id": "remoteok-1135183",
+      "title": "Customer Support",
+      "company": "Re Lytics HR",
+      "location": "Ø§ÙÙØ¯ÙÙØ©, Ø§ÙÙØ¯ÙÙØ© Ø§ÙÙØ¯ÙÙØ© Ø§ÙØ³Ø¹ÙØ¯ÙØ©",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-re-lytics-hr-1135183",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "customer support",
+        "exec",
+        "education",
+        "marketing",
+        "sales",
+        "medical",
+        "virtual assistant",
+        "design",
+        "testing",
+        "travel",
+        "php",
+        "microsoft",
+        "content writing",
+        "ops",
+        "digital nomad",
+        "hr",
+        "technical"
+      ],
+      "posted": "2026-07-20T08:20:02+00:00"
+    },
+    {
+      "id": "remoteok-1135111",
+      "title": "Entry Level Administrative Assistant",
+      "company": "Re Lytics HR",
+      "location": "Ø§ÙÙØ¯ÙÙØ©, Ø§ÙÙØ¯ÙÙØ© Ø§ÙÙØ¯ÙÙØ© Ø§ÙØ³Ø¹ÙØ¯ÙØ©",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-re-lytics-hr-1135111",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "virtual assistant",
+        "education",
+        "customer support",
+        "marketing",
+        "video",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel"
+      ],
+      "posted": "2026-07-20T08:19:30+00:00"
+    },
+    {
+      "id": "remoteok-1135138",
+      "title": "Test ABC",
+      "company": "Expeditors",
+      "location": "éå², ",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-abc-expeditors-1135138",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "technical",
+        "customer support",
+        "ops",
+        "testing",
+        "exec"
+      ],
+      "posted": "2026-07-20T07:32:35+00:00"
+    },
+    {
+      "id": "remoteok-1135121",
+      "title": "I will create chrome extension for you",
+      "company": "Kennflik",
+      "location": "Moor, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-i-will-create-chrome-extension-for-you-kennflik-1135121",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "content writing",
+        "ops",
+        "sales",
+        "engineer",
+        "full time",
+        "marketing"
+      ],
+      "posted": "2026-07-20T06:59:33+00:00"
+    },
+    {
+      "id": "remoteok-1135117",
+      "title": "Sales Director Europe",
+      "company": "iPiD",
+      "location": "Madrid, Madrid, Comunidad de Madrid, EspaÃ±a",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-director-europe-ipid-1135117",
+      "source": "RemoteOK",
+      "tags": [
+        "product manager",
+        "exec",
+        "dev",
+        "digital nomad",
+        "part time",
+        "design",
+        "saas",
+        "infosec",
+        "marketing",
+        "finance",
+        "scheme",
+        "bus dev",
+        "sales",
+        "medical",
+        "shopify",
+        "speech",
+        "content writing",
+        "golang",
+        "social media",
+        "hr",
+        "swift",
+        "technical",
+        "testing",
+        "c",
+        "api",
+        "microsoft",
+        "senior",
+        "engineer",
+        "recruiter"
+      ],
+      "posted": "2026-07-20T06:07:25+00:00"
+    },
+    {
+      "id": "remoteok-1135122",
+      "title": "MyBuilder",
+      "company": "Mr Pape",
+      "location": "Penzance, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-mybuilder-mr-pape-1135122",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "content writing",
+        "ops",
+        "sales",
+        "engineer",
+        "full time",
+        "marketing",
+        "music",
+        "customer support",
+        "video"
+      ],
+      "posted": "2026-07-20T06:04:28+00:00"
+    },
+    {
+      "id": "remoteok-1135140",
+      "title": "Freenow",
+      "company": "Mr Pape",
+      "location": "Tilhar, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-freenow-mr-pape-1135140",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "technical",
+        "customer support",
+        "ops",
+        "testing",
+        "exec",
+        "video",
+        "golang"
+      ],
+      "posted": "2026-07-20T06:03:25+00:00"
+    },
+    {
+      "id": "remoteok-1135083",
+      "title": "Papaya",
+      "company": "Mr Pape",
+      "location": "Swing Bridge, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-papaya-mr-pape-1135083",
+      "source": "RemoteOK",
+      "tags": [
+        "music",
+        "customer support",
+        "video",
+        "non tech"
+      ],
+      "posted": "2026-07-20T06:02:48+00:00"
+    },
+    {
+      "id": "remoteok-1135082",
+      "title": "Uber Eats",
+      "company": "Mr Pape",
+      "location": "Luck Enough, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-uber-eats-mr-pape-1135082",
+      "source": "RemoteOK",
+      "tags": [
+        "music",
+        "customer support",
+        "video",
+        "non tech"
+      ],
+      "posted": "2026-07-20T06:02:43+00:00"
+    },
+    {
+      "id": "remoteok-1135139",
+      "title": "KFC",
+      "company": "Mr Pape",
+      "location": "Kalka, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-kfc-mr-pape-1135139",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "technical",
+        "customer support",
+        "ops",
+        "testing",
+        "exec",
+        "video",
+        "golang"
+      ],
+      "posted": "2026-07-20T06:02:22+00:00"
+    },
+    {
+      "id": "remoteok-1135185",
+      "title": "Project Management Officer",
+      "company": "Glints",
+      "location": "Jakarta Raya, Jakarta Raya, Indonesia",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-management-officer-glints-1135185",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "customer support",
+        "exec",
+        "education",
+        "marketing",
+        "sales",
+        "medical",
+        "virtual assistant",
+        "design",
+        "testing",
+        "travel",
+        "php",
+        "microsoft",
+        "content writing",
+        "ops",
+        "digital nomad",
+        "hr",
+        "technical",
+        "project manager",
+        "dev"
+      ],
+      "posted": "2026-07-20T03:47:47+00:00"
+    },
+    {
+      "id": "remoteok-1135101",
+      "title": "Open sollicitatie",
+      "company": "Hibernis",
+      "location": "Content, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-open-sollicitatie-hibernis-1135101",
+      "source": "RemoteOK",
+      "tags": [],
+      "posted": "2026-07-20T02:50:42+00:00"
+    },
+    {
+      "id": "remoteok-1135153",
+      "title": "Manufacturing",
+      "company": "STAFFEASE, INC.",
+      "location": "Malerkotla, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-manufacturing-staffease-inc-1135153",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "technical",
+        "customer support",
+        "ops",
+        "design",
+        "digital nomad",
+        "hr",
+        "travel",
+        "exec",
+        "golang"
+      ],
+      "posted": "2026-07-20T00:37:11+00:00"
+    },
+    {
+      "id": "remoteok-1135077",
+      "title": "Analista CobranÃ§a Jr Remoto",
+      "company": "SuperlÃ³gica Tecnologias",
+      "location": "Brasil, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-cobranca-jr-remoto-superlogica-tecnologias-1135077",
+      "source": "RemoteOK",
+      "tags": [],
+      "posted": "2026-07-20T00:12:33+00:00"
+    },
+    {
+      "id": "remoteok-1135076",
+      "title": "Representante de Vendas Educacionais",
+      "company": "Kodland",
+      "location": "Brasil, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-representante-de-vendas-educacionais-kodland-1135076",
+      "source": "RemoteOK",
+      "tags": [],
+      "posted": "2026-07-20T00:12:17+00:00"
+    },
+    {
+      "id": "remoteok-1135156",
+      "title": "Cashier",
+      "company": "City of Santa Fe Springs",
+      "location": "St Thomas, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-cashier-city-of-santa-fe-springs-1135156",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "accounting",
+        "education",
+        "non tech"
+      ],
+      "posted": "2026-07-20T00:00:00+00:00"
+    },
+    {
+      "id": "remoteok-1135069",
+      "title": "Data Mapping Analyst",
+      "company": "Buyers Edge Platform, LLC",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-mapping-analyst-buyers-edge-platform-llc-1135069",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "dev",
+        "exec",
+        "ops",
+        "stats",
+        "sys admin",
+        "digital nomad"
+      ],
+      "posted": "2026-07-19T22:00:14+00:00"
+    },
+    {
+      "id": "remoteok-1135067",
+      "title": "Night Cleaning Crew",
+      "company": "Billings Family YMCA",
+      "location": "Good Night, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-night-cleaning-crew-billings-family-ymca-1135067",
+      "source": "RemoteOK",
+      "tags": [
+        "ops",
+        "exec"
+      ],
+      "posted": "2026-07-19T20:09:45+00:00"
+    },
+    {
+      "id": "remoteok-1135063",
+      "title": "HR Manager Fast Growing E Commerce Startup",
+      "company": "Skinnify",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hr-manager-fast-growing-e-commerce-startup-skinnify-1135063",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "exec",
+        "ecommerce"
+      ],
+      "posted": "2026-07-19T19:02:18+00:00"
+    },
+    {
+      "id": "remoteok-1135061",
+      "title": "Applied AI Product Strategy & Revenue Lead",
+      "company": "Prime Intellect",
+      "location": "San Francisco",
+      "url": "https://remoteOK.com/remote-jobs/remote-applied-ai-product-strategy-revenue-lead-prime-intellect-1135061",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "education",
+        "full stack",
+        "exec",
+        "technical",
+        "customer support",
+        "dev",
+        "finance",
+        "legal",
+        "sales",
+        "golang",
+        "engineer",
+        "digital nomad"
+      ],
+      "posted": "2026-07-19T16:00:03+00:00"
+    },
+    {
+      "id": "remoteok-1135060",
+      "title": "Closer SaaS B2B",
+      "company": "Buzzmonitor",
+      "location": "Brasil, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-closer-saas-b2b-buzzmonitor-1135060",
+      "source": "RemoteOK",
+      "tags": [
+        "saas"
+      ],
+      "posted": "2026-07-19T15:08:39+00:00"
+    },
+    {
+      "id": "remoteok-1135059",
+      "title": "Analista Comercial Jr I Vendas & Relacionamento",
+      "company": "Bling",
+      "location": "Brasil, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-comercial-jr-i-vendas-relacionamento-bling-1135059",
+      "source": "RemoteOK",
+      "tags": [],
+      "posted": "2026-07-19T15:02:04+00:00"
+    },
+    {
+      "id": "remoteok-1135064",
+      "title": "Safety Investigation Specialist II",
+      "company": "Uber",
+      "location": "Visakhapatnam Rural mandal, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-safety-investigation-specialist-ii-uber-1135064",
+      "source": "RemoteOK",
+      "tags": [
+        "recruiter",
+        "legal",
+        "full time",
+        "non tech"
+      ],
+      "posted": "2026-07-19T13:46:56+00:00"
+    },
+    {
+      "id": "remoteok-1135157",
+      "title": "Job 5",
+      "company": "TSC Travels",
+      "location": "Cambridge, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-5-tsc-travels-1135157",
+      "source": "RemoteOK",
+      "tags": [],
+      "posted": "2026-07-19T13:22:30+00:00"
+    },
+    {
+      "id": "remoteok-1135159",
+      "title": "Job 4",
+      "company": "TSC Travels",
+      "location": "London, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-4-tsc-travels-1135159",
+      "source": "RemoteOK",
+      "tags": [],
+      "posted": "2026-07-19T13:22:26+00:00"
+    },
+    {
+      "id": "remoteok-1135054",
+      "title": "Consultor Comercial",
+      "company": "Kodland",
+      "location": "Brasil, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-consultor-comercial-kodland-1135054",
+      "source": "RemoteOK",
+      "tags": [],
+      "posted": "2026-07-19T11:07:46+00:00"
+    },
+    {
+      "id": "remoteok-1135073",
+      "title": "Data Entry Assistant",
+      "company": "JobsInMass.com",
+      "location": "Beverly, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-assistant-jobsinmass-com-1135073",
+      "source": "RemoteOK",
+      "tags": [
+        "data entry",
+        "education",
+        "customer support",
+        "dev",
+        "marketing",
+        "travel",
+        "microsoft",
+        "exec",
+        "excel",
+        "recruiter",
+        "full time",
+        "part time",
+        "digital nomad",
+        "infosec",
+        "admin",
+        "virtual assistant"
+      ],
+      "posted": "2026-07-19T08:37:11+00:00"
+    },
+    {
+      "id": "remoteok-1135071",
+      "title": "Entry Level Data Entry Clerk Admin",
+      "company": "JobsInMass.com",
+      "location": "Beverly, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-data-entry-clerk-admin-jobsinmass-com-1135071",
+      "source": "RemoteOK",
+      "tags": [
+        "data entry",
+        "education",
+        "customer support",
+        "dev",
+        "marketing",
+        "travel",
+        "microsoft",
+        "exec",
+        "excel",
+        "recruiter",
+        "full time",
+        "part time",
+        "digital nomad",
+        "infosec",
+        "admin"
+      ],
+      "posted": "2026-07-19T08:37:06+00:00"
+    },
+    {
+      "id": "remoteok-1135074",
+      "title": "Virtual Data Entry Clerk",
+      "company": "JobsInMass.com",
+      "location": "Beverly, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-virtual-data-entry-clerk-jobsinmass-com-1135074",
+      "source": "RemoteOK",
+      "tags": [
+        "data entry",
+        "education",
+        "customer support",
+        "dev",
+        "marketing",
+        "travel",
+        "microsoft",
+        "exec",
+        "excel",
+        "recruiter",
+        "full time",
+        "part time",
+        "digital nomad",
+        "infosec",
+        "admin",
+        "virtual assistant"
+      ],
+      "posted": "2026-07-19T08:37:00+00:00"
+    },
+    {
+      "id": "remoteok-1135072",
+      "title": "Entry Level Data Entry Clerk",
+      "company": "JobsInMass.com",
+      "location": "Beverly, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-data-entry-clerk-jobsinmass-com-1135072",
+      "source": "RemoteOK",
+      "tags": [
+        "data entry",
+        "education",
+        "customer support",
+        "dev",
+        "marketing",
+        "travel",
+        "microsoft",
+        "exec",
+        "excel",
+        "recruiter",
+        "full time",
+        "part time",
+        "digital nomad",
+        "infosec",
+        "admin"
+      ],
+      "posted": "2026-07-19T08:36:59+00:00"
+    },
+    {
+      "id": "remoteok-1135070",
+      "title": "Data Entry Typist",
+      "company": "JobsInMass.com",
+      "location": "Beverly, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-typist-jobsinmass-com-1135070",
+      "source": "RemoteOK",
+      "tags": [
+        "data entry",
+        "education",
+        "customer support",
+        "dev",
+        "marketing",
+        "travel",
+        "microsoft",
+        "exec",
+        "excel",
+        "recruiter",
+        "full time",
+        "part time",
+        "digital nomad"
+      ],
+      "posted": "2026-07-19T08:36:00+00:00"
+    },
+    {
+      "id": "remoteok-1135062",
+      "title": "Pitch us a role",
+      "company": "Alloy",
+      "location": "Greater Sydney Area, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-pitch-us-a-role-alloy-1135062",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "cloud",
+        "digital nomad"
+      ],
+      "posted": "2026-07-19T06:52:29+00:00"
+    },
+    {
+      "id": "remoteok-1135041",
+      "title": "SU Administrative Assistant",
+      "company": "Somewhere",
+      "location": "Philippines, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-su-administrative-assistant-somewhere-1135041",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "full time"
+      ],
+      "posted": "2026-07-19T03:08:05+00:00"
+    },
+    {
+      "id": "remoteok-1135127",
+      "title": "Asesor de AtenciÃ³n al Cliente Remoto Sueldo Fijo Variable CapacitaciÃ³n pagadas",
+      "company": "Partner Service",
+      "location": "Santa Anita, Santa Anita, PerÃº",
+      "url": "https://remoteOK.com/remote-jobs/remote-asesor-de-atencion-al-cliente-remoto-sueldo-fijo-variable-capacitacion-pagadas-partner-service-1135127",
+      "source": "RemoteOK",
+      "tags": [
+        "excel",
+        "non tech"
+      ],
+      "posted": "2026-07-19T01:04:39+00:00"
+    },
+    {
+      "id": "remoteok-1135040",
+      "title": "Details",
+      "company": "Majer Unternehmens-Gruppe",
+      "location": "Jarretville, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-details-majer-unternehmens-gruppe-1135040",
+      "source": "RemoteOK",
+      "tags": [],
+      "posted": "2026-07-19T00:58:56+00:00"
+    },
+    {
+      "id": "remoteok-1135046",
+      "title": "Graphic Designer",
+      "company": "DOSED",
+      "location": "Time, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-dosed-1135046",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "game dev",
+        "designer",
+        "content writing",
+        "photoshop",
+        "full time",
+        "digital nomad"
+      ],
+      "posted": "2026-07-18T21:27:25+00:00"
+    },
+    {
+      "id": "remoteok-1135164",
+      "title": "&lt;Job Position&gt",
+      "company": "Affinity Revenue Cycle Management Solutions",
+      "location": "Support, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-ltjob-positiongt-affinity-revenue-cycle-management-solutions-1135164",
+      "source": "RemoteOK",
+      "tags": [
+        "payroll",
+        "hr",
+        "sys admin",
+        "education",
+        "exec",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "accounting",
+        "finance",
+        "ops",
+        "excel",
+        "legal",
+        "sales",
+        "medical",
+        "digital nomad"
+      ],
+      "posted": "2026-07-18T20:22:25+00:00"
+    },
+    {
+      "id": "remoteok-1135048",
+      "title": "Shafqat",
+      "company": "HireTalentt",
+      "location": "Mohammadbazar, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-shafqat-hiretalentt-1135048",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "exec"
+      ],
+      "posted": "2026-07-18T19:39:50+00:00"
+    },
+    {
+      "id": "remoteok-1135042",
+      "title": "Administrative Specialist",
+      "company": "Dade Medical College-Hialeah",
+      "location": "Florida, Florida, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-specialist-dade-medical-college-hialeah-1135042",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "travel",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel"
+      ],
+      "posted": "2026-07-18T18:42:01+00:00"
+    },
+    {
+      "id": "remoteok-1135035",
+      "title": "OJALA",
+      "company": "Flash Free Lancer",
+      "location": "Evansville, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-ojala-flash-free-lancer-1135035",
+      "source": "RemoteOK",
+      "tags": [],
+      "posted": "2026-07-18T17:27:57+00:00"
+    },
+    {
+      "id": "remoteok-1135065",
+      "title": "MANUFACTURING POSITIONS",
+      "company": "Allied Packaging Corporation",
+      "location": "Malerkotla, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-manufacturing-positions-allied-packaging-corporation-1135065",
+      "source": "RemoteOK",
+      "tags": [
+        "recruiter",
+        "legal",
+        "full time",
+        "non tech"
+      ],
+      "posted": "2026-07-18T14:23:34+00:00"
+    },
+    {
+      "id": "remoteok-1135032",
+      "title": "Placement Officer",
+      "company": "Grey Sim Learnings Foundation",
+      "location": "Guwahati, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-placement-officer-grey-sim-learnings-foundation-1135032",
+      "source": "RemoteOK",
+      "tags": [
+        "project manager",
+        "exec",
+        "technical",
+        "designer",
+        "testing",
+        "full time"
+      ],
+      "posted": "2026-07-18T10:30:03+00:00"
+    },
+    {
+      "id": "remoteok-1135017",
+      "title": "Job Summary",
+      "company": "LOTHIAN BUSES LIMITED",
+      "location": "Livingston, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-summary-lothian-buses-limited-1135017",
+      "source": "RemoteOK",
+      "tags": [
+        "engineer"
+      ],
+      "posted": "2026-07-18T10:27:53+00:00"
+    },
+    {
+      "id": "remoteok-1135029",
+      "title": "Technical Specialist",
+      "company": "PeopleLink Collaboration Inc.",
+      "location": "Bhopal, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-specialist-peoplelink-collaboration-inc-1135029",
+      "source": "RemoteOK",
+      "tags": [
+        "project manager",
+        "exec",
+        "technical"
+      ],
+      "posted": "2026-07-18T10:20:26+00:00"
+    },
+    {
+      "id": "remoteok-1135025",
+      "title": "Presentation Designer",
+      "company": "INFUSE",
+      "location": "Warszawa, Warszawa, Woj. Mazowieckie, Polska",
+      "url": "https://remoteOK.com/remote-jobs/remote-presentation-designer-infuse-1135025",
+      "source": "RemoteOK",
+      "tags": [
+        "game dev",
+        "microsoft",
+        "full time",
+        "marketing",
+        "sales",
+        "non tech",
+        "design",
+        "infosec",
+        "education",
+        "designer",
+        "dev",
+        "testing",
+        "web dev",
+        "exec",
+        "video",
+        "photoshop",
+        "excel",
+        "recruiter",
+        "illustrator",
+        "digital nomad"
+      ],
+      "posted": "2026-07-18T09:56:25+00:00"
+    },
+    {
+      "id": "remoteok-1135019",
+      "title": "Expression Of Interest",
+      "company": "White Peak Digital",
+      "location": "High Peak, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-white-peak-digital-1135019",
+      "source": "RemoteOK",
+      "tags": [
+        "engineer"
+      ],
+      "posted": "2026-07-18T09:08:18+00:00"
+    },
+    {
+      "id": "remoteok-1135014",
+      "title": "React Native Engineer",
+      "company": "HelpBnk",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-react-native-engineer-helpbnk-1135014",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "react native",
+        "mobile",
+        "iOS",
+        "android"
+      ],
+      "posted": "2026-07-18T08:05:08+00:00"
+    },
+    {
+      "id": "remoteok-1135037",
+      "title": "Operador de Portaria Remota Recife PE Profissionais Solicitados",
+      "company": "BuscarVagas - Empregos Brasil",
+      "location": "Recife, Recife, Pernambuco, Brasil",
+      "url": "https://remoteOK.com/remote-jobs/remote-operador-de-portaria-remota-recife-pe-profissionais-solicitados-buscarvagas-empregos-brasil-1135037",
+      "source": "RemoteOK",
+      "tags": [
+        "microsoft",
+        "excel",
+        "non tech"
+      ],
+      "posted": "2026-07-18T07:39:34+00:00"
+    },
+    {
+      "id": "remoteok-1135030",
+      "title": "Designer",
+      "company": "RideTEGO",
+      "location": "Haridwar, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-ridetego-1135030",
+      "source": "RemoteOK",
+      "tags": [
+        "project manager",
+        "exec",
+        "technical",
+        "designer",
+        "testing"
+      ],
+      "posted": "2026-07-18T07:24:14+00:00"
+    },
+    {
+      "id": "remoteok-1135043",
+      "title": "HR Generalist",
+      "company": "RG&amp;T Solutions",
+      "location": "Portland, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-hr-generalist-rgampt-solutions-1135043",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "travel",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel",
+        "hr",
+        "recruiter"
+      ],
+      "posted": "2026-07-18T05:47:15+00:00"
+    },
+    {
+      "id": "remoteok-1135015",
+      "title": "Patient Scheduler",
+      "company": "ARStrat",
+      "location": "Greater Houston, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-patient-scheduler-arstrat-1135015",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "supervisor",
+        "customer support",
+        "testing",
+        "finance",
+        "education",
+        "microsoft",
+        "exec",
+        "ops",
+        "golang",
+        "medical",
+        "full time"
+      ],
+      "posted": "2026-07-18T04:43:23+00:00"
+    },
+    {
+      "id": "remoteok-1135010",
+      "title": "Contribute Building a Secure Nation",
+      "company": "Adani Skills &amp; Education",
+      "location": "Defence Colony, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-contribute-building-a-secure-nation-adani-skills-amp-education-1135010",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "non tech",
+        "infosec",
+        "education",
+        "content writing",
+        "recruiter"
+      ],
+      "posted": "2026-07-18T02:30:32+00:00"
+    },
+    {
+      "id": "remoteok-1135036",
+      "title": "Asistente Administrativo",
+      "company": "Blanco Silva ConsultorÃ­a InformÃ¡tica - BSCI -",
+      "location": "Comunidad El Ãxito, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-asistente-administrativo-blanco-silva-consultoria-informatica-bsci-1135036",
+      "source": "RemoteOK",
+      "tags": [
+        "microsoft",
+        "excel",
+        "non tech"
+      ],
+      "posted": "2026-07-18T01:47:04+00:00"
+    },
+    {
+      "id": "remoteok-1135047",
+      "title": "Plumber",
+      "company": "Accor",
+      "location": "Greater Vijayawada District, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-plumber-accor-1135047",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "exec"
+      ],
+      "posted": "2026-07-18T01:37:11+00:00"
+    },
+    {
+      "id": "remoteok-1135016",
+      "title": "UGC Creator",
+      "company": "ren",
+      "location": "San Francisco Bay Area",
+      "url": "https://remoteOK.com/remote-jobs/remote-ugc-creator-ren-1135016",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "supervisor",
+        "customer support",
+        "testing",
+        "finance",
+        "education",
+        "microsoft",
+        "exec",
+        "ops",
+        "golang",
+        "medical",
+        "full time",
+        "video",
+        "content writing"
+      ],
+      "posted": "2026-07-17T22:48:40+00:00"
+    },
+    {
+      "id": "remoteok-1135004",
+      "title": "Yacht Cleaner",
+      "company": "Travelopia",
+      "location": "Nassau, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-yacht-cleaner-travelopia-1135004",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "exec",
+        "ruby",
+        "ops",
+        "excel"
+      ],
+      "posted": "2026-07-17T21:22:33+00:00"
+    },
+    {
+      "id": "remoteok-1135023",
+      "title": "Addetto a Customer Service",
+      "company": "CasinÃ² Lugano SA",
+      "location": "Lugano, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-addetto-a-customer-service-casino-lugano-sa-1135023",
+      "source": "RemoteOK",
+      "tags": [
+        "game dev",
+        "microsoft",
+        "full time"
+      ],
+      "posted": "2026-07-17T21:13:52+00:00"
+    },
+    {
+      "id": "remoteok-1134999",
+      "title": "Care Specialist",
+      "company": "Empathy",
+      "location": "San Francisco, San Francisco, California, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-care-specialist-empathy-1134999",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "marketing",
+        "speech",
+        "finance",
+        "c",
+        "exec",
+        "senior",
+        "ops",
+        "excel",
+        "medical",
+        "full time"
+      ],
+      "posted": "2026-07-17T21:10:05+00:00"
+    },
+    {
+      "id": "remoteok-1135057",
+      "title": "Fire Dispatcher",
+      "company": "City of Campbell River",
+      "location": "Campbell River, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-fire-dispatcher-city-of-campbell-river-1135057",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "engineer"
+      ],
+      "posted": "2026-07-17T19:19:54+00:00"
+    },
+    {
+      "id": "remoteok-1134996",
+      "title": "Patient Access Scheduler Centralized Scheduling FT 8 30A 5P",
+      "company": "Orchestrate Consulting Group",
+      "location": "Los Angeles, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-patient-access-scheduler-centralized-scheduling-ft-8-30a-5p-orchestrate-consulting-group-1134996",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "marketing",
+        "exec",
+        "content writing",
+        "social media",
+        "speech",
+        "education",
+        "technical",
+        "customer support",
+        "video",
+        "medical",
+        "design",
+        "ads",
+        "digital nomad",
+        "consulting"
+      ],
+      "posted": "2026-07-17T18:07:48+00:00"
+    },
+    {
+      "id": "remoteok-1134993",
+      "title": "Social Media Assistant Instagram",
+      "company": "OnlineJobs.PH",
+      "location": "Media, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-assistant-instagram-onlinejobs-ph-1134993",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "marketing",
+        "exec",
+        "content writing",
+        "social media"
+      ],
+      "posted": "2026-07-17T17:23:45+00:00"
+    },
+    {
+      "id": "remoteok-1134994",
+      "title": "Voice Actor",
+      "company": "Gritter Francona",
+      "location": "Florida, Florida, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-voice-actor-gritter-francona-1134994",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "marketing",
+        "exec",
+        "content writing",
+        "social media",
+        "speech",
+        "education",
+        "technical",
+        "customer support",
+        "video",
+        "medical"
+      ],
+      "posted": "2026-07-17T17:23:21+00:00"
+    },
+    {
+      "id": "remoteok-1135001",
+      "title": "Videographer",
+      "company": "Gritter Francona",
+      "location": "Florida, Florida, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-videographer-gritter-francona-1135001",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "marketing",
+        "speech",
+        "finance",
+        "c",
+        "exec",
+        "senior",
+        "ops",
+        "excel",
+        "medical",
+        "full time",
+        "sys admin",
+        "travel",
+        "microsoft",
+        "content writing",
+        "sales",
+        "technical",
+        "video",
+        "ads"
+      ],
+      "posted": "2026-07-17T17:02:37+00:00"
+    },
+    {
+      "id": "remoteok-1135002",
+      "title": "Video Producer",
+      "company": "Gritter Francona",
+      "location": "Florida, Florida, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-video-producer-gritter-francona-1135002",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "marketing",
+        "speech",
+        "finance",
+        "c",
+        "exec",
+        "senior",
+        "ops",
+        "excel",
+        "medical",
+        "full time",
+        "sys admin",
+        "travel",
+        "microsoft",
+        "content writing",
+        "sales",
+        "technical",
+        "video",
+        "ads",
+        "web dev"
+      ],
+      "posted": "2026-07-17T16:55:24+00:00"
+    },
+    {
+      "id": "remoteok-1135003",
+      "title": "Scriptwriter",
+      "company": "Gritter Francona",
+      "location": "Washington, Washington, District of Columbia, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-scriptwriter-gritter-francona-1135003",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "marketing",
+        "speech",
+        "finance",
+        "c",
+        "exec",
+        "senior",
+        "ops",
+        "excel",
+        "medical",
+        "full time",
+        "sys admin",
+        "travel",
+        "microsoft",
+        "content writing",
+        "sales",
+        "technical",
+        "video",
+        "ads",
+        "web dev"
+      ],
+      "posted": "2026-07-17T16:49:52+00:00"
+    },
+    {
+      "id": "remoteok-1135000",
+      "title": "Brand Manager",
+      "company": "Cazcanes Tequila",
+      "location": "Los Angeles Metropolitan Area",
+      "url": "https://remoteOK.com/remote-jobs/remote-brand-manager-cazcanes-tequila-1135000",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "marketing",
+        "speech",
+        "finance",
+        "c",
+        "exec",
+        "senior",
+        "ops",
+        "excel",
+        "medical",
+        "full time",
+        "sys admin",
+        "travel",
+        "microsoft",
+        "content writing",
+        "sales"
+      ],
+      "posted": "2026-07-17T16:46:39+00:00"
+    },
+    {
+      "id": "remoteok-1134995",
+      "title": "Animated Graphic Visual Artist",
+      "company": "Gritter Francona",
+      "location": "Washington, Washington, District of Columbia, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-animated-graphic-visual-artist-gritter-francona-1134995",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "marketing",
+        "exec",
+        "content writing",
+        "social media",
+        "speech",
+        "education",
+        "technical",
+        "customer support",
+        "video",
+        "medical",
+        "design",
+        "ads",
+        "digital nomad"
+      ],
+      "posted": "2026-07-17T16:43:00+00:00"
+    },
+    {
+      "id": "remoteok-1134985",
+      "title": "Medical Scheduler",
+      "company": "Home Health Focus AI",
+      "location": "United States, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-medical-scheduler-home-health-focus-ai-1134985",
+      "source": "RemoteOK",
+      "tags": [
+        "part time",
+        "hr",
+        "medical"
+      ],
+      "posted": "2026-07-17T16:04:38+00:00"
+    },
+    {
+      "id": "remoteok-1134984",
+      "title": "Public Relations Associate",
+      "company": "Huntress Talent",
+      "location": "United States, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-public-relations-associate-huntress-talent-1134984",
+      "source": "RemoteOK",
+      "tags": [
+        "part time",
+        "hr"
+      ],
+      "posted": "2026-07-17T16:02:44+00:00"
+    },
+    {
+      "id": "remotive-2091069",
+      "title": "Patient Care Specialist",
+      "company": "STATLINX",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069",
+      "source": "Remotive",
+      "tags": [
+        "research",
+        "insurance"
+      ],
+      "posted": "2026-07-16T13:28:02"
+    },
+    {
+      "id": "remotive-1919265",
+      "title": "Senior Independent Software Developer",
+      "company": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
+      "source": "Remotive",
+      "tags": [
+        "go",
+        "wordpress",
+        "chat",
+        "apple",
+        "testing",
+        "catalyst"
+      ],
+      "posted": "2026-07-16T10:10:51"
+    },
+    {
+      "id": "remotive-1919266",
+      "title": "Senior Independent AI Engineer / Architect",
+      "company": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+      "source": "Remotive",
+      "tags": [
+        "go",
+        "UI/UX",
+        "wordpress",
+        "chat",
+        "apple",
+        "testing",
+        "catalyst"
+      ],
+      "posted": "2026-07-16T10:10:45"
+    },
+    {
+      "id": "remotive-2091068",
+      "title": "Head of Marketing & Communications",
+      "company": "garden3d",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
+      "source": "Remotive",
+      "tags": [],
+      "posted": "2026-07-16T08:06:41"
+    },
+    {
+      "id": "remotive-2069746",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "source": "Remotive",
+      "tags": [
+        "api",
+        "CSS",
+        "docker",
+        "elasticsearch",
+        "fullstack",
+        "html",
+        "javascript",
+        "kubernetes",
+        "postgresql",
+        "react",
+        "ror",
+        "ruby/rails",
+        "AI/ML",
+        "CAD",
+        "advertising",
+        "Redis",
+        "ES6",
+        "web applications",
+        "MySQL",
+        "NLP",
+        "fintech",
+        "Micro services",
+        "github",
+        "system architecture"
+      ],
+      "posted": "2026-07-14T20:34:15"
+    },
+    {
+      "id": "remotive-2091067",
+      "title": "Senior DevOps Engineer",
+      "company": "Lemon.io",
+      "location": "Americas, Europe, Asia, Africa, Oceania",
+      "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091067",
+      "source": "Remotive",
+      "tags": [
+        ".Net",
+        "android",
+        "AWS",
+        "azure",
+        "C",
+        "C#",
+        "C++",
+        "data science",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "kubernetes",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "sql",
+        "swift",
+        "UI/UX",
+        "wordpress",
+        "blockchain",
+        "AI/ML",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "product management",
+        "unity",
+        "electron",
+        "spring",
+        "data analysis",
+        "bash",
+        "laravel",
+        "Ethereum",
+        "graphic design",
+        "Typescript ",
+        "terraform",
+        "angular ",
+        "GCP",
+        "data engineering",
+        "Site Reliability",
+        "Symfony",
+        "startup",
+        "marketplace",
+        "next.js",
+        "flutter"
+      ],
+      "posted": "2026-07-14T14:14:46"
+    },
+    {
+      "id": "remotive-2091062",
+      "title": "Senior Product Engineer (Fullstack)",
+      "company": "Clipster",
+      "location": "Europe, UK, Germany, France, European timezones",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-product-engineer-fullstack-2091062",
+      "source": "Remotive",
+      "tags": [
+        "backend",
+        "frontend",
+        "fullstack",
+        "golang",
+        "postgresql",
+        "react",
+        "AI/ML",
+        "documentation",
+        "youtube",
+        "Redis",
+        "distributed systems",
+        "GCP",
+        "chat",
+        "next.js",
+        "infrastructure"
+      ],
+      "posted": "2026-07-13T07:05:10"
+    },
+    {
+      "id": "remotive-2090989",
+      "title": "Assistant Account Payable",
+      "company": "The Obesity Society",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/medical/assistant-account-payable-2090989",
+      "source": "Remotive",
+      "tags": [
+        "accounting",
+        "excel",
+        "data entry",
+        "outlook"
+      ],
+      "posted": "2026-07-12T06:35:18"
+    },
+    {
+      "id": "remotive-1680495",
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "source": "Remotive",
+      "tags": [
+        "CSS",
+        "excel",
+        "frontend",
+        "git",
+        "html",
+        "illustrator",
+        "magento",
+        "photoshop",
+        "php",
+        "shopify",
+        "wordpress",
+        "MySQL",
+        "startup",
+        "responsive",
+        "themes",
+        "bootstrap",
+        "insurance",
+        "jQuery",
+        "Ajax"
+      ],
+      "posted": "2026-07-11T20:18:11"
+    },
+    {
+      "id": "remotive-2091056",
+      "title": "Staff Software Engineer, Product (Belo Horizonte)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-belo-horizonte-2091056",
+      "source": "Remotive",
+      "tags": [
+        "AWS",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "UI/UX",
+        "AI/ML",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "Typescript ",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "REST",
+        "datadog"
+      ],
+      "posted": "2026-07-09T14:45:43"
+    },
+    {
+      "id": "remotive-2091058",
+      "title": "Staff Software Engineer, Product (Montevideo)",
+      "company": "LawnStarter",
+      "location": "Uruguay",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-montevideo-2091058",
+      "source": "Remotive",
+      "tags": [
+        "AWS",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "UI/UX",
+        "AI/ML",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "Typescript ",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "REST",
+        "datadog"
+      ],
+      "posted": "2026-07-09T14:43:46"
+    },
+    {
+      "id": "remotive-2091055",
+      "title": "Staff Software Engineer, Product (São Paulo)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-sao-paulo-2091055",
+      "source": "Remotive",
+      "tags": [
+        "AWS",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "UI/UX",
+        "AI/ML",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "Typescript ",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "REST",
+        "datadog"
+      ],
+      "posted": "2026-07-09T14:41:32"
+    },
+    {
+      "id": "remotive-2091050",
+      "title": "Staff Software Engineer, Product (Mexico City)",
+      "company": "LawnStarter",
+      "location": "Mexico",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-mexico-city-2091050",
+      "source": "Remotive",
+      "tags": [
+        "AWS",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "UI/UX",
+        "AI/ML",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "Typescript ",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "REST",
+        "datadog"
+      ],
+      "posted": "2026-07-09T14:40:42"
+    },
+    {
+      "id": "remotive-2091049",
+      "title": "Staff Software Engineer, Product (Campinas)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-campinas-2091049",
+      "source": "Remotive",
+      "tags": [
+        "AWS",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "UI/UX",
+        "AI/ML",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "Typescript ",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "REST",
+        "datadog"
+      ],
+      "posted": "2026-07-09T14:39:55"
+    },
+    {
+      "id": "remotive-2091059",
+      "title": "Staff Software Engineer, Product (Florianópolis)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-florianopolis-2091059",
+      "source": "Remotive",
+      "tags": [
+        "AWS",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "UI/UX",
+        "AI/ML",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "Typescript ",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "REST",
+        "datadog"
+      ],
+      "posted": "2026-07-09T14:39:06"
+    },
+    {
+      "id": "remotive-2091057",
+      "title": "Staff Product Engineer (Mexico City)",
+      "company": "LawnStarter",
+      "location": "Mexico",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-mexico-city-2091057",
+      "source": "Remotive",
+      "tags": [
+        "AWS",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "UI/UX",
+        "AI/ML",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "Typescript ",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "REST",
+        "datadog"
+      ],
+      "posted": "2026-07-09T14:32:14"
+    },
+    {
+      "id": "remotive-2091054",
+      "title": "Staff Product Engineer (Montevideo)",
+      "company": "LawnStarter",
+      "location": "Uruguay",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-montevideo-2091054",
+      "source": "Remotive",
+      "tags": [
+        "AWS",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "UI/UX",
+        "AI/ML",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "Typescript ",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "REST",
+        "datadog"
+      ],
+      "posted": "2026-07-09T14:30:17"
+    },
+    {
+      "id": "remotive-2091053",
+      "title": "Staff Product Engineer (Campinas)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-campinas-2091053",
+      "source": "Remotive",
+      "tags": [
+        "AWS",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "UI/UX",
+        "AI/ML",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "Typescript ",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "REST",
+        "datadog"
+      ],
+      "posted": "2026-07-09T14:28:36"
+    },
+    {
+      "id": "remotive-2091052",
+      "title": "Staff Product Engineer (Belo Horizonte)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-belo-horizonte-2091052",
+      "source": "Remotive",
+      "tags": [
+        "AWS",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "UI/UX",
+        "AI/ML",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "Typescript ",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "REST",
+        "datadog"
+      ],
+      "posted": "2026-07-09T14:26:20"
+    },
+    {
+      "id": "remotive-2091051",
+      "title": "Staff Product Engineer (Florianópolis)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2091051",
+      "source": "Remotive",
+      "tags": [
+        "AWS",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "UI/UX",
+        "AI/ML",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "Typescript ",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "REST",
+        "datadog"
+      ],
+      "posted": "2026-07-09T14:24:28"
+    },
+    {
+      "id": "remotive-2091048",
+      "title": "Product Sales Specialist - Pet Health",
+      "company": "Tribe Wellness",
+      "location": "USA, CST (UTC-6)",
+      "url": "https://remotive.com/remote-jobs/sales/product-sales-specialist-pet-health-2091048",
+      "source": "Remotive",
+      "tags": [
+        "excel",
+        "salesforce",
+        "video",
+        "spark"
+      ],
+      "posted": "2026-07-09T08:01:56"
+    },
+    {
+      "id": "remotive-2086540",
+      "title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "source": "Remotive",
+      "tags": [
+        "CRM",
+        "google sheets",
+        "financial services",
+        "Inside Sales"
+      ],
+      "posted": "2026-07-08T21:48:18"
+    },
+    {
+      "id": "remotive-2090949",
+      "title": "High-Ticket Financial Sales Specialist & Team Lead Track",
+      "company": "FSE LLC",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/sales/high-ticket-financial-sales-specialist-team-lead-track-2090949",
+      "source": "Remotive",
+      "tags": [
+        "C",
+        "excel",
+        "team lead",
+        "financial services",
+        "C-Suite"
+      ],
+      "posted": "2026-07-08T19:44:58"
+    },
+    {
+      "id": "remotive-2091047",
+      "title": "Online Data Analyst Canada (French Language) (C)",
+      "company": "TELUS Digital",
+      "location": "Canada",
+      "url": "https://remotive.com/remote-jobs/all-others/online-data-analyst-canada-french-language-c-2091047",
+      "source": "Remotive",
+      "tags": [
+        "go",
+        "social media",
+        "AI/ML",
+        "research",
+        "diversity"
+      ],
+      "posted": "2026-07-08T13:02:27"
+    },
+    {
+      "id": "remotive-2091045",
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "source": "Remotive",
+      "tags": [
+        "azure",
+        "cisco",
+        "security",
+        "video",
+        "documentation",
+        "hardware",
+        "helpdesk",
+        "onboarding",
+        "MSP",
+        "ticketing",
+        "Microsoft 365",
+        "IT systems"
+      ],
+      "posted": "2026-07-07T09:04:10"
+    },
+    {
+      "id": "remotive-1185979",
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "source": "Remotive",
+      "tags": [
+        "REST"
+      ],
+      "posted": "2026-07-04T16:53:04"
+    },
+    {
+      "id": "remotive-1749306",
+      "title": "Freelance Copywriter",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "source": "Remotive",
+      "tags": [
+        "accounting",
+        "excel",
+        "research",
+        "data analysis",
+        "bookkeeping",
+        "google sheets",
+        "quickbooks",
+        "data entry",
+        "insurance",
+        "G Suite"
+      ],
+      "posted": "2026-07-02T20:01:13"
+    },
+    {
+      "id": "remotive-2090986",
+      "title": "Senior AI Engineer",
+      "company": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2090986",
+      "source": "Remotive",
+      "tags": [
+        ".Net",
+        "android",
+        "C",
+        "C#",
+        "C++",
+        "data science",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "UI/UX",
+        "wordpress",
+        "blockchain",
+        "AI/ML",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "unity",
+        "electron",
+        "spring",
+        "laravel",
+        "Ethereum",
+        "graphic design",
+        "Typescript ",
+        "angular ",
+        "data engineering",
+        "Site Reliability",
+        "SOLID",
+        "Symfony",
+        "startup",
+        "marketplace",
+        "next.js",
+        "flutter"
+      ],
+      "posted": "2026-07-02T11:45:47"
+    },
+    {
+      "id": "remotive-2090942",
+      "title": "Customer Operations & Writing Specialist",
+      "company": "Clerky, Inc.",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/customer-service/customer-operations-writing-specialist-2090942",
+      "source": "Remotive",
+      "tags": [
+        "AI/ML",
+        "startup",
+        "fundraising",
+        "testing"
+      ],
+      "posted": "2026-07-02T07:39:11"
+    },
+    {
+      "id": "remotive-2090903",
+      "title": "Data Labeling Specialists",
+      "company": "Workada",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
+      "source": "Remotive",
+      "tags": [
+        "research",
+        "digital content",
+        "spreadsheets"
+      ],
+      "posted": "2026-07-01T01:48:13"
+    },
+    {
+      "id": "remotive-2090985",
+      "title": "Communications Manager",
+      "company": "Lemon.io",
+      "location": "LATAM, Europe",
+      "url": "https://remotive.com/remote-jobs/communications/communications-manager-2090985",
+      "source": "Remotive",
+      "tags": [
+        "go",
+        "AI/ML",
+        "automation",
+        "responsive"
+      ],
+      "posted": "2026-06-30T08:40:42"
+    },
+    {
+      "id": "remotive-2091039",
+      "title": "Client Success Coach (CSM)",
+      "company": "Impact Clients",
+      "location": "Northern America, Europe, South Africa",
+      "url": "https://remotive.com/remote-jobs/customer-service/client-success-coach-csm-2091039",
+      "source": "Remotive",
+      "tags": [
+        "backend",
+        "video",
+        "CRM",
+        "youtube",
+        "organic marketing",
+        "onboarding",
+        "spreadsheets",
+        "gsuite"
+      ],
+      "posted": "2026-06-29T14:20:56"
+    },
+    {
+      "id": "remotive-2091038",
+      "title": "Sales Assistant ",
+      "company": "Endureed by Global Innovation ",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/sales/sales-assistant-2091038",
+      "source": "Remotive",
+      "tags": [
+        "research",
+        "CRM",
+        "onboarding",
+        "data entry",
+        "travel"
+      ],
+      "posted": "2026-06-26T14:55:18"
+    },
+    {
+      "id": "remotive-2091035",
+      "title": "Mid/Senior AI Cinematic Video Editor",
+      "company": "EverAI",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2091035",
+      "source": "Remotive",
+      "tags": [
+        "excel",
+        "video",
+        "AI/ML",
+        "customer acquisition",
+        "graphic design",
+        "video production",
+        "after effects",
+        "editing",
+        "SOLID",
+        "REST",
+        "insurance"
+      ],
+      "posted": "2026-06-24T11:41:57"
+    },
+    {
+      "id": "remotive-2090984",
+      "title": "Senior Product Manager",
+      "company": "Lemon.io",
+      "location": "Americas, Europe, Asia, Oceania",
+      "url": "https://remotive.com/remote-jobs/product/senior-product-manager-2090984",
+      "source": "Remotive",
+      "tags": [
+        ".Net",
+        "android",
+        "azure",
+        "C",
+        "C#",
+        "C++",
+        "data science",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "UI/UX",
+        "wordpress",
+        "blockchain",
+        "AI/ML",
+        "Figma",
+        "automation",
+        "project management",
+        "react native",
+        "product strategy",
+        "rust",
+        "product management",
+        "unity",
+        "electron",
+        "spring",
+        "laravel",
+        "Ethereum",
+        "graphic design",
+        "mixpanel",
+        "Typescript ",
+        "angular ",
+        "SDLC",
+        "data engineering",
+        "Site Reliability",
+        "Symfony",
+        "startup",
+        "marketplace",
+        "next.js",
+        "flutter"
+      ],
+      "posted": "2026-06-24T09:57:46"
+    },
+    {
+      "id": "remotive-2091000",
+      "title": "Staff Product Engineer (São Paulo)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-sao-paulo-2091000",
+      "source": "Remotive",
+      "tags": [
+        "AWS",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "UI/UX",
+        "AI/ML",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "Typescript ",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "REST",
+        "datadog"
+      ],
+      "posted": "2026-06-23T08:31:36"
+    },
+    {
+      "id": "remotive-2090994",
+      "title": "Senior Quality Engineer (Florianópolis)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-florianopolis-2090994",
+      "source": "Remotive",
+      "tags": [
+        "backend",
+        "php",
+        "react",
+        "sql",
+        "AI/ML",
+        "automation",
+        "react native",
+        "laravel",
+        "cypress",
+        "onboarding",
+        "SOLID",
+        "engineering management",
+        "manual testing",
+        "marketplace",
+        "testing",
+        "infrastructure"
+      ],
+      "posted": "2026-06-23T08:30:06"
+    },
+    {
+      "id": "remotive-2090995",
+      "title": "Senior Quality Engineer (São Paulo)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-sao-paulo-2090995",
+      "source": "Remotive",
+      "tags": [
+        "backend",
+        "php",
+        "react",
+        "sql",
+        "AI/ML",
+        "automation",
+        "react native",
+        "laravel",
+        "cypress",
+        "onboarding",
+        "SOLID",
+        "engineering management",
+        "manual testing",
+        "marketplace",
+        "testing",
+        "infrastructure"
+      ],
+      "posted": "2026-06-23T08:27:20"
+    },
+    {
+      "id": "remotive-2090996",
+      "title": "Senior Quality Engineer (Belo Horizonte)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-belo-horizonte-2090996",
+      "source": "Remotive",
+      "tags": [
+        "backend",
+        "php",
+        "react",
+        "sql",
+        "AI/ML",
+        "automation",
+        "react native",
+        "laravel",
+        "cypress",
+        "onboarding",
+        "SOLID",
+        "engineering management",
+        "manual testing",
+        "marketplace",
+        "testing",
+        "infrastructure"
+      ],
+      "posted": "2026-06-23T08:25:38"
+    },
+    {
+      "id": "remotive-2090998",
+      "title": "Senior Quality Engineer (Campinas)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-campinas-2090998",
+      "source": "Remotive",
+      "tags": [
+        "backend",
+        "php",
+        "react",
+        "sql",
+        "AI/ML",
+        "automation",
+        "react native",
+        "laravel",
+        "cypress",
+        "onboarding",
+        "SOLID",
+        "engineering management",
+        "manual testing",
+        "marketplace",
+        "testing",
+        "infrastructure"
+      ],
+      "posted": "2026-06-23T08:23:50"
+    },
+    {
+      "id": "remotive-2090997",
+      "title": "Senior Quality Engineer (Porto Alegre)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-porto-alegre-2090997",
+      "source": "Remotive",
+      "tags": [
+        "backend",
+        "php",
+        "react",
+        "sql",
+        "AI/ML",
+        "automation",
+        "react native",
+        "laravel",
+        "cypress",
+        "onboarding",
+        "SOLID",
+        "engineering management",
+        "manual testing",
+        "marketplace",
+        "testing",
+        "infrastructure"
+      ],
+      "posted": "2026-06-23T07:08:26"
+    }
+  ]
 }
