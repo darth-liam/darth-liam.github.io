@@ -1,0 +1,172 @@
+<!--
+    Author: Liam Meagher
+    Last Updated: 1/12/2026
+    This is the Portfolio website for Liam Meagher
+
+    Project: Bruin Underwater Robotics
+-->
+
+<!-- Blank Comment Below -->
+<!--  -->
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+    <!-- Setting the viewport to make your website look good on all devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Define the character set used -->
+    <meta charset="UTF-8">
+    <!-- Author of the HTML code -->
+    <meta name="author" content="Liam Meagher">
+
+    <!-- Link to Generic Style Sheet -->
+    <link rel="stylesheet" href="\css\styles.css">
+    <!-- Link to Navbar Style Sheet -->
+    <link rel="stylesheet" href="\css\navbar.css">
+
+    <!-- Import jQuery -->
+    <script src="\js\jquery-3.7.1.min.js"></script>
+
+    <!-- Title of the Website that shows on tab -->
+    <title>Liam Meagher | Project: Bruin Underwater Robotics</title>
+    <!-- Favicon Icon that shows on tab -->
+    <link rel="icon" type="image/x-icon" href="\images\favicon.ico">
+    <!-- Description that shows up in google search -->
+    <meta name="description" content="Liam Meagher Portfolio Website">
+
+</head>
+<body>
+
+    <nav id="nav-bar">
+
+        <label class="hamburger-menu">
+            <input id="hamburger-check" type="checkbox"/>
+        </label>
+
+        <aside class="sidebar">
+            <nav>
+                <a href="\html\about-me.html">About Me</a>
+                <a href="\html\projects.html">Projects</a>
+                <a href="\html\resume.html">Resume</a>
+                <a href="\html\contact.html">Contact</a>
+            </nav>
+        </aside>
+
+        <!-- Logo in the top left -->
+        <a href="/" class="logo">Liam Meagher</a>
+
+        <!-- Empty div to dim page when sidebar is open -->
+        <div id="page-dim"></div>
+
+    </nav>
+
+    <main>
+
+        <header id="projects" class="header-block"
+        style="background-image: url(/images/bur.jpg);"
+        title="Bruin Underwater Robotics Header Image">
+
+            <h1>Bruin Underwater Robotics</h1>
+
+            <!-- Div for caron symbol to scroll to main body -->
+            <div class="caron">
+                <a href="#project-top">&#8681</a>
+            </div>
+
+        </header>
+
+        <!-- Main text section after title header -->
+        <div class="main-body">
+
+            <!-- Blank div for spacing -->
+            <div></div>
+
+            <!-- Middle div is for centered content -->
+            <div class="center-column">
+
+                <div id="project-top" class="content-block id-anchor">
+
+                    <h3><b>Bruin Underwater Robotics</b> | Los Angeles, CA (2023-2024)</h3>
+
+                    <div class="pictext-bot">
+
+                        <div>
+                            <p>
+                                I worked as an Autonomous Systems Software Developer for Bruin Underwater Robotics (BUR),
+                                where I developed autonomy control software for an underwater robot, including real-time
+                                feedback control loops for depth. I improved closed-loop stability by reducing oscillations
+                                40% through PID tuning and dynamic response testing.<br><br>
+                            </p>
+                            <p>
+                                I also generated over 2,000 simulated sensor frames and more than 5 hours of synthetic
+                                mission data using Unity's simulation tools, then used that data to run simulation-driven
+                                reliability testing across 8 mission scenarios, increasing autonomous control stability by
+                                45%. On the hardware side, I integrated the control software with thrusters, depth sensors,
+                                and embedded hardware using ROS and C++ to support autonomous underwater pathing missions.
+                            </p>
+                        </div>
+
+                    </div>
+
+                    <div class="pictext-bot">
+
+                        <div class="pictext-img">
+                            <img src="\images\bur.jpg"
+                            alt="Brief Image of Bruin Underwater Robotics">
+                        </div>
+
+                        <div>
+                            <p>
+                                [Quoted from the Bruin Underwater Robotics Website]<br><br>
+                            </p>
+                            <p>
+                                Bruin Underwater Robotics (BUR) is a technical project dedicated to creating robots capable
+                                of operating in and exploring underwater environments.<br><br>
+                            </p>
+                            <p>
+                                BUR is a student-led technical initiative that challenges members to solve complex
+                                engineering problems through collaborative design, fabrication, and testing of underwater
+                                autonomous vehicles, drawing on expertise from fluid dynamics, heat transfer, mechanisms,
+                                and circuit design.<br><br>
+                            </p>
+                            <p>
+                                That mix of software and hardware is what made the team a good fit for me: designing a
+                                stable control loop only matters if it can survive being integrated onto a real underwater
+                                vehicle.
+                            </p>
+                        </div>
+
+                    </div>
+
+                    <div class="content-block button">
+                        <button>
+                            <a href="https://sites.google.com/view/ucla-bur/home" target="_blank">
+                                <b>Bruin Underwater Robotics Website</b>
+                            </a>
+                        </button>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Blank div for spacing -->
+            <div></div>
+
+        </div>
+
+    </main>
+
+    <div class="footer">
+        <a href="https://github.com/darth-liam/darth-liam.github.io" target="_blank">
+            <p>This website is hosted on GitHub Pages</p>
+        </a>
+    </div>
+
+    <!-- Link to Javascript Sheets -->
+    <script src="\js\script.js"></script>
+    <script src="\js\navbar.js"></script>
+
+</body>
+</html>
