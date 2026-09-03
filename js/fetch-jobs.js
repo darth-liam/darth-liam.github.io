@@ -1,6 +1,6 @@
 // fetch-jobs.js
 // Pulls listings from a few free, no-key job APIs, normalizes them into a
-// common shape, and writes the result to jobs.json.
+// common shape, and writes the result to html/jobs.json.
 //
 // Run manually:   node fetch-jobs.js
 // Run on a schedule via the GitHub Actions workflow in
@@ -9,6 +9,11 @@
 // Requires Node 18+ (built-in fetch).
 
 import { writeFile } from "node:fs/promises";
+
+// Resolved against this file, not the working directory, so the output lands in
+// html/ no matter where the script is invoked from (the Action runs it from the
+// repo root). jobs.html loads jobs.json relative to itself, so it must live there.
+const OUTPUT_PATH = new URL("../html/jobs.json", import.meta.url);
 
 // ---------------------------------------------------------------------------
 // Company sources. Add tokens to these lists to pull in more companies —
@@ -243,8 +248,8 @@ async function main() {
     jobs: allJobs,
   };
 
-  await writeFile("jobs.json", JSON.stringify(output, null, 2));
-  console.log(`Wrote ${allJobs.length} jobs to jobs.json`);
+  await writeFile(OUTPUT_PATH, JSON.stringify(output, null, 2));
+  console.log(`Wrote ${allJobs.length} jobs to html/jobs.json`);
 }
 
 main().catch((err) => {
