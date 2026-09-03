@@ -21,7 +21,29 @@ const OUTPUT_PATH = new URL("../html/jobs.json", import.meta.url);
 // ---------------------------------------------------------------------------
 
 const GREENHOUSE_BOARDS = [
+  // Space / satellites / launch
   "vast", // Vast Space — https://job-boards.greenhouse.io/vast
+  "astranis", // Astranis — https://job-boards.greenhouse.io/astranis
+  "vardaspace", // Varda Space Industries — https://job-boards.greenhouse.io/vardaspace
+  "rocketlab", // Rocket Lab — https://job-boards.greenhouse.io/rocketlab
+  "spacex", // SpaceX — https://boards.greenhouse.io/spacex
+  "spire", // Spire Global — https://job-boards.greenhouse.io/spire
+  "slingshotaerospace", // Slingshot Aerospace — https://job-boards.greenhouse.io/slingshotaerospace
+  "hawkeye360", // HawkEye 360 — https://job-boards.greenhouse.io/hawkeye360
+  "muonspace", // Muon Space — https://job-boards.greenhouse.io/muonspace
+  "albedo", // Albedo — https://job-boards.greenhouse.io/albedo
+
+  // Aircraft / eVTOL / aerospace defense
+  "supernal", // Supernal (Hyundai eVTOL) — https://job-boards.greenhouse.io/supernal
+  "electraaero", // Electra.aero — https://job-boards.greenhouse.io/electraaero
+  "dawnaerospace", // Dawn Aerospace — https://job-boards.anz.greenhouse.io/dawnaerospace
+  "andurilindustries", // Anduril Industries — https://boards.greenhouse.io/andurilindustries
+
+  // Mechanical engineering / advanced manufacturing / robotics
+  "divergent", // Divergent (aerospace/automotive additive manufacturing) — https://job-boards.greenhouse.io/divergent
+  "figureai", // Figure (humanoid robotics) — https://job-boards.greenhouse.io/figureai
+  "agilityrobotics", // Agility Robotics — https://www.agilityrobotics.com/careers
+  "apptronik", // Apptronik (humanoid robotics) — https://boards.greenhouse.io/apptronik
 ];
 
 const LEVER_COMPANIES = [
