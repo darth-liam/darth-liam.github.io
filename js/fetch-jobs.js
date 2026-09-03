@@ -16,8 +16,11 @@ import { writeFile } from "node:fs/promises";
 const OUTPUT_PATH = new URL("../html/jobs.json", import.meta.url);
 
 // ---------------------------------------------------------------------------
-// Company sources. Add tokens to these lists to pull in more companies —
-// see README.md for how to find a company's Greenhouse/Lever/Workday token.
+// Company sources. Add tokens to these lists to pull in more companies.
+// Greenhouse/Lever/Ashby tokens are the slug in the company's public job
+// board URL (job-boards.greenhouse.io/<token>, jobs.lever.co/<token>,
+// jobs.ashbyhq.com/<boardName>). Workday's tenant/wd/site are read off the
+// company's myworkdayjobs.com URL — see the comment above WORKDAY_SITES.
 // ---------------------------------------------------------------------------
 
 const GREENHOUSE_BOARDS = [
@@ -47,7 +50,28 @@ const GREENHOUSE_BOARDS = [
 ];
 
 const LEVER_COMPANIES = [
-  // "spotify", // https://jobs.lever.co/spotify
+  // Space / satellites / launch
+  "loftorbital", // Loft Orbital — https://jobs.lever.co/loftorbital
+
+  // Aircraft / eVTOL / aerospace defense
+  "merlinlabs", // Merlin Labs (autonomous flight systems) — https://jobs.lever.co/merlinlabs
+  "elroyair", // Elroy Air (autonomous cargo aircraft) — https://jobs.lever.co/elroyair
+
+  // Defense tech / robotics
+  "shieldai", // Shield AI (autonomous defense systems) — https://jobs.lever.co/shieldai
+  "saronic", // Saronic (autonomous surface vessels) — https://jobs.lever.co/saronic
+
+  // Mechanical engineering / advanced manufacturing / robotics
+  "zoox", // Zoox (autonomous vehicles) — https://jobs.lever.co/zoox
+  "dexterity", // Dexterity (warehouse robotics) — https://jobs.lever.co/dexterity
+  "waabi", // Waabi (autonomous trucking) — https://jobs.lever.co/waabi
+  "brightmachines", // Bright Machines (AI-enabled manufacturing robotics) — https://jobs.lever.co/brightmachines
+  "sila", // Sila Nanotechnologies (battery materials/advanced manufacturing) — https://jobs.lever.co/sila
+
+  // General software
+  "palantir", // Palantir — https://jobs.lever.co/palantir
+  "anyscale", // Anyscale (AI/distributed computing infra) — https://jobs.lever.co/anyscale
+  "brightwheel", // Brightwheel (childcare management SaaS) — https://jobs.lever.co/brightwheel
 ];
 
 // tenant/site/wd are read off the company's own myworkdayjobs.com URL, e.g.
@@ -56,6 +80,58 @@ const LEVER_COMPANIES = [
 const WORKDAY_SITES = [
   { tenant: "nvidia", wd: "wd5", site: "NVIDIAExternalCareerSite", company: "NVIDIA" },
   { tenant: "sec", wd: "wd3", site: "Samsung_Careers", company: "Samsung" },
+
+  // Aerospace / defense primes
+  { tenant: "boeing", wd: "wd1", site: "EXTERNAL_CAREERS", company: "Boeing" },
+  { tenant: "ngc", wd: "wd1", site: "Northrop_Grumman_External_Site", company: "Northrop Grumman" },
+  { tenant: "globalhr", wd: "wd5", site: "REC_RTX_Ext_Gateway", company: "RTX / Raytheon" },
+  { tenant: "geaerospace", wd: "wd5", site: "GE_ExternalSite", company: "GE Aerospace" },
+  { tenant: "rollsroyce", wd: "wd3", site: "professional", company: "Rolls-Royce" },
+  { tenant: "leonardocompany", wd: "wd3", site: "LeonardoCareerSite", company: "Leonardo (aerospace/defense group)" },
+
+  // Space
+  { tenant: "blueorigin", wd: "wd5", site: "BlueOrigin", company: "Blue Origin" },
+  { tenant: "sierraspace", wd: "wd1", site: "Sierra_Space_External_Career_Site", company: "Sierra Space" },
+
+  // Defense / government tech services
+  { tenant: "leidos", wd: "wd5", site: "External", company: "Leidos" },
+  { tenant: "bah", wd: "wd1", site: "BAH_Jobs", company: "Booz Allen Hamilton" },
+  { tenant: "gdit", wd: "wd5", site: "External_Career_Site", company: "General Dynamics IT" },
+
+  // Industrial / advanced manufacturing
+  { tenant: "cat", wd: "wd5", site: "CaterpillarCareers", company: "Caterpillar" },
+  { tenant: "amat", wd: "wd1", site: "External", company: "Applied Materials" },
+];
+
+// Ashby — free public read-only API, no key. boardName is the org slug in
+// jobs.ashbyhq.com/<boardName>; verify at
+// https://api.ashbyhq.com/posting-api/job-board/<boardName>
+const ASHBY_BOARDS = [
+  // Mechanical engineering / advanced manufacturing / robotics
+  { boardName: "skydio", company: "Skydio" }, // drones / autonomy
+  { boardName: "physicalintelligence", company: "Physical Intelligence" }, // robotics / physical AI
+  { boardName: "1x", company: "1X Technologies" }, // humanoid robotics
+  { boardName: "worldlabs", company: "World Labs" }, // spatial/physical AI, robotics research
+  { boardName: "cobot", company: "Cobot" }, // collaborative robotics manufacturing
+
+  // Industrial / advanced manufacturing / materials / energy hardware
+  { boardName: "helion", company: "Helion Energy" }, // fusion energy hardware
+  { boardName: "brimstone", company: "Brimstone" }, // decarbonized cement/industrial materials
+  { boardName: "crusoe", company: "Crusoe" }, // GPU/data-center infra, industrial-scale compute
+  { boardName: "cerebras", company: "Cerebras Systems" }, // AI chip / silicon hardware
+
+  // Embedded / firmware / general software
+  { boardName: "openai", company: "OpenAI" },
+  { boardName: "cognition", company: "Cognition (Devin)" },
+  { boardName: "perplexity", company: "Perplexity" },
+  { boardName: "sierra", company: "Sierra" },
+  { boardName: "harvey", company: "Harvey" },
+  { boardName: "elevenlabs", company: "ElevenLabs" },
+  { boardName: "notion", company: "Notion" },
+  { boardName: "linear", company: "Linear" },
+  { boardName: "ramp", company: "Ramp" },
+  { boardName: "vanta", company: "Vanta" },
+  { boardName: "supabase", company: "Supabase" },
 ];
 
 const KEYWORD_FILTER = null; // e.g. "engineer" to only keep matching titles, or null for everything
@@ -68,7 +144,9 @@ function daysAgo(dateLike) {
 }
 
 function passesFilters(job) {
-  if (MAX_AGE_DAYS !== null && daysAgo(job.posted) > MAX_AGE_DAYS) return false;
+  // Some sources (Workday) never expose a real posted date — don't let an
+  // unknown date masquerade as "infinitely old" via new Date(null) === epoch.
+  if (MAX_AGE_DAYS !== null && job.posted && daysAgo(job.posted) > MAX_AGE_DAYS) return false;
   if (KEYWORD_FILTER) {
     const haystack = `${job.title} ${job.company} ${job.tags.join(" ")}`.toLowerCase();
     if (!haystack.includes(KEYWORD_FILTER.toLowerCase())) return false;
@@ -212,6 +290,24 @@ async function fetchWorkday({ tenant, wd, site, company }) {
 }
 
 // ---------------------------------------------------------------------------
+// Ashby — free public read-only API, no key. boardName is the org slug in
+// jobs.ashbyhq.com/<boardName>.
+// ---------------------------------------------------------------------------
+async function fetchAshby({ boardName, company }) {
+  const data = await fetchJson(`https://api.ashbyhq.com/posting-api/job-board/${boardName}`);
+  return (data.jobs || []).map((item) => ({
+    id: `ashby-${boardName}-${item.id}`,
+    title: item.title,
+    company,
+    location: item.location || "Unspecified",
+    url: item.jobUrl,
+    source: "Ashby",
+    tags: item.department ? [item.department] : [],
+    posted: item.publishedAt || null,
+  }));
+}
+
+// ---------------------------------------------------------------------------
 // Amazon — amazon.jobs has no officially documented public API. This calls
 // the same internal search.json endpoint amazon.jobs's own site uses, which
 // works today but isn't a supported contract, so treat it as fragile: it
@@ -240,6 +336,7 @@ async function main() {
     ...GREENHOUSE_BOARDS.map((token) => [`Greenhouse:${token}`, () => fetchGreenhouse(token)]),
     ...LEVER_COMPANIES.map((token) => [`Lever:${token}`, () => fetchLever(token)]),
     ...WORKDAY_SITES.map((cfg) => [`Workday:${cfg.company}`, () => fetchWorkday(cfg)]),
+    ...ASHBY_BOARDS.map((cfg) => [`Ashby:${cfg.company}`, () => fetchAshby(cfg)]),
   ];
 
   const results = await Promise.allSettled(fetchers.map(([, fn]) => fn()));

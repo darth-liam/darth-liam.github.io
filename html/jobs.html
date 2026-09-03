@@ -95,6 +95,31 @@
   }
   .status-dot.error { background: var(--red); box-shadow: 0 0 6px var(--red); }
 
+  /* ---- Home link ---- */
+  .home-link-row {
+    margin-bottom: 14px;
+  }
+  .home-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    background: var(--flap);
+    border: 1px solid var(--amber-dim);
+    color: var(--amber);
+    border-radius: var(--radius);
+    padding: 8px 14px;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-decoration: none;
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+  .home-link:hover {
+    background: var(--amber);
+    color: var(--board-deep);
+  }
+
   /* ---- Controls ---- */
   .controls {
     display: flex;
@@ -141,7 +166,7 @@
     font-weight: 700;
   }
 
-  /* ---- Column headers ---- */
+  /* ---- Column headers (filterable) ---- */
   .cols {
     display: grid;
     grid-template-columns: 90px 1.6fr 1.3fr 1fr 100px;
@@ -151,8 +176,101 @@
     letter-spacing: 0.12em;
     color: var(--cream-dim);
     text-transform: uppercase;
+    position: relative;
   }
-  .cols span:last-child { text-align: right; }
+  .col-head {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    cursor: pointer;
+    user-select: none;
+    color: inherit;
+  }
+  .col-head:hover { color: var(--cream); }
+  .col-head.filtered { color: var(--amber); }
+  .col-head .caret { font-size: 9px; opacity: 0.7; }
+  .cols .col-head:last-child { justify-content: flex-end; }
+  .cols > *:last-child { text-align: right; }
+
+  .filter-panel {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    margin-top: 6px;
+    z-index: 20;
+    min-width: 220px;
+    max-width: 280px;
+    background: var(--flap);
+    border: 1px solid var(--amber-dim);
+    border-radius: var(--radius);
+    box-shadow: 0 10px 24px rgba(0,0,0,0.5);
+    padding: 10px;
+    text-transform: none;
+    letter-spacing: normal;
+    font-size: 13px;
+    color: var(--cream);
+  }
+  .cols > *:last-child .filter-panel { left: auto; right: 0; }
+  .filter-panel input[type="text"] {
+    width: 100%;
+    box-sizing: border-box;
+    background: var(--board);
+    border: 1px solid #000;
+    border-radius: var(--radius);
+    color: var(--cream);
+    padding: 7px 9px;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    outline: none;
+    margin-bottom: 8px;
+  }
+  .filter-panel input[type="text"]:focus { border-color: var(--amber); }
+  .filter-options {
+    max-height: 220px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  .filter-option {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    color: var(--cream-dim);
+    cursor: pointer;
+  }
+  .filter-option:hover { color: var(--cream); }
+  .filter-option input { accent-color: var(--amber); flex-shrink: 0; }
+  .filter-option .count { margin-left: auto; opacity: 0.6; font-size: 11px; }
+  .filter-actions {
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+    margin-top: 9px;
+    padding-top: 9px;
+    border-top: 1px solid rgba(255,255,255,0.06);
+  }
+  .filter-actions button {
+    background: none;
+    border: 1px solid var(--amber-dim);
+    color: var(--amber);
+    border-radius: var(--radius);
+    padding: 6px 10px;
+    font-family: "Inter", sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.03em;
+    cursor: pointer;
+  }
+  .filter-actions button:hover { background: var(--amber); color: var(--board-deep); }
+  .filter-empty {
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    color: var(--cream-dim);
+    padding: 4px 2px;
+  }
 
   /* ---- Rows (the split-flap listings) ---- */
   #rows { display: flex; flex-direction: column; gap: 6px; }
@@ -233,10 +351,17 @@
     .row .source { justify-self: start; margin-top: 4px; }
     .row .tags { grid-column: 1; }
   }
+  @media (max-width: 480px) {
+    .home-link { padding: 7px 11px; font-size: 11px; }
+  }
 </style>
 </head>
 <body>
   <div class="board">
+    <div class="home-link-row">
+      <a class="home-link sans" href="/">&larr; Return to Home</a>
+    </div>
+
     <header class="marquee">
       <div class="marquee-top">
         <h1>JOB BOARD</h1>
@@ -246,30 +371,65 @@
 
     <div class="controls">
       <input type="text" id="searchInput" placeholder="Search title, company, or tag&hellip;" />
-      <div class="chip-select" id="sourceFilters"></div>
     </div>
 
-    <div class="cols">
-      <span>Posted</span>
-      <span>Position</span>
-      <span>Company</span>
-      <span>Location</span>
-      <span>Source</span>
-    </div>
+    <div class="cols" id="colsRow"></div>
 
     <div id="rows">
       <div class="loading">Fetching listings&hellip;</div>
     </div>
 
     <footer class="sans">
-      Aggregated from RemoteOK, Remotive, and Arbeitnow &middot; refreshed automatically.
+      Aggregated from RemoteOK, Remotive, Arbeitnow, Amazon, and Greenhouse/Lever/Workday/Ashby
+      company boards &middot; refreshed automatically.
       Listings link out to the original posting &mdash; always apply on the source site.
     </footer>
   </div>
 
 <script>
   let ALL_JOBS = [];
-  let activeSource = "all";
+
+  // Column filter config. "values" = checklist of unique values (with a
+  // search-within box). "buckets" = fixed checklist of posted-age buckets.
+  // "text" = a single free-text keyword filter.
+  const COLUMNS = [
+    { key: "posted", field: "posted", label: "Posted", type: "buckets" },
+    { key: "title", field: "title", label: "Position", type: "text" },
+    { key: "company", field: "company", label: "Company", type: "values" },
+    { key: "location", field: "location", label: "Location", type: "values" },
+    { key: "source", field: "source", label: "Source", type: "values" },
+  ];
+
+  const BUCKETS = [
+    { key: "24h", label: "Last 24 hours" },
+    { key: "7d", label: "Last 7 days" },
+    { key: "30d", label: "Last 30 days" },
+    { key: "older", label: "Older than 30 days" },
+    { key: "unknown", label: "Unknown date" },
+  ];
+
+  // filters.posted / .company / .location / .source are Sets of allowed
+  // values (empty Set = no filter on that column). filters.title is a plain
+  // lowercased keyword string.
+  const filters = { posted: new Set(), title: "", company: new Set(), location: new Set(), source: new Set() };
+  const panelSearch = { company: "", location: "", source: "" };
+  let openPanel = null;
+
+  function postedBucket(iso) {
+    if (!iso) return "unknown";
+    const then = new Date(iso).getTime();
+    if (Number.isNaN(then)) return "unknown";
+    const hrs = (Date.now() - then) / (1000 * 60 * 60);
+    if (hrs < 24) return "24h";
+    const days = hrs / 24;
+    if (days < 7) return "7d";
+    if (days < 30) return "30d";
+    return "older";
+  }
+
+  function columnHasFilter(col) {
+    return col.type === "text" ? filters[col.key].length > 0 : filters[col.key].size > 0;
+  }
 
   function timeAgo(iso) {
     if (!iso) return "—";
@@ -290,23 +450,33 @@
     }[c]));
   }
 
-  function render() {
-    const q = document.getElementById("searchInput").value.trim().toLowerCase();
-    const rowsEl = document.getElementById("rows");
+  function matchesColumnFilters(j) {
+    if (filters.posted.size && !filters.posted.has(postedBucket(j.posted))) return false;
+    if (filters.title && !String(j.title || "").toLowerCase().includes(filters.title)) return false;
+    if (filters.company.size && !filters.company.has(j.company)) return false;
+    if (filters.location.size && !filters.location.has(j.location)) return false;
+    if (filters.source.size && !filters.source.has(j.source)) return false;
+    return true;
+  }
 
-    let jobs = ALL_JOBS;
-    if (activeSource !== "all") {
-      jobs = jobs.filter((j) => j.source === activeSource);
-    }
+  function getFilteredJobs() {
+    const q = document.getElementById("searchInput").value.trim().toLowerCase();
+    let jobs = ALL_JOBS.filter(matchesColumnFilters);
     if (q) {
       jobs = jobs.filter((j) => {
         const haystack = `${j.title} ${j.company} ${j.location} ${(j.tags || []).join(" ")}`.toLowerCase();
         return haystack.includes(q);
       });
     }
+    return jobs;
+  }
+
+  function render() {
+    const rowsEl = document.getElementById("rows");
+    const jobs = getFilteredJobs();
 
     if (jobs.length === 0) {
-      rowsEl.innerHTML = `<div class="empty">No listings match that search right now.</div>`;
+      rowsEl.innerHTML = `<div class="empty">No listings match the current search/filters.</div>`;
       return;
     }
 
@@ -322,21 +492,159 @@
     `).join("");
   }
 
-  function buildSourceFilters() {
-    const sources = ["all", ...new Set(ALL_JOBS.map((j) => j.source))];
-    const el = document.getElementById("sourceFilters");
-    el.innerHTML = sources.map((s) => `
-      <button class="chip ${s === activeSource ? "active" : ""}" data-source="${escapeHtml(s)}">
-        ${s === "all" ? "All" : escapeHtml(s)}
-      </button>
+  // ---- Column header filter dropdowns ---------------------------------
+
+  function valueCounts(field) {
+    const counts = new Map();
+    for (const j of ALL_JOBS) {
+      const v = j[field] || "Unspecified";
+      counts.set(v, (counts.get(v) || 0) + 1);
+    }
+    return [...counts.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+  }
+
+  function bucketCounts() {
+    const counts = new Map();
+    for (const j of ALL_JOBS) {
+      const b = postedBucket(j.posted);
+      counts.set(b, (counts.get(b) || 0) + 1);
+    }
+    return BUCKETS.map((b) => ({ ...b, count: counts.get(b.key) || 0 }));
+  }
+
+  function renderOptionsList(col) {
+    if (col.type === "buckets") {
+      return bucketCounts().map((b) => `
+        <label class="filter-option">
+          <input type="checkbox" data-key="${col.key}" data-value="${escapeHtml(b.key)}" ${filters.posted.has(b.key) ? "checked" : ""} />
+          <span>${escapeHtml(b.label)}</span>
+          <span class="count">${b.count}</span>
+        </label>
+      `).join("");
+    }
+    const search = panelSearch[col.key] || "";
+    const entries = valueCounts(col.field).filter(([v]) => v.toLowerCase().includes(search.toLowerCase()));
+    if (entries.length === 0) return `<div class="filter-empty">No matches.</div>`;
+    return entries.map(([v, count]) => `
+      <label class="filter-option">
+        <input type="checkbox" data-key="${col.key}" data-value="${escapeHtml(v)}" ${filters[col.key].has(v) ? "checked" : ""} />
+        <span>${escapeHtml(v)}</span>
+        <span class="count">${count}</span>
+      </label>
     `).join("");
-    el.querySelectorAll(".chip").forEach((btn) => {
-      btn.addEventListener("click", () => {
-        activeSource = btn.dataset.source;
-        el.querySelectorAll(".chip").forEach((c) => c.classList.remove("active"));
-        btn.classList.add("active");
+  }
+
+  function renderPanel(col) {
+    if (col.type === "text") {
+      return `
+        <div class="filter-panel" data-panel="${col.key}">
+          <input type="text" data-role="text-filter" data-key="${col.key}" placeholder="Filter ${escapeHtml(col.label.toLowerCase())}&hellip;" value="${escapeHtml(filters.title)}" />
+          <div class="filter-actions">
+            <button type="button" data-action="clear" data-key="${col.key}">Clear</button>
+            <button type="button" data-action="close">Close</button>
+          </div>
+        </div>
+      `;
+    }
+    return `
+      <div class="filter-panel" data-panel="${col.key}">
+        ${col.type === "values" ? `<input type="text" data-role="panel-search" data-key="${col.key}" placeholder="Search&hellip;" value="${escapeHtml(panelSearch[col.key] || "")}" />` : ""}
+        <div class="filter-options" data-options="${col.key}">${renderOptionsList(col)}</div>
+        <div class="filter-actions">
+          <button type="button" data-action="clear" data-key="${col.key}">Clear</button>
+          <button type="button" data-action="close">Close</button>
+        </div>
+      </div>
+    `;
+  }
+
+  function renderCols() {
+    const el = document.getElementById("colsRow");
+    el.innerHTML = COLUMNS.map((col) => `
+      <div class="col-head ${columnHasFilter(col) ? "filtered" : ""}" data-col="${col.key}" role="button" tabindex="0" aria-haspopup="true" aria-expanded="${openPanel === col.key}">
+        ${escapeHtml(col.label)}<span class="caret">${openPanel === col.key ? "&#9650;" : "&#9660;"}</span>
+        ${openPanel === col.key ? renderPanel(col) : ""}
+      </div>
+    `).join("");
+
+    if (openPanel) {
+      const input = el.querySelector(`[data-panel="${openPanel}"] input[type="text"]`);
+      if (input) {
+        input.focus();
+        input.setSelectionRange(input.value.length, input.value.length);
+      }
+    }
+  }
+
+  function initColsEvents() {
+    const el = document.getElementById("colsRow");
+
+    el.addEventListener("click", (e) => {
+      const actionBtn = e.target.closest("[data-action]");
+      if (actionBtn) {
+        e.stopPropagation();
+        const key = actionBtn.dataset.key;
+        if (actionBtn.dataset.action === "clear") {
+          const col = COLUMNS.find((c) => c.key === key);
+          if (col.type === "text") filters.title = "";
+          else if (col.type === "buckets") filters.posted.clear();
+          else filters[key].clear();
+          if (panelSearch[key] !== undefined) panelSearch[key] = "";
+          render();
+          renderCols();
+        } else if (actionBtn.dataset.action === "close") {
+          openPanel = null;
+          renderCols();
+        }
+        return;
+      }
+
+      const panel = e.target.closest(".filter-panel");
+      if (panel) { e.stopPropagation(); return; }
+
+      const head = e.target.closest(".col-head");
+      if (head) {
+        openPanel = openPanel === head.dataset.col ? null : head.dataset.col;
+        renderCols();
+      }
+    });
+
+    el.addEventListener("keydown", (e) => {
+      if (e.key !== "Enter" && e.key !== " ") return;
+      if (!e.target.classList.contains("col-head")) return; // ignore typing inside panel inputs
+      e.preventDefault();
+      openPanel = openPanel === e.target.dataset.col ? null : e.target.dataset.col;
+      renderCols();
+    });
+
+    el.addEventListener("change", (e) => {
+      if (e.target.matches('input[type="checkbox"]')) {
+        const { key, value } = e.target.dataset;
+        const col = COLUMNS.find((c) => c.key === key);
+        const set = col.type === "buckets" ? filters.posted : filters[key];
+        if (e.target.checked) set.add(value); else set.delete(value);
         render();
-      });
+        el.querySelector(`[data-col="${key}"]`).classList.toggle("filtered", columnHasFilter(col));
+      }
+    });
+
+    el.addEventListener("input", (e) => {
+      if (e.target.matches('[data-role="text-filter"]')) {
+        filters.title = e.target.value.trim().toLowerCase();
+        render();
+        el.querySelector(`[data-col="${e.target.dataset.key}"]`).classList.toggle("filtered", filters.title.length > 0);
+      } else if (e.target.matches('[data-role="panel-search"]')) {
+        const key = e.target.dataset.key;
+        panelSearch[key] = e.target.value;
+        el.querySelector(`[data-options="${key}"]`).innerHTML = renderOptionsList(COLUMNS.find((c) => c.key === key));
+      }
+    });
+
+    document.addEventListener("click", (e) => {
+      if (openPanel && !e.target.closest(".col-head")) {
+        openPanel = null;
+        renderCols();
+      }
     });
   }
 
@@ -353,7 +661,8 @@
         updated ? updated.toLocaleString() : "recently"
       }`;
 
-      buildSourceFilters();
+      renderCols();
+      initColsEvents();
       render();
       document.getElementById("searchInput").addEventListener("input", render);
     } catch (err) {
@@ -365,14 +674,6 @@
 
   init();
 </script>
-
-<div class="content-block button">
-                    <button>
-                        <a href="\index.html">
-                            <b>Back to Home</b>
-                        </a>
-                    </button>
-                </div>
 
 </body>
 </html>
