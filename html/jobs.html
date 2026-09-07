@@ -141,29 +141,52 @@
   .controls input[type="text"]::placeholder { color: var(--cream-dim); }
   .controls input[type="text"]:focus { border-color: var(--amber); }
 
-  .chip-select {
+  /* ---- Category tabs ---- */
+  .tabs {
     display: flex;
     gap: 6px;
     flex-wrap: wrap;
+    margin: 4px 0 18px;
   }
-  .chip {
+  .tab {
     background: var(--flap);
     border: 1px solid #000;
+    border-bottom: 3px solid transparent;
     color: var(--cream-dim);
-    border-radius: var(--radius);
-    padding: 10px 13px;
-    font-family: inherit;
+    border-radius: var(--radius) var(--radius) 0 0;
+    padding: 10px 16px;
+    font-family: "Inter", sans-serif;
     font-size: 12px;
     letter-spacing: 0.05em;
     cursor: pointer;
     text-transform: uppercase;
   }
-  .chip:hover { color: var(--cream); }
-  .chip.active {
-    color: var(--board-deep);
-    background: var(--amber);
-    border-color: var(--amber-dim);
+  .tab:hover { color: var(--cream); }
+  .tab.active {
+    color: var(--amber);
+    border-bottom-color: var(--amber);
     font-weight: 700;
+  }
+  .tab .tab-count { margin-left: 6px; opacity: 0.65; font-weight: 400; }
+
+  /* ---- US/Remote toggle ---- */
+  .remote-toggle {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: "Inter", sans-serif;
+    font-size: 13px;
+    color: var(--cream-dim);
+    cursor: pointer;
+    white-space: nowrap;
+    padding: 0 4px;
+  }
+  .remote-toggle:hover { color: var(--cream); }
+  .remote-toggle input {
+    accent-color: var(--amber);
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
   }
 
   /* ---- Column headers (filterable) ---- */
@@ -369,8 +392,14 @@
       </div>
     </header>
 
+    <div class="tabs" id="tabsRow"></div>
+
     <div class="controls">
       <input type="text" id="searchInput" placeholder="Search title, company, or tag&hellip;" />
+      <label class="remote-toggle sans">
+        <input type="checkbox" id="usRemoteCheckbox" />
+        US or Remote roles only
+      </label>
     </div>
 
     <div class="cols" id="colsRow"></div>
@@ -414,6 +443,90 @@
   const filters = { posted: new Set(), title: "", company: new Set(), location: new Set(), source: new Set() };
   const panelSearch = { company: "", location: "", source: "" };
   let openPanel = null;
+
+  // ---- Category tabs (heuristic classification off the job title) --------
+
+  const CATEGORY_TABS = [
+    { key: "all", label: "All" },
+    { key: "internship", label: "Internships" },
+    { key: "newgrad", label: "New Grad Roles" },
+    { key: "other", label: "Other" },
+  ];
+  let activeCategory = "all";
+
+  const INTERNSHIP_RE = /\b(intern|interns|internship|internships|co-?op)\b/i;
+  const NEW_GRAD_RE = /\b(new[\s-]?grad|entry[\s-]?level|early[\s-]?career|new college grad|recent grad(uate)?s?|graduate program|graduate scheme|rotational program|associate engineer|junior)\b/i;
+  const GRAD_YEAR_RE = /\bclass of 20\d{2}\b|\b20\d{2}\s+grad(uate)?s?\b/i;
+
+  // No source exposes an explicit employment level, so this is a best-effort
+  // title-keyword classifier, not a guarantee.
+  function classifyJob(job) {
+    const title = job.title || "";
+    if (INTERNSHIP_RE.test(title)) return "internship";
+    if (NEW_GRAD_RE.test(title) || GRAD_YEAR_RE.test(title)) return "newgrad";
+    return "other";
+  }
+
+  // ---- US / Remote checkbox (best-effort off the free-text location) -----
+
+  let usRemoteOnly = false;
+
+  const US_STATE_ABBR = new Set([
+    "AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID","IL","IN","IA",
+    "KS","KY","LA","ME","MD","MA","MI","MN","MS","MO","MT","NE","NV","NH","NJ",
+    "NM","NY","NC","ND","OH","OK","OR","PA","RI","SC","SD","TN","TX","UT","VT",
+    "VA","WA","WV","WI","WY","DC",
+  ]);
+
+  const US_STATE_NAMES = [
+    "Alabama","Alaska","Arizona","Arkansas","California","Colorado","Connecticut",
+    "Delaware","Florida","Georgia","Hawaii","Idaho","Illinois","Indiana","Iowa",
+    "Kansas","Kentucky","Louisiana","Maine","Maryland","Massachusetts","Michigan",
+    "Minnesota","Mississippi","Missouri","Montana","Nebraska","Nevada",
+    "New Hampshire","New Jersey","New Mexico","New York","North Carolina",
+    "North Dakota","Ohio","Oklahoma","Oregon","Pennsylvania","Rhode Island",
+    "South Carolina","South Dakota","Tennessee","Texas","Utah","Vermont",
+    "Virginia","Washington","West Virginia","Wisconsin","Wyoming",
+    "District of Columbia",
+  ];
+
+  // Some sources (Ashby especially) list a bare city with no state/country —
+  // a short, deliberately non-exhaustive list of unambiguous US tech/aerospace
+  // hub cities to catch the common case.
+  const US_CITY_WHITELIST = new Set([
+    "san francisco","sunnyvale","mountain view","palo alto","menlo park","cupertino",
+    "san jose","redwood city","santa clara","san mateo","foster city","emeryville",
+    "berkeley","oakland","fremont","milpitas","santa monica","el segundo","hawthorne",
+    "playa vista","irvine","san diego","long beach","los angeles","austin","seattle",
+    "bellevue","redmond","boston","new york","brooklyn","chicago","denver","boulder",
+    "atlanta","miami","houston","dallas","detroit","pittsburgh","philadelphia",
+    "washington","arlington","reston","herndon","nashville","salt lake city",
+    "phoenix","scottsdale","tempe","las vegas","minneapolis","san antonio",
+    "raleigh","durham","charlotte","huntsville","colorado springs",
+  ]);
+
+  // No source exposes a structured country/remote flag, so this is a
+  // best-effort classifier off whatever free-text location string each ATS
+  // happens to return (formats vary wildly across sources).
+  function isUSOrRemote(rawLocation) {
+    const loc = String(rawLocation || "").trim();
+    if (!loc || loc.toLowerCase() === "unspecified") return false;
+
+    if (/\b(remote|worldwide|anywhere|americas)\b/i.test(loc)) return true;
+    if (/\bunited states\b/i.test(loc)) return true;
+    if (/\bUSA\b/i.test(loc)) return true;
+    if (/\bUS\b/.test(loc)) return true; // case-sensitive: bare "US" token, e.g. "Denver, CO - US"
+    if (/u\.s\.a?\.?/i.test(loc)) return true; // "U.S." / "U.S.A."
+
+    const lower = loc.toLowerCase();
+    if (US_STATE_NAMES.some((name) => lower.includes(name.toLowerCase()))) return true;
+
+    const tokens = loc.split(",").map((t) => t.trim());
+    if (tokens.some((t) => t.length === 2 && t === t.toUpperCase() && US_STATE_ABBR.has(t))) return true;
+    if (tokens.some((t) => US_CITY_WHITELIST.has(t.toLowerCase()))) return true;
+
+    return false;
+  }
 
   function postedBucket(iso) {
     if (!iso) return "unknown";
@@ -459,7 +572,9 @@
     return true;
   }
 
-  function getFilteredJobs() {
+  // Everything except the category tab — used both for the row list (further
+  // narrowed by the active tab) and to compute live per-tab counts.
+  function getBaseFilteredJobs() {
     const q = document.getElementById("searchInput").value.trim().toLowerCase();
     let jobs = ALL_JOBS.filter(matchesColumnFilters);
     if (q) {
@@ -468,12 +583,38 @@
         return haystack.includes(q);
       });
     }
+    if (usRemoteOnly) {
+      jobs = jobs.filter((j) => isUSOrRemote(j.location));
+    }
     return jobs;
+  }
+
+  function renderTabs(baseJobs) {
+    const counts = { all: baseJobs.length, internship: 0, newgrad: 0, other: 0 };
+    for (const j of baseJobs) counts[classifyJob(j)]++;
+
+    const el = document.getElementById("tabsRow");
+    el.innerHTML = CATEGORY_TABS.map((tab) => `
+      <button type="button" class="tab ${activeCategory === tab.key ? "active" : ""}" data-tab="${tab.key}">
+        ${escapeHtml(tab.label)}<span class="tab-count">${counts[tab.key]}</span>
+      </button>
+    `).join("");
+  }
+
+  function initTabsEvents() {
+    document.getElementById("tabsRow").addEventListener("click", (e) => {
+      const btn = e.target.closest(".tab");
+      if (!btn) return;
+      activeCategory = btn.dataset.tab;
+      render();
+    });
   }
 
   function render() {
     const rowsEl = document.getElementById("rows");
-    const jobs = getFilteredJobs();
+    const baseJobs = getBaseFilteredJobs();
+    renderTabs(baseJobs);
+    const jobs = activeCategory === "all" ? baseJobs : baseJobs.filter((j) => classifyJob(j) === activeCategory);
 
     if (jobs.length === 0) {
       rowsEl.innerHTML = `<div class="empty">No listings match the current search/filters.</div>`;
@@ -663,8 +804,13 @@
 
       renderCols();
       initColsEvents();
+      initTabsEvents();
       render();
       document.getElementById("searchInput").addEventListener("input", render);
+      document.getElementById("usRemoteCheckbox").addEventListener("change", (e) => {
+        usRemoteOnly = e.target.checked;
+        render();
+      });
     } catch (err) {
       statusLine.innerHTML = `<span class="status-dot error"></span>couldn't load listings`;
       document.getElementById("rows").innerHTML =

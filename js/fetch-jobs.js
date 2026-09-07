@@ -35,18 +35,26 @@ const GREENHOUSE_BOARDS = [
   "hawkeye360", // HawkEye 360 — https://job-boards.greenhouse.io/hawkeye360
   "muonspace", // Muon Space — https://job-boards.greenhouse.io/muonspace
   "albedo", // Albedo — https://job-boards.greenhouse.io/albedo
+  "ursamajor", // Ursa Major (rocket propulsion) — https://job-boards.greenhouse.io/ursamajor
+  "inversionspace", // Inversion Space (reentry/orbital delivery vehicles) — https://job-boards.greenhouse.io/inversionspace
+  "k2spacecorporation", // K2 Space (high-power satellite buses) — https://job-boards.greenhouse.io/k2spacecorporation
+  "gitai", // GITAI (space robotics — in-space/lunar robotic arms & rovers) — https://job-boards.greenhouse.io/gitai
 
   // Aircraft / eVTOL / aerospace defense
   "supernal", // Supernal (Hyundai eVTOL) — https://job-boards.greenhouse.io/supernal
   "electraaero", // Electra.aero — https://job-boards.greenhouse.io/electraaero
   "dawnaerospace", // Dawn Aerospace — https://job-boards.anz.greenhouse.io/dawnaerospace
   "andurilindustries", // Anduril Industries — https://boards.greenhouse.io/andurilindustries
+  "archer56", // Archer Aviation (eVTOL air taxis) — https://job-boards.greenhouse.io/archer56
 
   // Mechanical engineering / advanced manufacturing / robotics
   "divergent", // Divergent (aerospace/automotive additive manufacturing) — https://job-boards.greenhouse.io/divergent
   "figureai", // Figure (humanoid robotics) — https://job-boards.greenhouse.io/figureai
   "agilityrobotics", // Agility Robotics — https://www.agilityrobotics.com/careers
   "apptronik", // Apptronik (humanoid robotics) — https://boards.greenhouse.io/apptronik
+  "nuro", // Nuro (autonomous delivery vehicles) — https://job-boards.greenhouse.io/nuro
+  "waymo", // Waymo (autonomous ride-hailing/trucking) — https://job-boards.greenhouse.io/waymo
+  "neuralink", // Neuralink (brain-computer interfaces) — https://job-boards.greenhouse.io/neuralink
 ];
 
 const LEVER_COMPANIES = [
@@ -56,6 +64,7 @@ const LEVER_COMPANIES = [
   // Aircraft / eVTOL / aerospace defense
   "merlinlabs", // Merlin Labs (autonomous flight systems) — https://jobs.lever.co/merlinlabs
   "elroyair", // Elroy Air (autonomous cargo aircraft) — https://jobs.lever.co/elroyair
+  "hermeus", // Hermeus (hypersonic aircraft) — https://jobs.lever.co/hermeus
 
   // Defense tech / robotics
   "shieldai", // Shield AI (autonomous defense systems) — https://jobs.lever.co/shieldai
@@ -67,6 +76,7 @@ const LEVER_COMPANIES = [
   "waabi", // Waabi (autonomous trucking) — https://jobs.lever.co/waabi
   "brightmachines", // Bright Machines (AI-enabled manufacturing robotics) — https://jobs.lever.co/brightmachines
   "sila", // Sila Nanotechnologies (battery materials/advanced manufacturing) — https://jobs.lever.co/sila
+  "honeybeerobotics", // Honeybee Robotics (space/planetary robotics, Blue Origin family) — https://jobs.lever.co/honeybeerobotics
 
   // General software
   "palantir", // Palantir — https://jobs.lever.co/palantir
@@ -84,10 +94,13 @@ const WORKDAY_SITES = [
   // Aerospace / defense primes
   { tenant: "boeing", wd: "wd1", site: "EXTERNAL_CAREERS", company: "Boeing" },
   { tenant: "ngc", wd: "wd1", site: "Northrop_Grumman_External_Site", company: "Northrop Grumman" },
-  { tenant: "globalhr", wd: "wd5", site: "REC_RTX_Ext_Gateway", company: "RTX / Raytheon" },
+  { tenant: "globalhr", wd: "wd5", site: "REC_RTX_Ext_Gateway", company: "RTX / Raytheon" }, // also covers Pratt & Whitney and Collins Aerospace — same RTX tenant
   { tenant: "geaerospace", wd: "wd5", site: "GE_ExternalSite", company: "GE Aerospace" },
   { tenant: "rollsroyce", wd: "wd3", site: "professional", company: "Rolls-Royce" },
   { tenant: "leonardocompany", wd: "wd3", site: "LeonardoCareerSite", company: "Leonardo (aerospace/defense group)" },
+  { tenant: "avav", wd: "wd1", site: "AVAV", company: "AeroVironment" },
+  { tenant: "wisk", wd: "wd108", site: "Wisk_Careers", company: "Wisk Aero" },
+  { tenant: "moog", wd: "wd5", site: "MOOG_External_Career_Site", company: "Moog Inc" },
 
   // Space
   { tenant: "blueorigin", wd: "wd5", site: "BlueOrigin", company: "Blue Origin" },
@@ -113,6 +126,13 @@ const ASHBY_BOARDS = [
   { boardName: "1x", company: "1X Technologies" }, // humanoid robotics
   { boardName: "worldlabs", company: "World Labs" }, // spatial/physical AI, robotics research
   { boardName: "cobot", company: "Cobot" }, // collaborative robotics manufacturing
+  { boardName: "apex-technology-inc", company: "Apex Space" }, // satellite bus manufacturer
+  { boardName: "hadrian-automation", company: "Hadrian" }, // autonomous parts factories for aerospace/defense
+  { boardName: "machina-labs", company: "Machina Labs" }, // robotic metal forming
+  { boardName: "turion-space", company: "Turion Space" }, // in-orbit servicing/debris removal
+  { boardName: "starpath.space", company: "Starpath Robotics" }, // lunar/Mars ISRU (propellant, solar power)
+  { boardName: "serverobotics", company: "Serve Robotics" }, // sidewalk delivery robots
+  { boardName: "reliable-robotics", company: "Reliable Robotics" }, // autonomous aircraft systems
 
   // Industrial / advanced manufacturing / materials / energy hardware
   { boardName: "helion", company: "Helion Energy" }, // fusion energy hardware
