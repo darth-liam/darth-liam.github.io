@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T12:05:37.035Z",
-  "count": 10408,
+  "updated_at": "2026-11-01T21:23:22.534Z",
+  "count": 10369,
   "sources": {
     "RemoteOK": {
       "ok": true,
@@ -132,7 +132,7 @@
     },
     "Lever:elroyair": {
       "ok": true,
-      "count": 8
+      "count": 7
     },
     "Lever:hermeus": {
       "ok": true,
@@ -320,7 +320,7 @@
     },
     "Ashby:OpenAI": {
       "ok": true,
-      "count": 810
+      "count": 809
     },
     "Ashby:Cognition (Devin)": {
       "ok": true,
@@ -336,11 +336,11 @@
     },
     "Ashby:Harvey": {
       "ok": true,
-      "count": 381
+      "count": 378
     },
     "Ashby:ElevenLabs": {
       "ok": true,
-      "count": 138
+      "count": 139
     },
     "Ashby:Notion": {
       "ok": true,
@@ -365,6 +365,1257 @@
   },
   "jobs": [
     {
+      "id": "greenhouse-rocketlab-8055818003",
+      "title": "Senior Production Planner",
+      "company": "Rocket Lab Corporation",
+      "location": "Warkworth, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8055818003",
+      "source": "Greenhouse",
+      "tags": [
+        "2655 SC Planning"
+      ],
+      "posted": "2026-11-01T16:04:25-05:00"
+    },
+    {
+      "id": "arbeitnow-brand-ambassador-representing-the-brand-hacoy-munich-131633",
+      "title": "Brand Ambassador - Representing the Brand | HACOY",
+      "company": "HACOY",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/hacoy/brand-ambassador-representing-the-brand-hacoy-munich-131633",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Marketing and Communication"
+      ],
+      "posted": "2026-11-01T19:30:42.000Z"
+    },
+    {
+      "id": "arbeitnow-business-intelligence-data-architect-430867",
+      "title": "Business Intelligence Data Architect",
+      "company": "Contentstack",
+      "location": "Unspecified",
+      "url": "https://www.arbeitnow.nl/jobs/companies/contentstack/business-intelligence-data-architect-430867",
+      "source": "Arbeitnow",
+      "tags": [
+        "Information Technology & Trust"
+      ],
+      "posted": "2026-11-01T18:55:29.000Z"
+    },
+    {
+      "id": "arbeitnow-platform-reliability-engineering-manager-sydney-australia-105040",
+      "title": "Platform Reliability Engineering Manager",
+      "company": "Firmus",
+      "location": "Sydney, Australia",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/firmus/platform-reliability-engineering-manager-sydney-australia-105040",
+      "source": "Arbeitnow",
+      "tags": [
+        "AI FactoryOS Operations"
+      ],
+      "posted": "2026-11-01T18:55:28.000Z"
+    },
+    {
+      "id": "arbeitnow-strategic-account-executive-private-markets-europe-london-178538",
+      "title": "Strategic Account Executive - Private Markets, Europe",
+      "company": "Carta",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/carta/strategic-account-executive-private-markets-europe-london-178538",
+      "source": "Arbeitnow",
+      "tags": [
+        "Account Executive"
+      ],
+      "posted": "2026-11-01T18:55:25.000Z"
+    },
+    {
+      "id": "arbeitnow-solutions-engineer-london-1429",
+      "title": "Solutions Engineer",
+      "company": "Carta",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/carta/solutions-engineer-london-1429",
+      "source": "Arbeitnow",
+      "tags": [
+        "Sales"
+      ],
+      "posted": "2026-11-01T18:55:25.000Z"
+    },
+    {
+      "id": "greenhouse-vardaspace-8147140003",
+      "title": "Senior Guidance, Navigation, and Controls (GNC) Engineer",
+      "company": "Varda Space Industries",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8147140003",
+      "source": "Greenhouse",
+      "tags": [
+        "Guidance, Navigation & Controls"
+      ],
+      "posted": "2026-11-01T13:41:26-05:00"
+    },
+    {
+      "id": "arbeitnow-manager-applied-ai-engineering-codex-munich-421206",
+      "title": "Manager, Applied AI Engineering (Codex)",
+      "company": "OpenAI",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/openai/manager-applied-ai-engineering-codex-munich-421206",
+      "source": "Arbeitnow",
+      "tags": [
+        "Go To Market"
+      ],
+      "posted": "2026-11-01T18:40:17.000Z"
+    },
+    {
+      "id": "arbeitnow-remote-sr-customer-success-advisor-176455",
+      "title": "Sr. Customer Success Advisor",
+      "company": "Illumio",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/illumio/remote-sr-customer-success-advisor-176455",
+      "source": "Arbeitnow",
+      "tags": [
+        "Sales"
+      ],
+      "posted": "2026-11-01T18:40:17.000Z"
+    },
+    {
+      "id": "arbeitnow-corporate-security-engineer-berlin-168490",
+      "title": "Corporate Security Engineer",
+      "company": "Superhuman",
+      "location": "Hub - Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/superhuman/corporate-security-engineer-berlin-168490",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering",
+        "Product",
+        "Design",
+        "and Marketing"
+      ],
+      "posted": "2026-11-01T18:40:13.000Z"
+    },
+    {
+      "id": "greenhouse-vardaspace-8147057003",
+      "title": "Senior Mission Software Engineer",
+      "company": "Varda Space Industries",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8147057003",
+      "source": "Greenhouse",
+      "tags": [
+        "Software"
+      ],
+      "posted": "2026-11-01T13:29:35-05:00"
+    },
+    {
+      "id": "greenhouse-vardaspace-8146865003",
+      "title": "Senior Flight Software Engineer",
+      "company": "Varda Space Industries",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8146865003",
+      "source": "Greenhouse",
+      "tags": [
+        "Software"
+      ],
+      "posted": "2026-11-01T13:13:49-05:00"
+    },
+    {
+      "id": "greenhouse-vardaspace-8146423003",
+      "title": "Senior Embedded Software Engineer",
+      "company": "Varda Space Industries",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8146423003",
+      "source": "Greenhouse",
+      "tags": [
+        "Software"
+      ],
+      "posted": "2026-11-01T12:32:39-05:00"
+    },
+    {
+      "id": "arbeitnow-klaviyo-email-marketer-for-dtc-brands-berlin-394824",
+      "title": "Klaviyo Email Marketer for DTC Brands",
+      "company": "Email Marketing Agentur",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/email-marketing-agentur/klaviyo-email-marketer-for-dtc-brands-berlin-394824",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "CRM",
+        "Direct Marketing"
+      ],
+      "posted": "2026-11-01T17:00:52.000Z"
+    },
+    {
+      "id": "arbeitnow-moodle-e-learning-specialist-dortmund-422656",
+      "title": "Moodle & E-Learning Specialist (m/w/d)",
+      "company": "XRbit gUG (haftungsbeschränkt)",
+      "location": "Dortmund",
+      "url": "https://www.arbeitnow.com/jobs/companies/xrbit-gug-haftungsbeschrankt/moodle-e-learning-specialist-dortmund-422656",
+      "source": "Arbeitnow",
+      "tags": [
+        "Training",
+        "Development"
+      ],
+      "posted": "2026-11-01T17:00:52.000Z"
+    },
+    {
+      "id": "arbeitnow-lead-ai-engineer-remote-berlin-289486",
+      "title": "Lead AI Engineer (m/w/d) – Remote",
+      "company": "MAIA",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/maia/lead-ai-engineer-remote-berlin-289486",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Development"
+      ],
+      "posted": "2026-11-01T17:00:52.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-product-engineer-ai-remote-berlin-51768",
+      "title": "(Senior) Product Engineer – AI (m/f/d) – Remote",
+      "company": "MAIA",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-product-engineer-ai-remote-berlin-51768",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "posted": "2026-11-01T17:00:51.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-ai-remote-berlin-132265",
+      "title": "(Senior) Software Engineer – AI (m/f/d) – Remote",
+      "company": "MAIA",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-software-engineer-ai-remote-berlin-132265",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "posted": "2026-11-01T17:00:51.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-ai-engineer-remote-berlin-24944",
+      "title": "(Senior) AI Engineer (m/f/d) – Remote",
+      "company": "MAIA",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-ai-engineer-remote-berlin-24944",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "posted": "2026-11-01T16:30:49.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-devops-platform-engineer-ai-infrastructure-leipzig-479802",
+      "title": "Senior DevOps / Platform Engineer – AI Infrastructure (m/w/d)",
+      "company": "MAIA",
+      "location": "Leipzig",
+      "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-ai-infrastructure-leipzig-479802",
+      "source": "Arbeitnow",
+      "tags": [
+        "System and Network Administration"
+      ],
+      "posted": "2026-11-01T16:30:49.000Z"
+    },
+    {
+      "id": "arbeitnow-lead-ai-engineer-leipzig-162590",
+      "title": "Lead AI Engineer (m/w/d)",
+      "company": "MAIA",
+      "location": "Leipzig",
+      "url": "https://www.arbeitnow.com/jobs/companies/maia/lead-ai-engineer-leipzig-162590",
+      "source": "Arbeitnow",
+      "tags": [
+        "Data Scientist"
+      ],
+      "posted": "2026-11-01T16:30:48.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-product-engineer-ai-leipzig-192315",
+      "title": "(Senior) Product Engineer – AI (m/w/d)",
+      "company": "MAIA",
+      "location": "Leipzig",
+      "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-product-engineer-ai-leipzig-192315",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "posted": "2026-11-01T16:30:48.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-ai-leipzig-78273",
+      "title": "(Senior) Software Engineer – AI (m/w/d)",
+      "company": "MAIA",
+      "location": "Leipzig",
+      "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-software-engineer-ai-leipzig-78273",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "posted": "2026-11-01T16:30:48.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-ai-engineer-leipzig-40091",
+      "title": "(Senior) AI Engineer (m/w/d)",
+      "company": "MAIA",
+      "location": "Leipzig",
+      "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-ai-engineer-leipzig-40091",
+      "source": "Arbeitnow",
+      "tags": [
+        "Data Scientist"
+      ],
+      "posted": "2026-11-01T16:30:48.000Z"
+    },
+    {
+      "id": "arbeitnow-verkaufsleiter-lk-1145-cologne-273923",
+      "title": "Verkaufsleiter (m/w/d) (LK 1145)",
+      "company": "Laszlo & Kollegen Personalberatung GmbH",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/laszlo-kollegen-personalberatung-gmbh/verkaufsleiter-lk-1145-cologne-273923",
+      "source": "Arbeitnow",
+      "tags": [
+        "Management",
+        "Team Leader"
+      ],
+      "posted": "2026-11-01T16:01:09.000Z"
+    },
+    {
+      "id": "arbeitnow-1st-level-itsupport-karlsruhe-399973",
+      "title": "1st Level IT‑Support (m/w/d)",
+      "company": "n-komm GmbH",
+      "location": "Karlsruhe",
+      "url": "https://www.arbeitnow.com/jobs/companies/n-komm-gmbh/1st-level-itsupport-karlsruhe-399973",
+      "source": "Arbeitnow",
+      "tags": [
+        "Helpdesk"
+      ],
+      "posted": "2026-11-01T16:01:08.000Z"
+    },
+    {
+      "id": "arbeitnow-sector-lead-insights-consulting-frankfurt-230350",
+      "title": "Sector Lead, Insights Consulting",
+      "company": "Cision",
+      "location": "Frankfurt",
+      "url": "https://www.arbeitnow.com/jobs/companies/cision/sector-lead-insights-consulting-frankfurt-230350",
+      "source": "Arbeitnow",
+      "tags": [
+        "502 - CX Insights"
+      ],
+      "posted": "2026-11-01T15:55:30.000Z"
+    },
+    {
+      "id": "arbeitnow-principal-program-manager-operations-management-london-hybrid-or-uk-remote-145514",
+      "title": "Principal Program Manager - Operations Management - London (hybrid) or UK remote",
+      "company": "Convera",
+      "location": "Unspecified",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/convera/principal-program-manager-operations-management-london-hybrid-or-uk-remote-145514",
+      "source": "Arbeitnow",
+      "tags": [
+        "Program Management"
+      ],
+      "posted": "2026-11-01T15:55:27.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-product-designer-london-19194",
+      "title": "Senior Product Designer",
+      "company": "Sahajsoftware",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sahajsoftware/senior-product-designer-london-19194",
+      "source": "Arbeitnow",
+      "tags": [
+        "Design Strategy"
+      ],
+      "posted": "2026-11-01T15:55:27.000Z"
+    },
+    {
+      "id": "arbeitnow-lead-principal-engineer-full-stack-london-129468",
+      "title": "Lead / Principal Engineer - Full Stack",
+      "company": "Sahajsoftware",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sahajsoftware/lead-principal-engineer-full-stack-london-129468",
+      "source": "Arbeitnow",
+      "tags": [
+        "Full Stack Development"
+      ],
+      "posted": "2026-11-01T15:55:27.000Z"
+    },
+    {
+      "id": "arbeitnow-lead-data-engineer-london-302886",
+      "title": "Lead Data Engineer",
+      "company": "Sahajsoftware",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sahajsoftware/lead-data-engineer-london-302886",
+      "source": "Arbeitnow",
+      "tags": [
+        "Data Engineering"
+      ],
+      "posted": "2026-11-01T15:55:27.000Z"
+    },
+    {
+      "id": "arbeitnow-pre-sales-solution-consultant-people-analytics-london-161246",
+      "title": "Pre-Sales Solution Consultant (People Analytics)",
+      "company": "Onemodel",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/onemodel/pre-sales-solution-consultant-people-analytics-london-161246",
+      "source": "Arbeitnow",
+      "tags": [
+        "Sales"
+      ],
+      "posted": "2026-11-01T15:55:27.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-product-manager-340504",
+      "title": "Senior Product Manager",
+      "company": "Shopfully",
+      "location": "Unspecified",
+      "url": "https://www.arbeitnow.fr/jobs/companies/shopfully/senior-product-manager-340504",
+      "source": "Arbeitnow",
+      "tags": [
+        "Product"
+      ],
+      "posted": "2026-11-01T15:55:27.000Z"
+    },
+    {
+      "id": "arbeitnow-marketing-automation-engineer-london-419068",
+      "title": "Marketing Automation Engineer",
+      "company": "Privateequityinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/marketing-automation-engineer-london-419068",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing"
+      ],
+      "posted": "2026-11-01T15:55:26.000Z"
+    },
+    {
+      "id": "arbeitnow-go-to-market-specialist-london-134041",
+      "title": "Go-To-Market Specialist",
+      "company": "Privateequityinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/go-to-market-specialist-london-134041",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing"
+      ],
+      "posted": "2026-11-01T15:55:26.000Z"
+    },
+    {
+      "id": "arbeitnow-go-to-market-engineer-london-275304",
+      "title": "Go-To-Market Engineer",
+      "company": "Privateequityinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/go-to-market-engineer-london-275304",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing"
+      ],
+      "posted": "2026-11-01T15:55:26.000Z"
+    },
+    {
+      "id": "arbeitnow-go-to-market-consultant-london-331573",
+      "title": "Go-To-Market Consultant",
+      "company": "Privateequityinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/go-to-market-consultant-london-331573",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing"
+      ],
+      "posted": "2026-11-01T15:55:26.000Z"
+    },
+    {
+      "id": "arbeitnow-go-to-market-associate-london-24332",
+      "title": "Go-To-Market Associate",
+      "company": "Privateequityinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/go-to-market-associate-london-24332",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing"
+      ],
+      "posted": "2026-11-01T15:55:26.000Z"
+    },
+    {
+      "id": "arbeitnow-go-to-market-analyst-london-389893",
+      "title": "Go-To-Market Analyst",
+      "company": "Privateequityinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/go-to-market-analyst-london-389893",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing"
+      ],
+      "posted": "2026-11-01T15:55:26.000Z"
+    },
+    {
+      "id": "arbeitnow-global-account-executive-at-private-equity-insights-london-373357",
+      "title": "Global Account Executive at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/global-account-executive-at-private-equity-insights-london-373357",
+      "source": "Arbeitnow",
+      "tags": [
+        "Sales"
+      ],
+      "posted": "2026-11-01T15:55:26.000Z"
+    },
+    {
+      "id": "arbeitnow-ai-engineer-london-199709",
+      "title": "AI Engineer",
+      "company": "Privateequityinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/ai-engineer-london-199709",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing"
+      ],
+      "posted": "2026-11-01T15:55:26.000Z"
+    },
+    {
+      "id": "arbeitnow-ai-automation-engineer-london-435673",
+      "title": "AI Automation Engineer",
+      "company": "Privateequityinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/ai-automation-engineer-london-435673",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing"
+      ],
+      "posted": "2026-11-01T15:55:26.000Z"
+    },
+    {
+      "id": "arbeitnow-agentic-marketing-specialist-london-283644",
+      "title": "Agentic Marketing Specialist",
+      "company": "Privateequityinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/agentic-marketing-specialist-london-283644",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing"
+      ],
+      "posted": "2026-11-01T15:55:26.000Z"
+    },
+    {
+      "id": "arbeitnow-agentic-marketing-engineer-london-179381",
+      "title": "Agentic Marketing Engineer",
+      "company": "Privateequityinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/agentic-marketing-engineer-london-179381",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing"
+      ],
+      "posted": "2026-11-01T15:55:26.000Z"
+    },
+    {
+      "id": "arbeitnow-agentic-marketing-consultant-london-108532",
+      "title": "Agentic Marketing Consultant",
+      "company": "Privateequityinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/agentic-marketing-consultant-london-108532",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing"
+      ],
+      "posted": "2026-11-01T15:55:26.000Z"
+    },
+    {
+      "id": "arbeitnow-agentic-marketing-associate-london-263610",
+      "title": "Agentic Marketing Associate",
+      "company": "Privateequityinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/agentic-marketing-associate-london-263610",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing"
+      ],
+      "posted": "2026-11-01T15:55:26.000Z"
+    },
+    {
+      "id": "arbeitnow-agentic-marketing-analyst-london-16862",
+      "title": "Agentic Marketing Analyst",
+      "company": "Privateequityinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/agentic-marketing-analyst-london-16862",
+      "source": "Arbeitnow",
+      "tags": [
+        "Marketing"
+      ],
+      "posted": "2026-11-01T15:55:26.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-research-analyst-motorsports-and-formula-1-100039",
+      "title": "Senior Research Analyst - Motorsports and Formula 1",
+      "company": "Cision",
+      "location": "Unspecified",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cision/senior-research-analyst-motorsports-and-formula-1-100039",
+      "source": "Arbeitnow",
+      "tags": [
+        "515 - Media Intelligence"
+      ],
+      "posted": "2026-11-01T15:55:26.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-mechatronics-engineer-cambridge-234698",
+      "title": "Senior Mechatronics Engineer",
+      "company": "Lightcastdiscovery",
+      "location": "Cambridge",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightcastdiscovery/senior-mechatronics-engineer-cambridge-234698",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering (Mech and Elec)"
+      ],
+      "posted": "2026-11-01T15:55:25.000Z"
+    },
+    {
+      "id": "arbeitnow-solution-architect-8295-282189",
+      "title": "Solution Architect - 8295",
+      "company": "Peregrine",
+      "location": "Unspecified",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/peregrine/solution-architect-8295-282189",
+      "source": "Arbeitnow",
+      "tags": [
+        "Experienced - Technology"
+      ],
+      "posted": "2026-11-01T15:55:25.000Z"
+    },
+    {
+      "id": "arbeitnow-information-architects-36114",
+      "title": "Information Architects",
+      "company": "Peregrine",
+      "location": "Unspecified",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/peregrine/information-architects-36114",
+      "source": "Arbeitnow",
+      "tags": [
+        "Experienced - Technology"
+      ],
+      "posted": "2026-11-01T15:55:25.000Z"
+    },
+    {
+      "id": "arbeitnow-erp-solutions-architect-81415",
+      "title": "ERP Solutions Architect",
+      "company": "Peregrine",
+      "location": "Unspecified",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/peregrine/erp-solutions-architect-81415",
+      "source": "Arbeitnow",
+      "tags": [],
+      "posted": "2026-11-01T15:55:25.000Z"
+    },
+    {
+      "id": "arbeitnow-data-solutions-architect-8293-357143",
+      "title": "Data Solutions Architect-8293",
+      "company": "Peregrine",
+      "location": "Unspecified",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/peregrine/data-solutions-architect-8293-357143",
+      "source": "Arbeitnow",
+      "tags": [
+        "Experienced - Technology"
+      ],
+      "posted": "2026-11-01T15:55:25.000Z"
+    },
+    {
+      "id": "arbeitnow-staff-ai-engineer-developer-productivity-hybrid-london-95244",
+      "title": "Staff AI Engineer, Developer Productivity",
+      "company": "Oura",
+      "location": "Hybrid - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oura/staff-ai-engineer-developer-productivity-hybrid-london-95244",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Engineering"
+      ],
+      "posted": "2026-11-01T15:55:25.000Z"
+    },
+    {
+      "id": "arbeitnow-director-partnerships-enterprise-international-growth-hybrid-london-172521",
+      "title": "Director, Partnerships & Enterprise International Growth",
+      "company": "Oura",
+      "location": "Hybrid - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oura/director-partnerships-enterprise-international-growth-hybrid-london-172521",
+      "source": "Arbeitnow",
+      "tags": [
+        "Commercial"
+      ],
+      "posted": "2026-11-01T15:55:25.000Z"
+    },
+    {
+      "id": "arbeitnow-uk-graduate-leadership-programme-media-marketing-track-july-start-london-445660",
+      "title": "UK Graduate Leadership Programme - Media Marketing Track (July Start)",
+      "company": "Pmg",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pmg/uk-graduate-leadership-programme-media-marketing-track-july-start-london-445660",
+      "source": "Arbeitnow",
+      "tags": [
+        "GLP"
+      ],
+      "posted": "2026-11-01T15:55:25.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-munich-272556",
+      "title": "Senior Software Engineer",
+      "company": "Auterion",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/auterion/senior-software-engineer-munich-272556",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "posted": "2026-11-01T15:55:24.000Z"
+    },
+    {
+      "id": "arbeitnow-forward-deployed-engineer-munich-247982",
+      "title": "Forward Deployed Engineer",
+      "company": "Auterion",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/auterion/forward-deployed-engineer-munich-247982",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "posted": "2026-11-01T15:55:24.000Z"
+    },
+    {
+      "id": "arbeitnow-account-director-channel-sales-117020",
+      "title": "Account Director, Channel Sales",
+      "company": "Technologyadvice",
+      "location": "Unspecified",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/technologyadvice/account-director-channel-sales-117020",
+      "source": "Arbeitnow",
+      "tags": [
+        "Sales"
+      ],
+      "posted": "2026-11-01T15:55:24.000Z"
+    },
+    {
+      "id": "arbeitnow-strategic-account-director-london-296794",
+      "title": "Strategic Account Director",
+      "company": "payoneer",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/payoneer/strategic-account-director-london-296794",
+      "source": "Arbeitnow",
+      "tags": [
+        "GTM EMEA"
+      ],
+      "posted": "2026-11-01T15:55:24.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-analyst-customer-beauty-manchester-386818",
+      "title": "Senior Analyst — Customer (Beauty)",
+      "company": "Thehutgroup",
+      "location": "Manchester",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/senior-analyst-customer-beauty-manchester-386818",
+      "source": "Arbeitnow",
+      "tags": [
+        "THG Beauty"
+      ],
+      "posted": "2026-11-01T15:55:23.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-analyst-commercial-beauty-manchester-407241",
+      "title": "Senior Analyst — Commercial (Beauty)",
+      "company": "Thehutgroup",
+      "location": "Manchester",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/senior-analyst-commercial-beauty-manchester-407241",
+      "source": "Arbeitnow",
+      "tags": [
+        "THG Beauty"
+      ],
+      "posted": "2026-11-01T15:55:23.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-analyst-beauty-subscriptions-manchester-296243",
+      "title": "Senior Analyst — Beauty Subscriptions",
+      "company": "Thehutgroup",
+      "location": "Manchester",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/senior-analyst-beauty-subscriptions-manchester-296243",
+      "source": "Arbeitnow",
+      "tags": [
+        "THG Beauty"
+      ],
+      "posted": "2026-11-01T15:55:23.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-product-engineer-ai-agents-berlin-309383",
+      "title": "Senior Product Engineer (AI Agents)",
+      "company": "Cosuno",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-product-engineer-ai-agents-berlin-309383",
+      "source": "Arbeitnow",
+      "tags": [
+        "Tech"
+      ],
+      "posted": "2026-11-01T15:40:16.000Z"
+    },
+    {
+      "id": "arbeitnow-praktikantin-fur-integration-und-deutschsprachlehre-berlin-125373",
+      "title": "Praktikant:in (w/m/d) - für Integration und Deutschsprachlehre",
+      "company": "Enpal",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/enpal/praktikantin-fur-integration-und-deutschsprachlehre-berlin-125373",
+      "source": "Arbeitnow",
+      "tags": [
+        "Installation PV"
+      ],
+      "posted": "2026-11-01T15:40:16.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-talent-acquisition-partner-engineering-london-281493",
+      "title": "Senior Talent Acquisition Partner, Engineering",
+      "company": "Legora",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/legora/senior-talent-acquisition-partner-engineering-london-281493",
+      "source": "Arbeitnow",
+      "tags": [
+        "People"
+      ],
+      "posted": "2026-11-01T15:40:15.000Z"
+    },
+    {
+      "id": "arbeitnow-commercial-director-london-111071",
+      "title": "Commercial Director",
+      "company": "Relay",
+      "location": "London - On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/relay/commercial-director-london-111071",
+      "source": "Arbeitnow",
+      "tags": [
+        "Commercial"
+      ],
+      "posted": "2026-11-01T15:40:15.000Z"
+    },
+    {
+      "id": "arbeitnow-java-technical-lead-enterprise-applications-power-platform-london-462981",
+      "title": "Java Technical Lead - Enterprise Applications & Power Platform",
+      "company": "SwissPeak Partners GmbH",
+      "location": "London, Greater London, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/swisspeak-partners-gmbh/java-technical-lead-enterprise-applications-power-platform-london-462981",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Engineering"
+      ],
+      "posted": "2026-11-01T15:31:45.000Z"
+    },
+    {
+      "id": "arbeitnow-sap-analytics-consultant-lausanne-377506",
+      "title": "SAP Analytics Consultant",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Lausanne, Vaud, Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/sap-analytics-consultant-lausanne-377506",
+      "source": "Arbeitnow",
+      "tags": [
+        "Data & AI"
+      ],
+      "posted": "2026-11-01T15:31:44.000Z"
+    },
+    {
+      "id": "arbeitnow-software-project-manager-warehouse-management-zurich-421121",
+      "title": "Software Project Manager (Warehouse Management)",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Zurich, Zürich, Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/software-project-manager-warehouse-management-zurich-421121",
+      "source": "Arbeitnow",
+      "tags": [
+        "Projectlead & Business Analyst"
+      ],
+      "posted": "2026-11-01T15:31:44.000Z"
+    },
+    {
+      "id": "arbeitnow-remote-senior-full-stack-developer-deepdesk-rotterdam-346552",
+      "title": "Senior Full Stack Developer - Deepdesk",
+      "company": "AnywhereNow",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.nl/jobs/companies/anywherenow/remote-senior-full-stack-developer-deepdesk-rotterdam-346552",
+      "source": "Arbeitnow",
+      "tags": [
+        "Deepdesk",
+        "Remote"
+      ],
+      "posted": "2026-11-01T15:31:44.000Z"
+    },
+    {
+      "id": "arbeitnow-developpeur-nouveaux-projets-lyon-400371",
+      "title": "Développeur Nouveaux Projets (F/H/X)",
+      "company": "Novar Nederland BV",
+      "location": "Lyon, Auvergne-Rhône-Alpes, Frankrijk",
+      "url": "https://www.arbeitnow.fr/jobs/companies/novar-nederland-bv/developpeur-nouveaux-projets-lyon-400371",
+      "source": "Arbeitnow",
+      "tags": [
+        "France"
+      ],
+      "posted": "2026-11-01T15:31:42.000Z"
+    },
+    {
+      "id": "arbeitnow-stage-developpement-de-projets-de-stockage-denergie-par-batteries-bess-avignon-122695",
+      "title": "Stage – Développement de projets de stockage d’energie par batteries (BESS) (F/H/X)",
+      "company": "Novar Nederland BV",
+      "location": "Avignon, Provence-Alpes-Côte-d'Azur, Frankrijk",
+      "url": "https://www.arbeitnow.fr/jobs/companies/novar-nederland-bv/stage-developpement-de-projets-de-stockage-denergie-par-batteries-bess-avignon-122695",
+      "source": "Arbeitnow",
+      "tags": [
+        "France"
+      ],
+      "posted": "2026-11-01T15:31:42.000Z"
+    },
+    {
+      "id": "arbeitnow-sales-customer-support-manager-magdeburg-319836",
+      "title": "Sales & Customer Support Manager",
+      "company": "DRIVAR®",
+      "location": "Magdeburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/drivar/sales-customer-support-manager-magdeburg-319836",
+      "source": "Arbeitnow",
+      "tags": [
+        "Management",
+        "Team Leader"
+      ],
+      "posted": "2026-11-01T15:30:49.000Z"
+    },
+    {
+      "id": "greenhouse-vardaspace-8144842003",
+      "title": "Senior Build Reliability Engineer, Hardware",
+      "company": "Varda Space Industries",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8144842003",
+      "source": "Greenhouse",
+      "tags": [
+        "Mission Assurance"
+      ],
+      "posted": "2026-11-01T10:04:35-05:00"
+    },
+    {
+      "id": "arbeitnow-kundenmanager-schwerpunkt-beschwerdemanagement-munich-271300",
+      "title": "Kundenmanager (m/w/d) – Schwerpunkt Beschwerdemanagement",
+      "company": "Wiese Dental Beratungs GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/wiese-dental-beratungs-gmbh/kundenmanager-schwerpunkt-beschwerdemanagement-munich-271300",
+      "source": "Arbeitnow",
+      "tags": [
+        "Customer Service"
+      ],
+      "posted": "2026-11-01T15:00:48.000Z"
+    },
+    {
+      "id": "arbeitnow-sales-manager-private-banking-kongress-eventformate-hamburg-379503",
+      "title": "Sales Manager private banking kongress & Eventformate (m/w/d)",
+      "company": "Edelstoff Media GmbH",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/edelstoff-media-gmbh/sales-manager-private-banking-kongress-eventformate-hamburg-379503",
+      "source": "Arbeitnow",
+      "tags": [
+        "Management",
+        "Team Leader"
+      ],
+      "posted": "2026-11-01T15:00:48.000Z"
+    },
+    {
+      "id": "ashby-elevenlabs-830e66a8-892c-4c68-b61c-494591236eef",
+      "title": "Account Manager - DACH",
+      "company": "ElevenLabs",
+      "location": "Germany",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/830e66a8-892c-4c68-b61c-494591236eef",
+      "source": "Ashby",
+      "tags": [
+        "Revenue"
+      ],
+      "posted": "2026-11-01T14:38:06.209+00:00"
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-london-302650",
+      "title": "Senior Software Engineer",
+      "company": "Axon",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/axon/senior-software-engineer-london-302650",
+      "source": "Arbeitnow",
+      "tags": [
+        "Axon EVG_R&D"
+      ],
+      "posted": "2026-11-01T12:55:19.000Z"
+    },
+    {
+      "id": "arbeitnow-ai-systems-senior-software-engineer-357326",
+      "title": "AI Systems - Senior Software Engineer",
+      "company": "Ledgy",
+      "location": "Unspecified",
+      "url": "https://www.arbeitnow.com/jobs/companies/ledgy/ai-systems-senior-software-engineer-357326",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "posted": "2026-11-01T12:55:17.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-product-manager-481060",
+      "title": "Senior Product Manager",
+      "company": "Shopfully",
+      "location": "Unspecified",
+      "url": "https://www.arbeitnow.com/jobs/companies/shopfully/senior-product-manager-481060",
+      "source": "Arbeitnow",
+      "tags": [
+        "Product"
+      ],
+      "posted": "2026-11-01T12:55:16.000Z"
+    },
+    {
+      "id": "arbeitnow-account-executive-greenfield-london-uk-320403",
+      "title": "Account Executive - Greenfield - London UK",
+      "company": "Coreweaveu",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/account-executive-greenfield-london-uk-320403",
+      "source": "Arbeitnow",
+      "tags": [
+        "Global Field Organization"
+      ],
+      "posted": "2026-11-01T12:55:16.000Z"
+    },
+    {
+      "id": "arbeitnow-mid-level-software-engineer-london-114278",
+      "title": "Mid-Level Software Engineer",
+      "company": "Ledgy",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ledgy/mid-level-software-engineer-london-114278",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "posted": "2026-11-01T12:55:16.000Z"
+    },
+    {
+      "id": "arbeitnow-ai-systems-senior-software-engineer-london-346109",
+      "title": "AI Systems - Senior Software Engineer",
+      "company": "Ledgy",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ledgy/ai-systems-senior-software-engineer-london-346109",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "posted": "2026-11-01T12:55:16.000Z"
+    },
+    {
+      "id": "arbeitnow-software-engineer-net-woerden-145760",
+      "title": "Software Engineer (.NET)",
+      "company": "CCS Connects",
+      "location": "Woerden, Utrecht, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/ccs-connects/software-engineer-net-woerden-145760",
+      "source": "Arbeitnow",
+      "tags": [
+        "Development"
+      ],
+      "posted": "2026-11-01T12:51:32.000Z"
+    },
+    {
+      "id": "arbeitnow-founding-backend-engineergo-berlin-218872",
+      "title": "Founding Backend Engineer(Go)",
+      "company": "TechBiz Global GmbH",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-backend-engineergo-berlin-218872",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "posted": "2026-11-01T12:51:26.000Z"
+    },
+    {
+      "id": "arbeitnow-founding-engineering-team-lead-handson-berlin-208397",
+      "title": "Founding Engineering Team Lead (HandsOn)",
+      "company": "TechBiz Global GmbH",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-engineering-team-lead-handson-berlin-208397",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "posted": "2026-11-01T12:51:26.000Z"
+    },
+    {
+      "id": "arbeitnow-account-executive-berlin-405615",
+      "title": "Account Executive",
+      "company": "TechBiz Global GmbH",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/account-executive-berlin-405615",
+      "source": "Arbeitnow",
+      "tags": [
+        "Sales"
+      ],
+      "posted": "2026-11-01T12:51:26.000Z"
+    },
+    {
+      "id": "arbeitnow-alternance-commerciale-sales-business-developer-paris-314286",
+      "title": "Alternance - Commercial·e / Sales / Business Developer",
+      "company": "Matera",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/matera/alternance-commerciale-sales-business-developer-paris-314286",
+      "source": "Arbeitnow",
+      "tags": [
+        "Sales & Business Development"
+      ],
+      "posted": "2026-11-01T12:51:26.000Z"
+    },
+    {
+      "id": "arbeitnow-werkstudent-social-media-marketing-bad-salzungen-488529",
+      "title": "Werkstudent Social Media | Marketing (m/w/d)",
+      "company": "WerraEnergie GmbH",
+      "location": "Bad Salzungen, Thüringen, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-social-media-marketing-bad-salzungen-488529",
+      "source": "Arbeitnow",
+      "tags": [
+        "Organisation"
+      ],
+      "posted": "2026-11-01T12:51:25.000Z"
+    },
+    {
+      "id": "arbeitnow-werkstudent-bad-salzungen-121764",
+      "title": "Werkstudent (m/w/d)",
+      "company": "WerraEnergie GmbH",
+      "location": "Bad Salzungen, Thüringen, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-bad-salzungen-121764",
+      "source": "Arbeitnow",
+      "tags": [
+        "Werraenergie GmbH"
+      ],
+      "posted": "2026-11-01T12:51:25.000Z"
+    },
+    {
+      "id": "arbeitnow-werkstudent-elektrotechnik-energietechnik-bad-salzungen-416233",
+      "title": "Werkstudent Elektrotechnik / Energietechnik (m/w/d)",
+      "company": "WerraEnergie GmbH",
+      "location": "Bad Salzungen, Thüringen, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-elektrotechnik-energietechnik-bad-salzungen-416233",
+      "source": "Arbeitnow",
+      "tags": [
+        "WerraEnergiedienste GmbH"
+      ],
+      "posted": "2026-11-01T12:51:25.000Z"
+    },
+    {
+      "id": "arbeitnow-founding-strategy-and-operations-analyst-role-london-260320",
+      "title": "Founding Strategy and Operations Analyst role",
+      "company": "ClaimSorted",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/claimsorted/founding-strategy-and-operations-analyst-role-london-260320",
+      "source": "Arbeitnow",
+      "tags": [
+        "Operations"
+      ],
+      "posted": "2026-11-01T12:40:15.000Z"
+    },
+    {
+      "id": "arbeitnow-founding-strategy-operations-lead-london-347326",
+      "title": "Founding Strategy & Operations Lead - London",
+      "company": "ClaimSorted",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/claimsorted/founding-strategy-operations-lead-london-347326",
+      "source": "Arbeitnow",
+      "tags": [
+        "Operations"
+      ],
+      "posted": "2026-11-01T12:40:15.000Z"
+    },
+    {
+      "id": "arbeitnow-lead-platform-engineer-manchester-22226",
+      "title": "Lead Platform Engineer",
+      "company": "Kraken",
+      "location": "Manchester, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/lead-platform-engineer-manchester-22226",
+      "source": "Arbeitnow",
+      "tags": [
+        "Tech Development"
+      ],
+      "posted": "2026-11-01T12:40:14.000Z"
+    },
+    {
+      "id": "arbeitnow-tech-talent-partner-london-475091",
+      "title": "Tech Talent Partner",
+      "company": "Dex",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dex/tech-talent-partner-london-475091",
+      "source": "Arbeitnow",
+      "tags": [
+        "Dex"
+      ],
+      "posted": "2026-11-01T12:40:14.000Z"
+    },
+    {
+      "id": "arbeitnow-motion-designer-london-380114",
+      "title": "Motion Designer",
+      "company": "Wordsmith",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wordsmith/motion-designer-london-380114",
+      "source": "Arbeitnow",
+      "tags": [
+        "GTM"
+      ],
+      "posted": "2026-11-01T12:40:14.000Z"
+    },
+    {
+      "id": "arbeitnow-forward-deployed-engineer-england-140977",
+      "title": "Forward Deployed Engineer",
+      "company": "True Talent Solutions Partners",
+      "location": "England",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-england-140977",
+      "source": "Arbeitnow",
+      "tags": [
+        "Client Roles"
+      ],
+      "posted": "2026-11-01T12:40:14.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-manager-london-100339",
+      "title": "Senior Manager",
+      "company": "Faculty",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/senior-manager-london-100339",
+      "source": "Arbeitnow",
+      "tags": [
+        "Delivery"
+      ],
+      "posted": "2026-11-01T12:40:14.000Z"
+    },
+    {
+      "id": "arbeitnow-solutions-engineer-munich-441600",
+      "title": "Solutions Engineer",
+      "company": "True Talent Solutions Partners",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/solutions-engineer-munich-441600",
+      "source": "Arbeitnow",
+      "tags": [
+        "Client Roles"
+      ],
+      "posted": "2026-11-01T12:40:13.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-legal-partner-berlin-448096",
+      "title": "Senior Legal Partner",
+      "company": "True Talent Solutions Partners",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/senior-legal-partner-berlin-448096",
+      "source": "Arbeitnow",
+      "tags": [
+        "Client Roles"
+      ],
+      "posted": "2026-11-01T12:40:13.000Z"
+    },
+    {
+      "id": "arbeitnow-senior-data-engineer-azure-cloud-berlin-13456",
+      "title": "Senior Data Engineer - Azure Cloud (m/w/d)",
+      "company": "KRALLMANN AG",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/krallmann-ag/senior-data-engineer-azure-cloud-berlin-13456",
+      "source": "Arbeitnow",
+      "tags": [
+        "Data Processing",
+        "Data Engineer"
+      ],
+      "posted": "2026-11-01T12:30:47.000Z"
+    },
+    {
+      "id": "arbeitnow-manager-finance-paderborn-181995",
+      "title": "Manager Finance (m/w/d)",
+      "company": "assemblean",
+      "location": "Paderborn",
+      "url": "https://www.arbeitnow.com/jobs/companies/assemblean/manager-finance-paderborn-181995",
+      "source": "Arbeitnow",
+      "tags": [
+        "Management",
+        "Team Leader"
+      ],
+      "posted": "2026-11-01T11:31:04.000Z"
+    },
+    {
       "id": "arbeitnow-remote-regional-field-cto-130041",
       "title": "Regional Field CTO",
       "company": "Blackduck",
@@ -387,54 +1638,6 @@
         "2030 - Sales Engineers (GQP)"
       ],
       "posted": "2026-11-01T09:55:15.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-quantum-applications-architect-daresbury-207942",
-      "title": "Senior Quantum Applications Architect",
-      "company": "Psiquantum",
-      "location": "Daresbury",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/psiquantum/senior-quantum-applications-architect-daresbury-207942",
-      "source": "Arbeitnow",
-      "tags": [
-        "3800 - Quantum Applications"
-      ],
-      "posted": "2026-11-01T09:55:13.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-account-executive-future-opportunities-london-136036",
-      "title": "(Senior) Account Executive - Future Opportunities",
-      "company": "Globalwebindex",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/globalwebindex/senior-account-executive-future-opportunities-london-136036",
-      "source": "Arbeitnow",
-      "tags": [
-        "Revenue"
-      ],
-      "posted": "2026-11-01T09:55:13.000Z"
-    },
-    {
-      "id": "arbeitnow-backend-engineering-team-lead-london-manchester-386369",
-      "title": "Backend Engineering Team Lead",
-      "company": "Netcraft",
-      "location": "London, Manchester",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/netcraft/backend-engineering-team-lead-london-manchester-386369",
-      "source": "Arbeitnow",
-      "tags": [
-        "Engineering"
-      ],
-      "posted": "2026-11-01T09:55:13.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-platform-engineer-london-260230",
-      "title": "Senior Platform Engineer",
-      "company": "V7Labs.com",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/v7labscom/senior-platform-engineer-london-260230",
-      "source": "Arbeitnow",
-      "tags": [
-        "Engineering"
-      ],
-      "posted": "2026-11-01T09:40:16.000Z"
     },
     {
       "id": "arbeitnow-stage-marketing-associate-growth-events-paris-301697",
@@ -461,30 +1664,6 @@
       "posted": "2026-11-01T09:40:16.000Z"
     },
     {
-      "id": "arbeitnow-senior-people-partner-content-london-149702",
-      "title": "Senior People Partner - Content",
-      "company": "9Fin",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-people-partner-content-london-149702",
-      "source": "Arbeitnow",
-      "tags": [
-        "People"
-      ],
-      "posted": "2026-11-01T09:40:14.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-legal-operations-manager-london-404411",
-      "title": "Senior Legal Operations Manager",
-      "company": "9Fin",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-legal-operations-manager-london-404411",
-      "source": "Arbeitnow",
-      "tags": [
-        "Operations"
-      ],
-      "posted": "2026-11-01T09:40:14.000Z"
-    },
-    {
       "id": "arbeitnow-light-amplification-lead-darmstadt-197837",
       "title": "Light Amplification Lead (f/m/d)",
       "company": "Focused",
@@ -493,30 +1672,6 @@
       "source": "Arbeitnow",
       "tags": [
         "Laser"
-      ],
-      "posted": "2026-11-01T09:40:13.000Z"
-    },
-    {
-      "id": "arbeitnow-vp-sales-reading-270595",
-      "title": "VP Sales",
-      "company": "Neworbit",
-      "location": "Reading, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/vp-sales-reading-270595",
-      "source": "Arbeitnow",
-      "tags": [
-        "Business"
-      ],
-      "posted": "2026-11-01T09:40:13.000Z"
-    },
-    {
-      "id": "arbeitnow-commercial-lead-reading-53930",
-      "title": "Commercial Lead",
-      "company": "Neworbit",
-      "location": "Reading, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/commercial-lead-reading-53930",
-      "source": "Arbeitnow",
-      "tags": [
-        "Business"
       ],
       "posted": "2026-11-01T09:40:13.000Z"
     },
@@ -631,66 +1786,6 @@
       "posted": "2026-11-01T06:55:22.000Z"
     },
     {
-      "id": "arbeitnow-account-executive-i-french-speaker-london-273391",
-      "title": "Account Executive I - French Speaker",
-      "company": "Hudl",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hudl/account-executive-i-french-speaker-london-273391",
-      "source": "Arbeitnow",
-      "tags": [
-        "Elite Sales"
-      ],
-      "posted": "2026-11-01T06:55:21.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-infrastructure-software-engineer-london-307265",
-      "title": "Senior Infrastructure Software Engineer",
-      "company": "Lightningai",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-infrastructure-software-engineer-london-307265",
-      "source": "Arbeitnow",
-      "tags": [
-        "Infrastructure Engineering"
-      ],
-      "posted": "2026-11-01T06:55:19.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-customer-success-manager-corporate-life-sciences-london-greater-london-484569",
-      "title": "Senior Customer Success Manager, Corporate - Life Sciences",
-      "company": "Alphasense",
-      "location": "London, Greater London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/senior-customer-success-manager-corporate-life-sciences-london-greater-london-484569",
-      "source": "Arbeitnow",
-      "tags": [
-        "Customer Success"
-      ],
-      "posted": "2026-11-01T06:55:18.000Z"
-    },
-    {
-      "id": "arbeitnow-data-director-london-216708",
-      "title": "Data Director",
-      "company": "Wundermanthompson",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/data-director-london-216708",
-      "source": "Arbeitnow",
-      "tags": [
-        "Technology & Innovation"
-      ],
-      "posted": "2026-11-01T06:55:17.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-information-security-infrastructure-engineer-security-architecture-infosec-466908",
-      "title": "Senior Information Security Infrastructure Engineer - Security Architecture - InfoSec",
-      "company": "Elastic",
-      "location": "Unspecified",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/senior-information-security-infrastructure-engineer-security-architecture-infosec-466908",
-      "source": "Arbeitnow",
-      "tags": [
-        "InfoSec"
-      ],
-      "posted": "2026-11-01T06:55:15.000Z"
-    },
-    {
       "id": "arbeitnow-sales-development-representative-sdr-berlin-213352",
       "title": "Sales Development Representative / SDR (m/f/d)",
       "company": "praxipal",
@@ -739,18 +1834,6 @@
       "posted": "2026-11-01T06:40:14.000Z"
     },
     {
-      "id": "arbeitnow-social-media-manager-remote-united-kingdom-122909",
-      "title": "Social Media Manager - Remote",
-      "company": "Reedsy",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/reedsy/social-media-manager-remote-united-kingdom-122909",
-      "source": "Arbeitnow",
-      "tags": [
-        "Marketing"
-      ],
-      "posted": "2026-11-01T06:40:13.000Z"
-    },
-    {
       "id": "arbeitnow-senior-associate-information-security-consultant-munich-108585",
       "title": "Senior Associate Information Security Consultant",
       "company": "Dataguard",
@@ -797,54 +1880,6 @@
         "Creative"
       ],
       "posted": "2026-11-01T06:40:12.000Z"
-    },
-    {
-      "id": "arbeitnow-regional-demand-generation-marketer-london-429751",
-      "title": "Regional Demand Generation Marketer",
-      "company": "LangChain",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/langchain/regional-demand-generation-marketer-london-429751",
-      "source": "Arbeitnow",
-      "tags": [
-        "Marketing"
-      ],
-      "posted": "2026-11-01T06:40:12.000Z"
-    },
-    {
-      "id": "arbeitnow-vp-strategic-finance-london-355080",
-      "title": "VP, Strategic Finance",
-      "company": "Nivoda",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nivoda/vp-strategic-finance-london-355080",
-      "source": "Arbeitnow",
-      "tags": [
-        "Finance"
-      ],
-      "posted": "2026-11-01T06:40:12.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-google-partnerships-growth-director-london-62194",
-      "title": "Senior Google Partnerships Growth Director",
-      "company": "Jellyfish",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jellyfish/senior-google-partnerships-growth-director-london-62194",
-      "source": "Arbeitnow",
-      "tags": [
-        "Partnerships"
-      ],
-      "posted": "2026-11-01T06:40:12.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-business-development-representative-london-142538",
-      "title": "Senior Business Development Representative",
-      "company": "Taktile",
-      "location": "London Office",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/taktile/senior-business-development-representative-london-142538",
-      "source": "Arbeitnow",
-      "tags": [
-        "Business Development"
-      ],
-      "posted": "2026-11-01T06:40:11.000Z"
     },
     {
       "id": "arbeitnow-microwave-design-engineer-munich-301625",
@@ -1201,42 +2236,6 @@
       "posted": "2026-11-01T06:06:51.000Z"
     },
     {
-      "id": "arbeitnow-senior-data-engineer-real-time-analytics-london-office-255449",
-      "title": "Senior Data Engineer - Real time analytics",
-      "company": "Aircall",
-      "location": "London Office",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-255449",
-      "source": "Arbeitnow",
-      "tags": [
-        "13001 - Engineering"
-      ],
-      "posted": "2026-11-01T06:06:51.000Z"
-    },
-    {
-      "id": "arbeitnow-managing-director-north-uki-london-office-219579",
-      "title": "Managing Director North / UKI",
-      "company": "Aircall",
-      "location": "London Office",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/managing-director-north-uki-london-office-219579",
-      "source": "Arbeitnow",
-      "tags": [
-        "12006 - Sales Overhead"
-      ],
-      "posted": "2026-11-01T06:06:51.000Z"
-    },
-    {
-      "id": "arbeitnow-business-development-director-enterprise-london-united-kingdom-486299",
-      "title": "Business Development Director - Enterprise",
-      "company": "Adlook",
-      "location": "London, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/adlook/business-development-director-enterprise-london-united-kingdom-486299",
-      "source": "Arbeitnow",
-      "tags": [
-        "Business Development"
-      ],
-      "posted": "2026-11-01T06:06:51.000Z"
-    },
-    {
       "id": "arbeitnow-strategic-partner-account-manager-dach-paris-office-401569",
       "title": "Strategic Partner Account Manager DACH",
       "company": "Aircall",
@@ -1357,18 +2356,6 @@
       "posted": "2026-11-01T06:06:51.000Z"
     },
     {
-      "id": "arbeitnow-senior-director-brand-partnerships-emea-london-148731",
-      "title": "Senior Director, Brand Partnerships EMEA",
-      "company": "Equativ",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/equativ/senior-director-brand-partnerships-emea-london-148731",
-      "source": "Arbeitnow",
-      "tags": [
-        "Sales"
-      ],
-      "posted": "2026-11-01T06:06:50.000Z"
-    },
-    {
       "id": "arbeitnow-senior-director-brand-partnerships-emea-paris-180908",
       "title": "Senior Director, Brand Partnerships EMEA",
       "company": "Equativ",
@@ -1391,138 +2378,6 @@
         "Marketing"
       ],
       "posted": "2026-11-01T06:06:50.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-veterinary-surgeon-small-animal-cheltenham-gloucestershire-england-199392",
-      "title": "Senior Veterinary Surgeon - Small Animal",
-      "company": "Ivcevidensia",
-      "location": "Cheltenham, Gloucestershire, England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-veterinary-surgeon-small-animal-cheltenham-gloucestershire-england-199392",
-      "source": "Arbeitnow",
-      "tags": [
-        "Small Animal"
-      ],
-      "posted": "2026-11-01T06:06:49.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-veterinary-surgeon-small-animal-virginia-water-surrey-england-497019",
-      "title": "Senior Veterinary Surgeon - Small Animal",
-      "company": "Ivcevidensia",
-      "location": "Virginia Water, Surrey, England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-veterinary-surgeon-small-animal-virginia-water-surrey-england-497019",
-      "source": "Arbeitnow",
-      "tags": [
-        "Small Animal"
-      ],
-      "posted": "2026-11-01T06:06:49.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-veterinary-surgeon-small-animal-derby-derbyshire-england-29892",
-      "title": "Senior Veterinary Surgeon - Small Animal",
-      "company": "Ivcevidensia",
-      "location": "Derby, Derbyshire, England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-veterinary-surgeon-small-animal-derby-derbyshire-england-29892",
-      "source": "Arbeitnow",
-      "tags": [
-        "Small Animal"
-      ],
-      "posted": "2026-11-01T06:06:49.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-veterinary-surgeon-farm-mixed-longtown-cumbria-england-448952",
-      "title": "Senior Veterinary Surgeon - Farm/Mixed",
-      "company": "Ivcevidensia",
-      "location": "Longtown, Cumbria, England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-veterinary-surgeon-farm-mixed-longtown-cumbria-england-448952",
-      "source": "Arbeitnow",
-      "tags": [
-        "Farm"
-      ],
-      "posted": "2026-11-01T06:06:49.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-veterinary-surgeon-emergency-out-of-hours-doncaster-south-yorkshire-england-179503",
-      "title": "Senior Veterinary Surgeon - Emergency Out of Hours",
-      "company": "Ivcevidensia",
-      "location": "Doncaster, South Yorkshire, England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-veterinary-surgeon-emergency-out-of-hours-doncaster-south-yorkshire-england-179503",
-      "source": "Arbeitnow",
-      "tags": [
-        "Emergency Vet"
-      ],
-      "posted": "2026-11-01T06:06:49.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-veterinary-surgeon-emergency-out-of-hours-barton-le-clay-bedfordshire-england-458618",
-      "title": "Senior Veterinary Surgeon - Emergency Out of Hours",
-      "company": "Ivcevidensia",
-      "location": "Barton-Le-Clay, Bedfordshire, England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-veterinary-surgeon-emergency-out-of-hours-barton-le-clay-bedfordshire-england-458618",
-      "source": "Arbeitnow",
-      "tags": [
-        "Emergency Vet"
-      ],
-      "posted": "2026-11-01T06:06:49.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-veterinary-referral-clinician-ecc-derby-derbyshire-england-358946",
-      "title": "Senior Veterinary Referral Clinician - ECC",
-      "company": "Ivcevidensia",
-      "location": "Derby, Derbyshire, England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-veterinary-referral-clinician-ecc-derby-derbyshire-england-358946",
-      "source": "Arbeitnow",
-      "tags": [
-        "ECC"
-      ],
-      "posted": "2026-11-01T06:06:49.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-registered-veterinary-nurse-ottery-st-mary-devon-england-449346",
-      "title": "Senior Registered Veterinary Nurse",
-      "company": "Ivcevidensia",
-      "location": "Ottery St Mary, Devon, England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-registered-veterinary-nurse-ottery-st-mary-devon-england-449346",
-      "source": "Arbeitnow",
-      "tags": [
-        "Small Animal"
-      ],
-      "posted": "2026-11-01T06:06:49.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-clinical-equipment-veterinary-care-assistant-high-wycombe-buckinghamshire-england-307409",
-      "title": "Senior Clinical Equipment Veterinary Care Assistant",
-      "company": "Ivcevidensia",
-      "location": "High Wycombe, Buckinghamshire, England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-clinical-equipment-veterinary-care-assistant-high-wycombe-buckinghamshire-england-307409",
-      "source": "Arbeitnow",
-      "tags": [
-        "Clinical Support"
-      ],
-      "posted": "2026-11-01T06:06:49.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-branch-nurse-tadley-hampshire-england-208700",
-      "title": "Senior Branch Nurse",
-      "company": "Ivcevidensia",
-      "location": "Tadley, Hampshire, England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-branch-nurse-tadley-hampshire-england-208700",
-      "source": "Arbeitnow",
-      "tags": [
-        "Small Animal"
-      ],
-      "posted": "2026-11-01T06:06:49.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-veterinary-surgeon-emergency-out-of-hours-chester-cheshire-england-118511",
-      "title": "Senior  Veterinary Surgeon - Emergency Out of Hours",
-      "company": "Ivcevidensia",
-      "location": "Chester, Cheshire, England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-veterinary-surgeon-emergency-out-of-hours-chester-cheshire-england-118511",
-      "source": "Arbeitnow",
-      "tags": [
-        "Emergency Vet"
-      ],
-      "posted": "2026-11-01T06:06:49.000Z"
     },
     {
       "id": "arbeitnow-lead-data-scientist-h-f-marseille-264324",
@@ -1681,114 +2536,6 @@
       "posted": "2026-11-01T03:55:24.000Z"
     },
     {
-      "id": "arbeitnow-senior-director-legal-global-privacy-data-counsel-london-138729",
-      "title": "Senior Director, Legal - Global Privacy & Data Counsel",
-      "company": "sonyinteractiveentertainmentglobal",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-director-legal-global-privacy-data-counsel-london-138729",
-      "source": "Arbeitnow",
-      "tags": [
-        "Admin (Legal)"
-      ],
-      "posted": "2026-11-01T03:55:22.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-techops-engineer-contract-441004",
-      "title": "Senior TechOps Engineer Contract",
-      "company": "Xdesign",
-      "location": "Unspecified",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/xdesign/senior-techops-engineer-contract-441004",
-      "source": "Arbeitnow",
-      "tags": [
-        "Internal TechOps"
-      ],
-      "posted": "2026-11-01T03:55:21.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-devsecops-engineer-contract-418128",
-      "title": "Senior DevSecOps Engineer Contract",
-      "company": "Xdesign",
-      "location": "Unspecified",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/xdesign/senior-devsecops-engineer-contract-418128",
-      "source": "Arbeitnow",
-      "tags": [
-        "Cloud"
-      ],
-      "posted": "2026-11-01T03:55:21.000Z"
-    },
-    {
-      "id": "arbeitnow-principal-engineer-contract-352567",
-      "title": "Principal Engineer (contract)",
-      "company": "Xdesign",
-      "location": "Unspecified",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/xdesign/principal-engineer-contract-352567",
-      "source": "Arbeitnow",
-      "tags": [
-        "Engineering"
-      ],
-      "posted": "2026-11-01T03:55:21.000Z"
-    },
-    {
-      "id": "arbeitnow-patent-engineer-life-sciences-london-142371",
-      "title": "Patent Engineer (Life Sciences)",
-      "company": "Ankar",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ankar/patent-engineer-life-sciences-london-142371",
-      "source": "Arbeitnow",
-      "tags": [
-        "Go-to-Market & Customer Innovation"
-      ],
-      "posted": "2026-11-01T03:40:15.000Z"
-    },
-    {
-      "id": "arbeitnow-gtm-lead-uk-smb-mm-enterprise-london-179222",
-      "title": "GTM Lead, UK - SMB/MM/Enterprise",
-      "company": "Dust",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dust/gtm-lead-uk-smb-mm-enterprise-london-179222",
-      "source": "Arbeitnow",
-      "tags": [
-        "Sales"
-      ],
-      "posted": "2026-11-01T03:40:15.000Z"
-    },
-    {
-      "id": "arbeitnow-channel-partner-manager-flex-london-40296",
-      "title": "Channel Partner Manager, Flex",
-      "company": "Ramp",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ramp/channel-partner-manager-flex-london-40296",
-      "source": "Arbeitnow",
-      "tags": [
-        "Sales"
-      ],
-      "posted": "2026-11-01T03:40:15.000Z"
-    },
-    {
-      "id": "arbeitnow-channel-partner-manager-accounting-london-418123",
-      "title": "Channel Partner Manager, Accounting",
-      "company": "Ramp",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ramp/channel-partner-manager-accounting-london-418123",
-      "source": "Arbeitnow",
-      "tags": [
-        "Sales"
-      ],
-      "posted": "2026-11-01T03:40:15.000Z"
-    },
-    {
-      "id": "arbeitnow-director-partnerships-london-372419",
-      "title": "Director, Partnerships",
-      "company": "Ramp",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ramp/director-partnerships-london-372419",
-      "source": "Arbeitnow",
-      "tags": [
-        "Sales"
-      ],
-      "posted": "2026-11-01T03:40:15.000Z"
-    },
-    {
       "id": "arbeitnow-growth-engineer-intern-munich-170456",
       "title": "Growth Engineer (Intern)",
       "company": "Emidat GmbH",
@@ -1849,90 +2596,6 @@
       "posted": "2026-11-01T03:40:14.000Z"
     },
     {
-      "id": "arbeitnow-sr-compliance-associate-lead-market-surveillance-london-239866",
-      "title": "Sr. Compliance Associate Lead - Market Surveillance",
-      "company": "Kraken",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/sr-compliance-associate-lead-market-surveillance-london-239866",
-      "source": "Arbeitnow",
-      "tags": [
-        "Compliance"
-      ],
-      "posted": "2026-11-01T03:40:14.000Z"
-    },
-    {
-      "id": "arbeitnow-sr-compliance-associate-market-surveillance-london-310645",
-      "title": "Sr. Compliance Associate - Market Surveillance",
-      "company": "Kraken",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/sr-compliance-associate-market-surveillance-london-310645",
-      "source": "Arbeitnow",
-      "tags": [
-        "Compliance"
-      ],
-      "posted": "2026-11-01T03:40:14.000Z"
-    },
-    {
-      "id": "arbeitnow-enterprise-sales-engineer-london-412685",
-      "title": "Enterprise Sales Engineer",
-      "company": "Omnea",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/enterprise-sales-engineer-london-412685",
-      "source": "Arbeitnow",
-      "tags": [
-        "Go To Market"
-      ],
-      "posted": "2026-11-01T03:40:14.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-project-manager-contract-outside-of-ir35-london-300144",
-      "title": "Senior Project Manager - Contract (Outside of IR35)",
-      "company": "Wearebeyondsports",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wearebeyondsports/senior-project-manager-contract-outside-of-ir35-london-300144",
-      "source": "Arbeitnow",
-      "tags": [
-        "Beyond Sports"
-      ],
-      "posted": "2026-11-01T03:40:14.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-ai-computer-vision-engineer-uk-london-124406",
-      "title": "Senior AI - Computer Vision Engineer - UK",
-      "company": "Xyz Reality",
-      "location": "London Office",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/xyz-reality/senior-ai-computer-vision-engineer-uk-london-124406",
-      "source": "Arbeitnow",
-      "tags": [
-        "R&D"
-      ],
-      "posted": "2026-11-01T03:40:14.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-legal-counsel-privacy-leeds-452834",
-      "title": "Senior Legal Counsel - Privacy",
-      "company": "Leovegasgroup",
-      "location": "Leeds, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/senior-legal-counsel-privacy-leeds-452834",
-      "source": "Arbeitnow",
-      "tags": [
-        "Legal & Compliance"
-      ],
-      "posted": "2026-11-01T03:40:13.000Z"
-    },
-    {
-      "id": "arbeitnow-paid-social-specialist-uki-newcastle-upon-tyne-333430",
-      "title": "Paid Social Specialist - UK&I",
-      "company": "Leovegasgroup",
-      "location": "Newcastle Upon Tyne, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/paid-social-specialist-uki-newcastle-upon-tyne-333430",
-      "source": "Arbeitnow",
-      "tags": [
-        "Commercial"
-      ],
-      "posted": "2026-11-01T03:40:13.000Z"
-    },
-    {
       "id": "arbeitnow-assistante-ressources-humaines-en-alternance-f-h-villebon-sur-yvette-268261",
       "title": "Assistant(e) Ressources Humaines en alternance F/H",
       "company": "Castolin Eutectic",
@@ -1943,18 +2606,6 @@
         "Human Resources"
       ],
       "posted": "2026-11-01T03:31:35.000Z"
-    },
-    {
-      "id": "arbeitnow-management-consultant-public-sector-defence-london-184144",
-      "title": "Management Consultant (Public Sector & Defence)",
-      "company": "Efficioconsulting",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/efficioconsulting/management-consultant-public-sector-defence-london-184144",
-      "source": "Arbeitnow",
-      "tags": [
-        "Consulting Team"
-      ],
-      "posted": "2026-11-01T03:07:55.000Z"
     },
     {
       "id": "arbeitnow-senior-customer-onboarding-specialist-parisfrance-279471",
@@ -2221,54 +2872,6 @@
       "posted": "2026-11-01T03:07:47.000Z"
     },
     {
-      "id": "arbeitnow-senior-software-engineer-paris-80586",
-      "title": "Senior Software Engineer",
-      "company": "Bigblue",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/bigblue/senior-software-engineer-paris-80586",
-      "source": "Arbeitnow",
-      "tags": [
-        "Engineering"
-      ],
-      "posted": "2026-11-01T03:07:47.000Z"
-    },
-    {
-      "id": "arbeitnow-professional-services-director-paris-11853",
-      "title": "Professional Services Director",
-      "company": "Bigblue",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/bigblue/professional-services-director-paris-11853",
-      "source": "Arbeitnow",
-      "tags": [
-        "Business strategy"
-      ],
-      "posted": "2026-11-01T03:07:47.000Z"
-    },
-    {
-      "id": "arbeitnow-product-designer-paris-75685",
-      "title": "Product Designer",
-      "company": "Bigblue",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/bigblue/product-designer-paris-75685",
-      "source": "Arbeitnow",
-      "tags": [
-        "Product"
-      ],
-      "posted": "2026-11-01T03:07:47.000Z"
-    },
-    {
-      "id": "arbeitnow-key-account-manager-paris-259205",
-      "title": "Key Account Manager 🇫🇷",
-      "company": "Bigblue",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/bigblue/key-account-manager-paris-259205",
-      "source": "Arbeitnow",
-      "tags": [
-        "Account Management"
-      ],
-      "posted": "2026-11-01T03:07:47.000Z"
-    },
-    {
       "id": "arbeitnow-senior-frontend-engineer-react-berlin-436621",
       "title": "Senior Frontend Engineer - React",
       "company": "Researchgate",
@@ -2418,20 +3021,6 @@
       "posted": "November  1, 2026"
     },
     {
-      "id": "arbeitnow-bereichsleitung-marketing-chief-marketing-officer-berlin-188227",
-      "title": "Bereichsleitung Marketing · Chief Marketing Officer (m/w/d) im Ehrenamt",
-      "company": "Bundesverbraucherhilfe e.V.",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/bundesverbraucherhilfe-ev/bereichsleitung-marketing-chief-marketing-officer-berlin-188227",
-      "source": "Arbeitnow",
-      "tags": [
-        "Remote",
-        "Management",
-        "Team Leader"
-      ],
-      "posted": "2026-10-31T22:17:25.000Z"
-    },
-    {
       "id": "arbeitnow-lead-solutions-architect-munich-92372",
       "title": "Lead Solutions Architect",
       "company": "databricks",
@@ -2516,42 +3105,6 @@
       "posted": "2026-10-31T21:55:18.000Z"
     },
     {
-      "id": "arbeitnow-sales-engineering-manager-core-mainland-europe-107464",
-      "title": "Sales Engineering Manager Core - Mainland Europe",
-      "company": "Samsara",
-      "location": "Unspecified",
-      "url": "https://www.arbeitnow.com/jobs/companies/samsara/sales-engineering-manager-core-mainland-europe-107464",
-      "source": "Arbeitnow",
-      "tags": [
-        "Sales Engineering"
-      ],
-      "posted": "2026-10-31T21:55:17.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-people-business-partner-all-genders-munchen-443186",
-      "title": "Senior People Business Partner (all genders)",
-      "company": "pplwise",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/pplwise/senior-people-business-partner-all-genders-munchen-443186",
-      "source": "Arbeitnow",
-      "tags": [
-        "🤩 Work with our clients"
-      ],
-      "posted": "2026-10-31T21:40:17.000Z"
-    },
-    {
-      "id": "arbeitnow-android-developer-hamburg-234506",
-      "title": "Android Developer (f/m/d)",
-      "company": "Zeal Network",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/android-developer-hamburg-234506",
-      "source": "Arbeitnow",
-      "tags": [
-        "Technology"
-      ],
-      "posted": "2026-10-31T21:40:17.000Z"
-    },
-    {
       "id": "arbeitnow-senior-channel-field-marketing-manager-benelux-nordics-amsterdam-120517",
       "title": "Senior Channel Field Marketing Manager, Benelux & Nordics",
       "company": "Horizon3Ai",
@@ -2574,42 +3127,6 @@
         "Security and IT"
       ],
       "posted": "2026-10-31T21:40:17.000Z"
-    },
-    {
-      "id": "arbeitnow-director-licensing-sales-hamburg-187735",
-      "title": "Director Licensing Sales (m/f/d)",
-      "company": "Statista",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/statista/director-licensing-sales-hamburg-187735",
-      "source": "Arbeitnow",
-      "tags": [
-        "Revenue"
-      ],
-      "posted": "2026-10-31T21:40:16.000Z"
-    },
-    {
-      "id": "arbeitnow-data-scientist-munich-358174",
-      "title": "Data Scientist",
-      "company": "Hawk",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/hawk/data-scientist-munich-358174",
-      "source": "Arbeitnow",
-      "tags": [
-        "Customer"
-      ],
-      "posted": "2026-10-31T21:40:13.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-product-design-engineer-berlin-214302",
-      "title": "Senior Product Design Engineer",
-      "company": "Rohlik",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/senior-product-design-engineer-berlin-214302",
-      "source": "Arbeitnow",
-      "tags": [
-        "Product Management"
-      ],
-      "posted": "2026-10-31T21:40:13.000Z"
     },
     {
       "id": "arbeitnow-intern-electrical-rd-engineer-satigny-194732",
@@ -2636,163 +3153,6 @@
         "Sales"
       ],
       "posted": "2026-10-31T19:31:59.653+00:00"
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-developer-java-react-120706",
-      "title": "Full Stack Developer - Java & React (f/m/d)",
-      "company": "ecosio",
-      "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-120706",
-      "source": "Arbeitnow",
-      "tags": [
-        "Web App Development"
-      ],
-      "posted": "2026-10-31T18:55:28.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-qa-engineer-mobile-berlin-8108",
-      "title": "(Senior) QA Engineer - Mobile (x/f/m)",
-      "company": "dkbcodefactory",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/senior-qa-engineer-mobile-berlin-8108",
-      "source": "Arbeitnow",
-      "tags": [
-        "Technology & Infrastructure"
-      ],
-      "posted": "2026-10-31T18:55:28.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-qa-engineer-backend-berlin-50464",
-      "title": "(Senior) QA Engineer - Backend (x/f/m)",
-      "company": "dkbcodefactory",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/senior-qa-engineer-backend-berlin-50464",
-      "source": "Arbeitnow",
-      "tags": [
-        "Technology & Infrastructure"
-      ],
-      "posted": "2026-10-31T18:55:28.000Z"
-    },
-    {
-      "id": "arbeitnow-junior-ux-researcher-xfm-berlin-321015",
-      "title": "Junior UX Researcher (x,f,m)",
-      "company": "dkbcodefactory",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/junior-ux-researcher-xfm-berlin-321015",
-      "source": "Arbeitnow",
-      "tags": [
-        "Product & Design"
-      ],
-      "posted": "2026-10-31T18:55:28.000Z"
-    },
-    {
-      "id": "arbeitnow-hardware-test-engineer-munich-bavaria-185959",
-      "title": "Hardware Test Engineer (m/f/d)",
-      "company": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/hardware-test-engineer-munich-bavaria-185959",
-      "source": "Arbeitnow",
-      "tags": [
-        "Robot Group 2"
-      ],
-      "posted": "2026-10-31T18:55:27.000Z"
-    },
-    {
-      "id": "arbeitnow-director-frontend-engineer-berlin-de-481191",
-      "title": "Director Frontend Engineer",
-      "company": "wongdoody",
-      "location": "Berlin, DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/wongdoody/director-frontend-engineer-berlin-de-481191",
-      "source": "Arbeitnow",
-      "tags": [
-        "Development"
-      ],
-      "posted": "2026-10-31T18:55:24.000Z"
-    },
-    {
-      "id": "arbeitnow-associate-account-executive-top-talent-sales-program-lunar-dach-munich-312838",
-      "title": "Associate Account Executive (Top Talent Sales Program - Lunar) DACH",
-      "company": "celonis",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/associate-account-executive-top-talent-sales-program-lunar-dach-munich-312838",
-      "source": "Arbeitnow",
-      "tags": [
-        "Sales"
-      ],
-      "posted": "2026-10-31T18:55:23.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-specialist-market-planning-berlin-172114",
-      "title": "Senior Specialist, Market Planning",
-      "company": "wolt",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt/senior-specialist-market-planning-berlin-172114",
-      "source": "Arbeitnow",
-      "tags": [
-        "Courier Operations"
-      ],
-      "posted": "2026-10-31T18:55:22.000Z"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-golang-transfers-europe-berlin-429399",
-      "title": "Backend Engineer (Golang) - Transfers Europe",
-      "company": "sumup",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-golang-transfers-europe-berlin-429399",
-      "source": "Arbeitnow",
-      "tags": [
-        "Backend"
-      ],
-      "posted": "2026-10-31T18:55:21.000Z"
-    },
-    {
-      "id": "arbeitnow-business-development-representative-german-speaking-all-genders-munich-177271",
-      "title": "Business Development Representative - German Speaking (all genders)",
-      "company": "Kertos",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/kertos/business-development-representative-german-speaking-all-genders-munich-177271",
-      "source": "Arbeitnow",
-      "tags": [
-        "Growth"
-      ],
-      "posted": "2026-10-31T18:40:15.000Z"
-    },
-    {
-      "id": "arbeitnow-founding-product-manager-german-speaking-munich-285512",
-      "title": "Founding Product Manager (German-speaking)",
-      "company": "Bowatt",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/bowatt/founding-product-manager-german-speaking-munich-285512",
-      "source": "Arbeitnow",
-      "tags": [
-        "Product Success"
-      ],
-      "posted": "2026-10-31T18:40:14.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-manager-business-development-all-genders-berlin-387973",
-      "title": "(Senior) Manager Business Development (all genders)",
-      "company": "Sunday Natural",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/senior-manager-business-development-all-genders-berlin-387973",
-      "source": "Arbeitnow",
-      "tags": [
-        "Business Development"
-      ],
-      "posted": "2026-10-31T18:40:13.000Z"
-    },
-    {
-      "id": "arbeitnow-google-ads-manager-ai-first-performance-marketing-remote-59473",
-      "title": "Google Ads Manager – AI-First Performance Marketing (m/w/d) · Remote",
-      "company": "Evolve Digital GmbH",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/google-ads-manager-ai-first-performance-marketing-remote-59473",
-      "source": "Arbeitnow",
-      "tags": [
-        "Operations",
-        "Remote"
-      ],
-      "posted": "2026-10-31T18:31:08.000Z"
     },
     {
       "id": "greenhouse-andurilindustries-5279616007",
@@ -2927,78 +3287,6 @@
       "posted": "2026-10-31T15:55:20.000Z"
     },
     {
-      "id": "arbeitnow-senior-director-sales-strategy-operations-421925",
-      "title": "Senior Director Sales Strategy & Operations (m/f/d)",
-      "company": "autoscout24",
-      "location": "Unspecified",
-      "url": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-director-sales-strategy-operations-421925",
-      "source": "Arbeitnow",
-      "tags": [
-        "Strategy"
-      ],
-      "posted": "2026-10-31T15:55:16.000Z"
-    },
-    {
-      "id": "arbeitnow-frankfurt-customer-care-manager-frankfurt-am-main-128001",
-      "title": "FRANKFURT - Customer Care Manager (m/w/d)",
-      "company": "Roadsurfer",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/frankfurt-customer-care-manager-frankfurt-am-main-128001",
-      "source": "Arbeitnow",
-      "tags": [
-        "Regional Station Management Europe"
-      ],
-      "posted": "2026-10-31T15:40:19.000Z"
-    },
-    {
-      "id": "arbeitnow-nurnberg-standortleitung-furth-398931",
-      "title": "NÜRNBERG - Standortleitung (m/w/d)",
-      "company": "Roadsurfer",
-      "location": "Nürnberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/nurnberg-standortleitung-furth-398931",
-      "source": "Arbeitnow",
-      "tags": [
-        "Regional Station Management Europe"
-      ],
-      "posted": "2026-10-31T15:40:19.000Z"
-    },
-    {
-      "id": "arbeitnow-remote-market-fleet-manager-dach-139880",
-      "title": "Market Fleet Manager - DACH",
-      "company": "Roadsurfer",
-      "location": "Remote (Germany)",
-      "url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/remote-market-fleet-manager-dach-139880",
-      "source": "Arbeitnow",
-      "tags": [
-        "Fleet Operations"
-      ],
-      "posted": "2026-10-31T15:40:19.000Z"
-    },
-    {
-      "id": "arbeitnow-nurnberg-station-manager-furth-477440",
-      "title": "NÜRNBERG - Station Manager (m/w/d)",
-      "company": "Roadsurfer",
-      "location": "Nürnberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/nurnberg-station-manager-furth-477440",
-      "source": "Arbeitnow",
-      "tags": [
-        "Regional Station Management Europe"
-      ],
-      "posted": "2026-10-31T15:40:19.000Z"
-    },
-    {
-      "id": "arbeitnow-product-analyst-hamburg-285432",
-      "title": "Product Analyst (f/m/d)",
-      "company": "adjoe",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/adjoe/product-analyst-hamburg-285432",
-      "source": "Arbeitnow",
-      "tags": [
-        "adjoe"
-      ],
-      "posted": "2026-10-31T15:40:18.000Z"
-    },
-    {
       "id": "arbeitnow-ai-engineer-amsterdam-472304",
       "title": "AI Engineer",
       "company": "Tebi",
@@ -3021,138 +3309,6 @@
         "Engineering"
       ],
       "posted": "2026-10-31T15:40:16.000Z"
-    },
-    {
-      "id": "arbeitnow-remote-senior-sales-engineer-mena-47457",
-      "title": "Senior Sales Engineer - MENA",
-      "company": "Sardine",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/sardine/remote-senior-sales-engineer-mena-47457",
-      "source": "Arbeitnow",
-      "tags": [
-        "Sales"
-      ],
-      "posted": "2026-10-31T15:40:14.000Z"
-    },
-    {
-      "id": "arbeitnow-ai-onboarding-engineer-berlin-255367",
-      "title": "AI Onboarding Engineer",
-      "company": "Almetra",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/almetra/ai-onboarding-engineer-berlin-255367",
-      "source": "Arbeitnow",
-      "tags": [
-        "Engineering"
-      ],
-      "posted": "2026-10-31T15:40:14.000Z"
-    },
-    {
-      "id": "arbeitnow-ai-go-live-specialist-berlin-325550",
-      "title": "AI Go-live Specialist",
-      "company": "Almetra",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/almetra/ai-go-live-specialist-berlin-325550",
-      "source": "Arbeitnow",
-      "tags": [
-        "Engineering"
-      ],
-      "posted": "2026-10-31T15:40:14.000Z"
-    },
-    {
-      "id": "arbeitnow-ai-onboarding-specialist-berlin-460950",
-      "title": "AI Onboarding Specialist",
-      "company": "Almetra",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/almetra/ai-onboarding-specialist-berlin-460950",
-      "source": "Arbeitnow",
-      "tags": [
-        "Engineering"
-      ],
-      "posted": "2026-10-31T15:40:14.000Z"
-    },
-    {
-      "id": "arbeitnow-mait-additive-manufacturing-materials-intern-dusseldorf-178418",
-      "title": "MAIT Additive Manufacturing Materials Intern",
-      "company": "The Exploration Company",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/mait-additive-manufacturing-materials-intern-dusseldorf-178418",
-      "source": "Arbeitnow",
-      "tags": [
-        "MAIT"
-      ],
-      "posted": "2026-10-31T15:40:14.000Z"
-    },
-    {
-      "id": "arbeitnow-fluid-systems-development-engineer-munich-232875",
-      "title": "Fluid Systems Development Engineer",
-      "company": "The Exploration Company",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/fluid-systems-development-engineer-munich-232875",
-      "source": "Arbeitnow",
-      "tags": [
-        "Future Propulsion - Storm"
-      ],
-      "posted": "2026-10-31T15:40:14.000Z"
-    },
-    {
-      "id": "arbeitnow-senior-spacecraft-thermal-engineer-munich-474021",
-      "title": "Senior Spacecraft Thermal Engineer",
-      "company": "The Exploration Company",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/senior-spacecraft-thermal-engineer-munich-474021",
-      "source": "Arbeitnow",
-      "tags": [
-        "Engineering"
-      ],
-      "posted": "2026-10-31T15:40:14.000Z"
-    },
-    {
-      "id": "arbeitnow-propulsion-functional-engineer-munich-131824",
-      "title": "Propulsion Functional Engineer",
-      "company": "The Exploration Company",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/propulsion-functional-engineer-munich-131824",
-      "source": "Arbeitnow",
-      "tags": [
-        "Future Propulsion - Storm"
-      ],
-      "posted": "2026-10-31T15:40:14.000Z"
-    },
-    {
-      "id": "arbeitnow-internship-radiation-testing-of-electronic-components-and-test-automation-munich-351117",
-      "title": "Internship - Radiation Testing of Electronic Components and Test Automation",
-      "company": "The Exploration Company",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/internship-radiation-testing-of-electronic-components-and-test-automation-munich-351117",
-      "source": "Arbeitnow",
-      "tags": [
-        "Engineering"
-      ],
-      "posted": "2026-10-31T15:40:14.000Z"
-    },
-    {
-      "id": "arbeitnow-flight-software-engineer-munich-220316",
-      "title": "Flight Software Engineer",
-      "company": "The Exploration Company",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/flight-software-engineer-munich-220316",
-      "source": "Arbeitnow",
-      "tags": [
-        "Engineering"
-      ],
-      "posted": "2026-10-31T15:40:14.000Z"
-    },
-    {
-      "id": "arbeitnow-business-strategist-dach-munich-467952",
-      "title": "Business Strategist - DACH",
-      "company": "Comand Ai",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/comand-ai/business-strategist-dach-munich-467952",
-      "source": "Arbeitnow",
-      "tags": [
-        "Business Development"
-      ],
-      "posted": "2026-10-31T15:40:14.000Z"
     },
     {
       "id": "arbeitnow-director-business-development-emea-amsterdam-210339",
@@ -34574,30 +34730,6 @@
       "source": "Amazon",
       "tags": [
         "Fulfillment & Operations Management"
-      ],
-      "posted": "October 31, 2026"
-    },
-    {
-      "id": "amazon-10593947",
-      "title": "SSL Lab Engineer 2nd shift, Space Simulation Lab",
-      "company": "Amazon",
-      "location": "Redmond, Washington, USA",
-      "url": "https://www.amazon.jobshttps://account.amazon.jobs/jobs/10593947/apply",
-      "source": "Amazon",
-      "tags": [
-        "Operations, IT, & Support Engineering"
-      ],
-      "posted": "October 31, 2026"
-    },
-    {
-      "id": "amazon-10593927",
-      "title": "Principal Technical Program Manager, Customer Terminals",
-      "company": "Amazon",
-      "location": "Austin, Texas, USA",
-      "url": "https://www.amazon.jobshttps://account.amazon.jobs/jobs/10593927/apply",
-      "source": "Amazon",
-      "tags": [
-        "Project/Program/Product Management--Technical"
       ],
       "posted": "October 31, 2026"
     },
@@ -71006,11 +71138,11 @@
       "posted": "2026-10-30T09:16:58-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7790865003",
+      "id": "greenhouse-rocketlab-7790862003",
       "title": "IT Systems Engineer",
       "company": "Rocket Lab Corporation",
       "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7790865003",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7790862003",
       "source": "Greenhouse",
       "tags": [
         "3520 Infrastructure"
@@ -71018,11 +71150,11 @@
       "posted": "2026-10-30T09:03:09-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7790862003",
+      "id": "greenhouse-rocketlab-7790865003",
       "title": "IT Systems Engineer",
       "company": "Rocket Lab Corporation",
       "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7790862003",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7790865003",
       "source": "Greenhouse",
       "tags": [
         "3520 Infrastructure"
@@ -71258,18 +71390,6 @@
       "posted": "2026-10-30T12:17:38.560Z"
     },
     {
-      "id": "arbeitnow-applikations-manager-80-100-winterthur-56394",
-      "title": "Applikations-Manager 80% - 100%",
-      "company": "two.jobs",
-      "location": "Winterthur",
-      "url": "https://www.arbeitnow.ch/jobs/companies/twojobs/applikations-manager-80-100-winterthur-56394",
-      "source": "Arbeitnow",
-      "tags": [
-        "Applications Administration"
-      ],
-      "posted": "2026-10-30T12:17:30.000Z"
-    },
-    {
       "id": "arbeitnow-erfahrener-sap-personalberater-headhunter-schwerpunkt-kandidatengewinnung-zurich-396514",
       "title": "Erfahrener SAP Personalberater / Headhunter - Schwerpunkt Kandidatengewinnung",
       "company": "Vangard AG",
@@ -71304,19 +71424,6 @@
         "Sales"
       ],
       "posted": "2026-10-30T07:47:37-04:00"
-    },
-    {
-      "id": "arbeitnow-test-automation-engineer-uipath-zurich-440417",
-      "title": "Test Automation Engineer UiPath",
-      "company": "Infometis AG",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/infometis-ag/test-automation-engineer-uipath-zurich-440417",
-      "source": "Arbeitnow",
-      "tags": [
-        "Quality Assurance",
-        "Inspection"
-      ],
-      "posted": "2026-10-30T11:47:32.000Z"
     },
     {
       "id": "greenhouse-spire-8210664",
@@ -71646,42 +71753,6 @@
         "Sales"
       ],
       "posted": "2026-10-30T06:40:17.000Z"
-    },
-    {
-      "id": "arbeitnow-data-scientist-marketing-amsterdam-378489",
-      "title": "Data Scientist Marketing",
-      "company": "bunq",
-      "location": "Amsterdam, Noord-Holland, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/bunq/data-scientist-marketing-amsterdam-378489",
-      "source": "Arbeitnow",
-      "tags": [
-        "Growth"
-      ],
-      "posted": "2026-10-30T06:31:15.000Z"
-    },
-    {
-      "id": "arbeitnow-stage-of-afstuderen-optimalisatie-van-machine-inspecties-rijssen-150517",
-      "title": "Stage of Afstuderen: Optimalisatie van Machine-inspecties",
-      "company": "Voortman Steel Machinery",
-      "location": "Rijssen, Overijssel, Nederland",
-      "url": "https://www.arbeitnow.nl/jobs/companies/voortman-steel-machinery/stage-of-afstuderen-optimalisatie-van-machine-inspecties-rijssen-150517",
-      "source": "Arbeitnow",
-      "tags": [
-        "Stage & Afstuderen"
-      ],
-      "posted": "2026-10-30T06:31:15.000Z"
-    },
-    {
-      "id": "arbeitnow-stage-of-afstuderen-toepassing-van-augmented-reality-rijssen-370233",
-      "title": "Stage of Afstuderen: Toepassing van Augmented Reality",
-      "company": "Voortman Steel Machinery",
-      "location": "Rijssen, Overijssel, Nederland",
-      "url": "https://www.arbeitnow.nl/jobs/companies/voortman-steel-machinery/stage-of-afstuderen-toepassing-van-augmented-reality-rijssen-370233",
-      "source": "Arbeitnow",
-      "tags": [
-        "Stage & Afstuderen"
-      ],
-      "posted": "2026-10-30T06:31:15.000Z"
     },
     {
       "id": "greenhouse-k2spacecorporation-5316368008",
@@ -72052,6 +72123,30 @@
       "posted": "October 30, 2026"
     },
     {
+      "id": "amazon-10593823",
+      "title": "Enterprise Act Engineer II - AMZ27758.1",
+      "company": "Amazon",
+      "location": "Mountain View, California, USA",
+      "url": "https://www.amazon.jobshttps://account.amazon.jobs/jobs/10593823/apply",
+      "source": "Amazon",
+      "tags": [
+        "Corporate Operations"
+      ],
+      "posted": "October 30, 2026"
+    },
+    {
+      "id": "amazon-10593822",
+      "title": "Software Dev Engineer II - AMZ26548.2",
+      "company": "Amazon",
+      "location": "Cupertino, California, USA",
+      "url": "https://www.amazon.jobshttps://account.amazon.jobs/jobs/10593822/apply",
+      "source": "Amazon",
+      "tags": [
+        "Corporate Operations"
+      ],
+      "posted": "October 30, 2026"
+    },
+    {
       "id": "amazon-10593757",
       "title": "Global Account Manager, EMEA Energy & Utilities, AWS Industries",
       "company": "Amazon",
@@ -72060,6 +72155,30 @@
       "source": "Amazon",
       "tags": [
         "Sales, Advertising, & Account Management"
+      ],
+      "posted": "October 30, 2026"
+    },
+    {
+      "id": "amazon-10593818",
+      "title": "Supply Chain Mgr II - AMZ24259.1",
+      "company": "Amazon",
+      "location": "San Francisco, California, USA",
+      "url": "https://www.amazon.jobshttps://account.amazon.jobs/jobs/10593818/apply",
+      "source": "Amazon",
+      "tags": [
+        "Corporate Operations"
+      ],
+      "posted": "October 30, 2026"
+    },
+    {
+      "id": "amazon-10593815",
+      "title": "Software Dev Engineer III - AMZ26892.1",
+      "company": "Amazon",
+      "location": "Miami, Florida, USA",
+      "url": "https://www.amazon.jobshttps://account.amazon.jobs/jobs/10593815/apply",
+      "source": "Amazon",
+      "tags": [
+        "Corporate Operations"
       ],
       "posted": "October 30, 2026"
     },
@@ -72408,30 +72527,6 @@
       "source": "Amazon",
       "tags": [
         "Hardware Development"
-      ],
-      "posted": "October 30, 2026"
-    },
-    {
-      "id": "amazon-10593272",
-      "title": "Data Center Strategic Negotiator (Real Estate), AWS Infrastructure - Data Center Supply Solutions (APAC)",
-      "company": "Amazon",
-      "location": "Hyderabad, Telangana, IND",
-      "url": "https://www.amazon.jobshttps://account.amazon.jobs/jobs/10593272/apply",
-      "source": "Amazon",
-      "tags": [
-        "Business & Merchant Development"
-      ],
-      "posted": "October 30, 2026"
-    },
-    {
-      "id": "amazon-10593441",
-      "title": "Sr. Energy Tech Program Manager ",
-      "company": "Amazon",
-      "location": "Seattle, Washington, USA",
-      "url": "https://www.amazon.jobshttps://account.amazon.jobs/jobs/10593441/apply",
-      "source": "Amazon",
-      "tags": [
-        "Project/Program/Product Management--Non-Tech"
       ],
       "posted": "October 30, 2026"
     },
@@ -73504,54 +73599,6 @@
       "posted": "2026-10-29T16:00:37-04:00"
     },
     {
-      "id": "greenhouse-vardaspace-8044450003",
-      "title": "Senior Space Build Reliability Engineer",
-      "company": "Varda Space Industries",
-      "location": "El Segundo, California, United States",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8044450003",
-      "source": "Greenhouse",
-      "tags": [
-        "Mission Assurance"
-      ],
-      "posted": "2026-10-29T16:00:37-04:00"
-    },
-    {
-      "id": "greenhouse-vardaspace-8043930003",
-      "title": "Senior Spacecraft Embedded Software Engineer",
-      "company": "Varda Space Industries",
-      "location": "El Segundo, California, United States",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8043930003",
-      "source": "Greenhouse",
-      "tags": [
-        "Software"
-      ],
-      "posted": "2026-10-29T16:00:37-04:00"
-    },
-    {
-      "id": "greenhouse-vardaspace-8043931003",
-      "title": "Senior Spacecraft Flight Software Engineer",
-      "company": "Varda Space Industries",
-      "location": "El Segundo, California, United States",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8043931003",
-      "source": "Greenhouse",
-      "tags": [
-        "Software"
-      ],
-      "posted": "2026-10-29T16:00:37-04:00"
-    },
-    {
-      "id": "greenhouse-vardaspace-8047293003",
-      "title": "Senior Spacecraft Guidance, Navigation, and Controls (GNC) Engineer",
-      "company": "Varda Space Industries",
-      "location": "El Segundo, California, United States",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8047293003",
-      "source": "Greenhouse",
-      "tags": [
-        "Guidance, Navigation & Controls"
-      ],
-      "posted": "2026-10-29T16:00:37-04:00"
-    },
-    {
       "id": "greenhouse-vardaspace-8044462003",
       "title": "Senior Spacecraft Mission Operations Engineer",
       "company": "Varda Space Industries",
@@ -73560,18 +73607,6 @@
       "source": "Greenhouse",
       "tags": [
         "Mission Operations and Automation"
-      ],
-      "posted": "2026-10-29T16:00:37-04:00"
-    },
-    {
-      "id": "greenhouse-vardaspace-8043932003",
-      "title": "Senior Spacecraft Mission Software Engineer",
-      "company": "Varda Space Industries",
-      "location": "El Segundo, California, United States",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8043932003",
-      "source": "Greenhouse",
-      "tags": [
-        "Software"
       ],
       "posted": "2026-10-29T16:00:37-04:00"
     },
@@ -75618,18 +75653,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7980935003",
-      "title": "Business Development Director, National Security - TS/SCI Clearance",
-      "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7980935003",
-      "source": "Greenhouse",
-      "tags": [
-        "1520 Space Systems BD"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7753935003",
       "title": "Business Development Director, National Security - TS/SCI Clearance",
       "company": "Rocket Lab Corporation",
@@ -75647,6 +75670,18 @@
       "company": "Rocket Lab Corporation",
       "location": "Littleton, CO",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7753916003",
+      "source": "Greenhouse",
+      "tags": [
+        "1520 Space Systems BD"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-7980935003",
+      "title": "Business Development Director, National Security - TS/SCI Clearance",
+      "company": "Rocket Lab Corporation",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7980935003",
       "source": "Greenhouse",
       "tags": [
         "1520 Space Systems BD"
@@ -75822,11 +75857,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7807580003",
+      "id": "greenhouse-rocketlab-8010774003",
       "title": "Construction Project Director",
       "company": "Rocket Lab Corporation",
-      "location": "Albuquerque, NM",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7807580003",
+      "location": "Middle River, MD",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8010774003",
       "source": "Greenhouse",
       "tags": [
         "LD599 SolAero - G&A Corporate"
@@ -75834,11 +75869,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-8010774003",
+      "id": "greenhouse-rocketlab-7807580003",
       "title": "Construction Project Director",
       "company": "Rocket Lab Corporation",
-      "location": "Middle River, MD",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8010774003",
+      "location": "Albuquerque, NM",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7807580003",
       "source": "Greenhouse",
       "tags": [
         "LD599 SolAero - G&A Corporate"
@@ -75854,18 +75889,6 @@
       "source": "Greenhouse",
       "tags": [
         "2411 Electron Vehicle Engineering"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
-      "id": "greenhouse-rocketlab-7822182003",
-      "title": "Development Engineer - Electron",
-      "company": "Rocket Lab Corporation",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822182003",
-      "source": "Greenhouse",
-      "tags": [
-        "2413 Electron Propulsion Engineering"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -75894,11 +75917,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7962866003",
+      "id": "greenhouse-rocketlab-7932127003",
       "title": "Director, IT Infrastructure",
       "company": "Rocket Lab Corporation",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7962866003",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7932127003",
       "source": "Greenhouse",
       "tags": [
         "3520 Infrastructure"
@@ -75906,11 +75929,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7932127003",
+      "id": "greenhouse-rocketlab-7962866003",
       "title": "Director, IT Infrastructure",
       "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7932127003",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7962866003",
       "source": "Greenhouse",
       "tags": [
         "3520 Infrastructure"
@@ -75942,18 +75965,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-8055708003",
-      "title": "Electrical Engineer I",
-      "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8055708003",
-      "source": "Greenhouse",
-      "tags": [
-        "4015 USA Space Systems"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-8046148003",
       "title": "Electrical Engineer I",
       "company": "Rocket Lab Corporation",
@@ -75962,6 +75973,18 @@
       "source": "Greenhouse",
       "tags": [
         "5571 RMC - Electrical Engineering"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-8055708003",
+      "title": "Electrical Engineer I",
+      "company": "Rocket Lab Corporation",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8055708003",
+      "source": "Greenhouse",
+      "tags": [
+        "4015 USA Space Systems"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -76002,6 +76025,18 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
+      "id": "greenhouse-rocketlab-7990683003",
+      "title": "Electrical Engineering Intern Summer 2027",
+      "company": "Rocket Lab Corporation",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003",
+      "source": "Greenhouse",
+      "tags": [
+        "4015 USA Space Systems"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
       "id": "greenhouse-rocketlab-7990043003",
       "title": "Electrical Engineering Intern Summer 2027",
       "company": "Rocket Lab Corporation",
@@ -76022,18 +76057,6 @@
       "source": "Greenhouse",
       "tags": [
         "2300 Avionics R&D"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
-      "id": "greenhouse-rocketlab-7990683003",
-      "title": "Electrical Engineering Intern Summer 2027",
-      "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003",
-      "source": "Greenhouse",
-      "tags": [
-        "4015 USA Space Systems"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -76338,11 +76361,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-8015258003",
+      "id": "greenhouse-rocketlab-7919465003",
       "title": "Graphic Designer",
       "company": "Rocket Lab Corporation",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8015258003",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7919465003",
       "source": "Greenhouse",
       "tags": [
         "3400 Marketing & Comms"
@@ -76350,11 +76373,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7919465003",
+      "id": "greenhouse-rocketlab-8015258003",
       "title": "Graphic Designer",
       "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7919465003",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8015258003",
       "source": "Greenhouse",
       "tags": [
         "3400 Marketing & Comms"
@@ -76602,11 +76625,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7482231003",
+      "id": "greenhouse-rocketlab-7598613003",
       "title": "Integrated Operations Engineer",
       "company": "Rocket Lab Corporation",
       "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7482231003",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7598613003",
       "source": "Greenhouse",
       "tags": [
         "2265 Integrated Operations"
@@ -76614,11 +76637,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7598613003",
+      "id": "greenhouse-rocketlab-7482231003",
       "title": "Integrated Operations Engineer",
       "company": "Rocket Lab Corporation",
       "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7598613003",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7482231003",
       "source": "Greenhouse",
       "tags": [
         "2265 Integrated Operations"
@@ -76698,6 +76721,18 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
+      "id": "greenhouse-rocketlab-8004692003",
+      "title": "IT Support Specialist",
+      "company": "Rocket Lab Corporation",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8004692003",
+      "source": "Greenhouse",
+      "tags": [
+        "3510 Client Services"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
       "id": "greenhouse-rocketlab-7998365003",
       "title": "IT Support Specialist",
       "company": "Rocket Lab Corporation",
@@ -76715,18 +76750,6 @@
       "company": "Rocket Lab Corporation",
       "location": "Albuquerque, NM",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8005412003",
-      "source": "Greenhouse",
-      "tags": [
-        "3510 Client Services"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
-      "id": "greenhouse-rocketlab-8004692003",
-      "title": "IT Support Specialist",
-      "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8004692003",
       "source": "Greenhouse",
       "tags": [
         "3510 Client Services"
@@ -76854,18 +76877,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7767942003",
-      "title": "Lead, Manufacturing Engineer",
-      "company": "Rocket Lab Corporation",
-      "location": "Toronto, CAN",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7767942003",
-      "source": "Greenhouse",
-      "tags": [
-        "5002 Sinclair R&D"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7992602003",
       "title": "Lead, Manufacturing Engineer",
       "company": "Rocket Lab Corporation",
@@ -76874,6 +76885,18 @@
       "source": "Greenhouse",
       "tags": [
         "5250 PRODUCTION"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-7767942003",
+      "title": "Lead, Manufacturing Engineer",
+      "company": "Rocket Lab Corporation",
+      "location": "Toronto, CAN",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7767942003",
+      "source": "Greenhouse",
+      "tags": [
+        "5002 Sinclair R&D"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -76998,11 +77021,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7982071003",
+      "id": "greenhouse-rocketlab-8036113003",
       "title": "Manager, Inventory and Logistics",
       "company": "Rocket Lab Corporation",
-      "location": "Middle River, MD",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7982071003",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8036113003",
       "source": "Greenhouse",
       "tags": [
         "2654 SC Inventory Management"
@@ -77010,11 +77033,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-8036113003",
+      "id": "greenhouse-rocketlab-7982071003",
       "title": "Manager, Inventory and Logistics",
       "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8036113003",
+      "location": "Middle River, MD",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7982071003",
       "source": "Greenhouse",
       "tags": [
         "2654 SC Inventory Management"
@@ -77118,18 +77141,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7984943003",
-      "title": "Manufacturing Engineering Intern Spring 2027",
-      "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984943003",
-      "source": "Greenhouse",
-      "tags": [
-        "2420 USA Manufacturing Engineering"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7996617003",
       "title": "Manufacturing Engineering Intern Spring 2027",
       "company": "Rocket Lab Corporation",
@@ -77138,6 +77149,18 @@
       "source": "Greenhouse",
       "tags": [
         "2248 Neutron - WDC Production"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-7984943003",
+      "title": "Manufacturing Engineering Intern Spring 2027",
+      "company": "Rocket Lab Corporation",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984943003",
+      "source": "Greenhouse",
+      "tags": [
+        "2420 USA Manufacturing Engineering"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -77154,18 +77177,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7996623003",
-      "title": "Manufacturing Engineering Intern Summer 2027",
-      "company": "Rocket Lab Corporation",
-      "location": "Wallops Island, VA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996623003",
-      "source": "Greenhouse",
-      "tags": [
-        "2248 Neutron - WDC Production"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7984564003",
       "title": "Manufacturing Engineering Intern Summer 2027",
       "company": "Rocket Lab Corporation",
@@ -77174,6 +77185,18 @@
       "source": "Greenhouse",
       "tags": [
         "2420 USA Manufacturing Engineering"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-7996623003",
+      "title": "Manufacturing Engineering Intern Summer 2027",
+      "company": "Rocket Lab Corporation",
+      "location": "Wallops Island, VA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996623003",
+      "source": "Greenhouse",
+      "tags": [
+        "2248 Neutron - WDC Production"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -77298,14 +77321,14 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7989904003",
+      "id": "greenhouse-rocketlab-7991769003",
       "title": "Mechanical Engineering Intern Summer 2027",
       "company": "Rocket Lab Corporation",
-      "location": "Silver Spring, MD",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989904003",
+      "location": "Toronto, CAN",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991769003",
       "source": "Greenhouse",
       "tags": [
-        "5250 PRODUCTION"
+        "5002 Sinclair R&D"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -77322,14 +77345,14 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7991769003",
+      "id": "greenhouse-rocketlab-7989904003",
       "title": "Mechanical Engineering Intern Summer 2027",
       "company": "Rocket Lab Corporation",
-      "location": "Toronto, CAN",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991769003",
+      "location": "Silver Spring, MD",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989904003",
       "source": "Greenhouse",
       "tags": [
-        "5002 Sinclair R&D"
+        "5250 PRODUCTION"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -77394,11 +77417,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-8004610003",
+      "id": "greenhouse-rocketlab-8014790003",
       "title": "Mission Manager- TS/SCI Clearance",
       "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8004610003",
+      "location": "Littleton, CO",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8014790003",
       "source": "Greenhouse",
       "tags": [
         "3550 Mission Management"
@@ -77406,11 +77429,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-8014790003",
+      "id": "greenhouse-rocketlab-8004610003",
       "title": "Mission Manager- TS/SCI Clearance",
       "company": "Rocket Lab Corporation",
-      "location": "Littleton, CO",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8014790003",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8004610003",
       "source": "Greenhouse",
       "tags": [
         "3550 Mission Management"
@@ -77562,18 +77585,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7997781003",
-      "title": "Principal Algorithm Engineer (EO/IR Image Analysis)",
-      "company": "Rocket Lab Corporation",
-      "location": "Chantilly, VA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7997781003",
-      "source": "Greenhouse",
-      "tags": [
-        "106 OS - Design Engineering"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7997776003",
       "title": "Principal Algorithm Engineer (EO/IR Image Analysis)",
       "company": "Rocket Lab Corporation",
@@ -77591,6 +77602,18 @@
       "company": "Rocket Lab Corporation",
       "location": "Long Beach, CA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7997785003",
+      "source": "Greenhouse",
+      "tags": [
+        "106 OS - Design Engineering"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-7997781003",
+      "title": "Principal Algorithm Engineer (EO/IR Image Analysis)",
+      "company": "Rocket Lab Corporation",
+      "location": "Chantilly, VA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7997781003",
       "source": "Greenhouse",
       "tags": [
         "106 OS - Design Engineering"
@@ -77718,11 +77741,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-8025563003",
+      "id": "greenhouse-rocketlab-8002621003",
       "title": "Principal Machine Learning Engineer (EO/IR Image Analysis)",
       "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8025563003",
+      "location": "Tucson, AZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8002621003",
       "source": "Greenhouse",
       "tags": [
         "120 OS - Software Engineering"
@@ -77730,11 +77753,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-8002621003",
+      "id": "greenhouse-rocketlab-8025563003",
       "title": "Principal Machine Learning Engineer (EO/IR Image Analysis)",
       "company": "Rocket Lab Corporation",
-      "location": "Tucson, AZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8002621003",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8025563003",
       "source": "Greenhouse",
       "tags": [
         "120 OS - Software Engineering"
@@ -78162,18 +78185,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7986954003",
-      "title": "Security Analyst Intern Spring 2027",
-      "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003",
-      "source": "Greenhouse",
-      "tags": [
-        "3635 USA Security"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7986965003",
       "title": "Security Analyst Intern Spring 2027",
       "company": "Rocket Lab Corporation",
@@ -78198,11 +78209,35 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
+      "id": "greenhouse-rocketlab-7986954003",
+      "title": "Security Analyst Intern Spring 2027",
+      "company": "Rocket Lab Corporation",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003",
+      "source": "Greenhouse",
+      "tags": [
+        "3635 USA Security"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
       "id": "greenhouse-rocketlab-7986872003",
       "title": "Security Analyst Intern Spring 2027",
       "company": "Rocket Lab Corporation",
       "location": "Albuquerque, NM",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986872003",
+      "source": "Greenhouse",
+      "tags": [
+        "3635 USA Security"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-7986961003",
+      "title": "Security Analyst Intern Summer 2027",
+      "company": "Rocket Lab Corporation",
+      "location": "Wallops Island, VA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986961003",
       "source": "Greenhouse",
       "tags": [
         "3635 USA Security"
@@ -78222,18 +78257,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7986874003",
-      "title": "Security Analyst Intern Summer 2027",
-      "company": "Rocket Lab Corporation",
-      "location": "Albuquerque, NM",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003",
-      "source": "Greenhouse",
-      "tags": [
-        "3635 USA Security"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7986956003",
       "title": "Security Analyst Intern Summer 2027",
       "company": "Rocket Lab Corporation",
@@ -78246,11 +78269,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7986961003",
+      "id": "greenhouse-rocketlab-7986874003",
       "title": "Security Analyst Intern Summer 2027",
       "company": "Rocket Lab Corporation",
-      "location": "Wallops Island, VA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986961003",
+      "location": "Albuquerque, NM",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003",
       "source": "Greenhouse",
       "tags": [
         "3635 USA Security"
@@ -78282,35 +78305,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7997756003",
-      "title": "Senior Algorithm Engineer II (EO/IR Image Analysis)",
-      "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7997756003",
-      "source": "Greenhouse",
-      "tags": [
-        "106 OS - Design Engineering"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7997698003",
       "title": "Senior Algorithm Engineer II (EO/IR Image Analysis)",
       "company": "Rocket Lab Corporation",
       "location": "Tucson, AZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7997698003",
-      "source": "Greenhouse",
-      "tags": [
-        "106 OS - Design Engineering"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
-      "id": "greenhouse-rocketlab-8024984003",
-      "title": "Senior Algorithm Engineer II (EO/IR Image Analysis)",
-      "company": "Rocket Lab Corporation",
-      "location": "Tucson, AZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8024984003",
       "source": "Greenhouse",
       "tags": [
         "106 OS - Design Engineering"
@@ -78330,14 +78329,26 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-8009917003",
-      "title": "Senior Avionics Engineer I - Mission Formulation",
+      "id": "greenhouse-rocketlab-7997756003",
+      "title": "Senior Algorithm Engineer II (EO/IR Image Analysis)",
       "company": "Rocket Lab Corporation",
-      "location": "Littleton, CO",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8009917003",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7997756003",
       "source": "Greenhouse",
       "tags": [
-        "3555 USA Launch Ops"
+        "106 OS - Design Engineering"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-8024984003",
+      "title": "Senior Algorithm Engineer II (EO/IR Image Analysis)",
+      "company": "Rocket Lab Corporation",
+      "location": "Tucson, AZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8024984003",
+      "source": "Greenhouse",
+      "tags": [
+        "106 OS - Design Engineering"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -78347,6 +78358,18 @@
       "company": "Rocket Lab Corporation",
       "location": "Long Beach, CA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8009916003",
+      "source": "Greenhouse",
+      "tags": [
+        "3555 USA Launch Ops"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-8009917003",
+      "title": "Senior Avionics Engineer I - Mission Formulation",
+      "company": "Rocket Lab Corporation",
+      "location": "Littleton, CO",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8009917003",
       "source": "Greenhouse",
       "tags": [
         "3555 USA Launch Ops"
@@ -78486,6 +78509,18 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
+      "id": "greenhouse-rocketlab-8009530003",
+      "title": "Senior Director, Business Development - Civil & Commercial",
+      "company": "Rocket Lab Corporation",
+      "location": "Littleton, CO",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8009530003",
+      "source": "Greenhouse",
+      "tags": [
+        "1520 Space Systems BD"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
       "id": "greenhouse-rocketlab-8006991003",
       "title": "Senior Director, Business Development - Civil & Commercial",
       "company": "Rocket Lab Corporation",
@@ -78498,11 +78533,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-8009530003",
-      "title": "Senior Director, Business Development - Civil & Commercial",
+      "id": "greenhouse-rocketlab-7996084003",
+      "title": "Senior Director, Business Development - National Security (TS/SCI Clearance)",
       "company": "Rocket Lab Corporation",
       "location": "Littleton, CO",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8009530003",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996084003",
       "source": "Greenhouse",
       "tags": [
         "1520 Space Systems BD"
@@ -78522,18 +78557,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7996082003",
-      "title": "Senior Director, Business Development - National Security (TS/SCI Clearance)",
-      "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996082003",
-      "source": "Greenhouse",
-      "tags": [
-        "1520 Space Systems BD"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7996086003",
       "title": "Senior Director, Business Development - National Security (TS/SCI Clearance)",
       "company": "Rocket Lab Corporation",
@@ -78546,11 +78569,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7996084003",
+      "id": "greenhouse-rocketlab-7996082003",
       "title": "Senior Director, Business Development - National Security (TS/SCI Clearance)",
       "company": "Rocket Lab Corporation",
-      "location": "Littleton, CO",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996084003",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996082003",
       "source": "Greenhouse",
       "tags": [
         "1520 Space Systems BD"
@@ -78582,6 +78605,18 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
+      "id": "greenhouse-rocketlab-8056422003",
+      "title": "Senior Electrical Engineer II",
+      "company": "Rocket Lab Corporation",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8056422003",
+      "source": "Greenhouse",
+      "tags": [
+        "4015 USA Space Systems"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
       "id": "greenhouse-rocketlab-7929549003",
       "title": "Senior Electrical Engineer II",
       "company": "Rocket Lab Corporation",
@@ -78602,18 +78637,6 @@
       "source": "Greenhouse",
       "tags": [
         "5552 RMC - Manufacturing"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
-      "id": "greenhouse-rocketlab-8056422003",
-      "title": "Senior Electrical Engineer II",
-      "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8056422003",
-      "source": "Greenhouse",
-      "tags": [
-        "4015 USA Space Systems"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -78786,18 +78809,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7783209003",
-      "title": "Senior GNC Engineer II- Mission Formulation",
-      "company": "Rocket Lab Corporation",
-      "location": "Littleton, CO",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7783209003",
-      "source": "Greenhouse",
-      "tags": [
-        "3555 USA Launch Ops"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7783208003",
       "title": "Senior GNC Engineer II- Mission Formulation",
       "company": "Rocket Lab Corporation",
@@ -78810,11 +78821,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7664584003",
-      "title": "Senior GNC Engineer I - Mission Formulation",
+      "id": "greenhouse-rocketlab-7783209003",
+      "title": "Senior GNC Engineer II- Mission Formulation",
       "company": "Rocket Lab Corporation",
       "location": "Littleton, CO",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7664584003",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7783209003",
       "source": "Greenhouse",
       "tags": [
         "3555 USA Launch Ops"
@@ -78827,6 +78838,18 @@
       "company": "Rocket Lab Corporation",
       "location": "Long Beach, CA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7663527003",
+      "source": "Greenhouse",
+      "tags": [
+        "3555 USA Launch Ops"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-7664584003",
+      "title": "Senior GNC Engineer I - Mission Formulation",
+      "company": "Rocket Lab Corporation",
+      "location": "Littleton, CO",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7664584003",
       "source": "Greenhouse",
       "tags": [
         "3555 USA Launch Ops"
@@ -78942,18 +78965,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7965787003",
-      "title": "Senior Integration & Test Engineer I",
-      "company": "Rocket Lab Corporation",
-      "location": "Pasadena, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7965787003",
-      "source": "Greenhouse",
-      "tags": [
-        "5557 RMC - Systems Engineering"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-8034766003",
       "title": "Senior Integration & Test Engineer I",
       "company": "Rocket Lab Corporation",
@@ -78962,6 +78973,18 @@
       "source": "Greenhouse",
       "tags": [
         "4015 USA Space Systems"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-7965787003",
+      "title": "Senior Integration & Test Engineer I",
+      "company": "Rocket Lab Corporation",
+      "location": "Pasadena, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7965787003",
+      "source": "Greenhouse",
+      "tags": [
+        "5557 RMC - Systems Engineering"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -78990,11 +79013,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-8004802003",
+      "id": "greenhouse-rocketlab-8003909003",
       "title": "Senior IT Support Analyst I",
       "company": "Rocket Lab Corporation",
-      "location": "Wallops Island, VA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8004802003",
+      "location": "Stennis Space Center, MS",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003909003",
       "source": "Greenhouse",
       "tags": [
         "3510 Client Services"
@@ -79002,11 +79025,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-8003909003",
+      "id": "greenhouse-rocketlab-8004802003",
       "title": "Senior IT Support Analyst I",
       "company": "Rocket Lab Corporation",
-      "location": "Stennis Space Center, MS",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003909003",
+      "location": "Wallops Island, VA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8004802003",
       "source": "Greenhouse",
       "tags": [
         "3510 Client Services"
@@ -79122,18 +79145,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7825154003",
-      "title": "Senior Manufacturing Engineer",
-      "company": "Rocket Lab Corporation",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7825154003",
-      "source": "Greenhouse",
-      "tags": [
-        "2410 NZ Manufacturing Engineering"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7829601003",
       "title": "Senior Manufacturing Engineer",
       "company": "Rocket Lab Corporation",
@@ -79142,6 +79153,18 @@
       "source": "Greenhouse",
       "tags": [
         "2245 Neutron - LC3"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-7825154003",
+      "title": "Senior Manufacturing Engineer",
+      "company": "Rocket Lab Corporation",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7825154003",
+      "source": "Greenhouse",
+      "tags": [
+        "2410 NZ Manufacturing Engineering"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -79266,18 +79289,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7965793003",
-      "title": "Senior Mechanical Engineer II",
-      "company": "Rocket Lab Corporation",
-      "location": "Pasadena, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7965793003",
-      "source": "Greenhouse",
-      "tags": [
-        "5557 RMC - Systems Engineering"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7814589003",
       "title": "Senior Mechanical Engineer II",
       "company": "Rocket Lab Corporation",
@@ -79286,6 +79297,18 @@
       "source": "Greenhouse",
       "tags": [
         "5270 R&D"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-7965793003",
+      "title": "Senior Mechanical Engineer II",
+      "company": "Rocket Lab Corporation",
+      "location": "Pasadena, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7965793003",
+      "source": "Greenhouse",
+      "tags": [
+        "5557 RMC - Systems Engineering"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -79338,18 +79361,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-8059448003",
-      "title": "Senior Program Manager I",
-      "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8059448003",
-      "source": "Greenhouse",
-      "tags": [
-        "4015 USA Space Systems"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7984859003",
       "title": "Senior Program Manager I",
       "company": "Rocket Lab Corporation",
@@ -79358,6 +79369,18 @@
       "source": "Greenhouse",
       "tags": [
         "LD205 SolAero - Program Management"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-8059448003",
+      "title": "Senior Program Manager I",
+      "company": "Rocket Lab Corporation",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8059448003",
+      "source": "Greenhouse",
+      "tags": [
+        "4015 USA Space Systems"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -79482,18 +79505,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-8003944003",
-      "title": "Senior Proposal Manager I",
-      "company": "Rocket Lab Corporation",
-      "location": "Littleton, CO",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003944003",
-      "source": "Greenhouse",
-      "tags": [
-        "1520 Space Systems BD"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-8010034003",
       "title": "Senior Proposal Manager I",
       "company": "Rocket Lab Corporation",
@@ -79518,23 +79529,11 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-8010038003",
-      "title": "Senior Proposal Manager II",
+      "id": "greenhouse-rocketlab-8003944003",
+      "title": "Senior Proposal Manager I",
       "company": "Rocket Lab Corporation",
-      "location": "Chantilly, VA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8010038003",
-      "source": "Greenhouse",
-      "tags": [
-        "1520 Space Systems BD"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
-      "id": "greenhouse-rocketlab-8010036003",
-      "title": "Senior Proposal Manager II",
-      "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8010036003",
+      "location": "Littleton, CO",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003944003",
       "source": "Greenhouse",
       "tags": [
         "1520 Space Systems BD"
@@ -79554,11 +79553,35 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
+      "id": "greenhouse-rocketlab-8010038003",
+      "title": "Senior Proposal Manager II",
+      "company": "Rocket Lab Corporation",
+      "location": "Chantilly, VA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8010038003",
+      "source": "Greenhouse",
+      "tags": [
+        "1520 Space Systems BD"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
       "id": "greenhouse-rocketlab-8004018003",
       "title": "Senior Proposal Manager II",
       "company": "Rocket Lab Corporation",
       "location": "Littleton, CO",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8004018003",
+      "source": "Greenhouse",
+      "tags": [
+        "1520 Space Systems BD"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-8010036003",
+      "title": "Senior Proposal Manager II",
+      "company": "Rocket Lab Corporation",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8010036003",
       "source": "Greenhouse",
       "tags": [
         "1520 Space Systems BD"
@@ -80010,18 +80033,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-8056450003",
-      "title": "Senior Systems Engineer II",
-      "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8056450003",
-      "source": "Greenhouse",
-      "tags": [
-        "4015 USA Space Systems"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7963735003",
       "title": "Senior Systems Engineer II",
       "company": "Rocket Lab Corporation",
@@ -80030,6 +80041,18 @@
       "source": "Greenhouse",
       "tags": [
         "5557 RMC - Systems Engineering"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-8056450003",
+      "title": "Senior Systems Engineer II",
+      "company": "Rocket Lab Corporation",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8056450003",
+      "source": "Greenhouse",
+      "tags": [
+        "4015 USA Space Systems"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -80214,18 +80237,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7565875003",
-      "title": "Senior Vehicle Integration Engineer",
-      "company": "Rocket Lab Corporation",
-      "location": "Wallops Island, VA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7565875003",
-      "source": "Greenhouse",
-      "tags": [
-        "2245 Neutron - LC3"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7563374003",
       "title": "Senior Vehicle Integration Engineer",
       "company": "Rocket Lab Corporation",
@@ -80234,6 +80245,18 @@
       "source": "Greenhouse",
       "tags": [
         "2256 Neutron - SSC"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-7565875003",
+      "title": "Senior Vehicle Integration Engineer",
+      "company": "Rocket Lab Corporation",
+      "location": "Wallops Island, VA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7565875003",
+      "source": "Greenhouse",
+      "tags": [
+        "2245 Neutron - LC3"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -80466,14 +80489,14 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7986131003",
+      "id": "greenhouse-rocketlab-7990069003",
       "title": "Supply Chain Intern Spring 2027",
       "company": "Rocket Lab Corporation",
-      "location": "Silver Spring, MD",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986131003",
+      "location": "Middle River, MD",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990069003",
       "source": "Greenhouse",
       "tags": [
-        "122 OS - Supply Chain"
+        "2657 SC Sourcing"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -80490,18 +80513,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7990069003",
-      "title": "Supply Chain Intern Spring 2027",
-      "company": "Rocket Lab Corporation",
-      "location": "Middle River, MD",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990069003",
-      "source": "Greenhouse",
-      "tags": [
-        "2657 SC Sourcing"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7985032003",
       "title": "Supply Chain Intern Spring 2027",
       "company": "Rocket Lab Corporation",
@@ -80510,6 +80521,18 @@
       "source": "Greenhouse",
       "tags": [
         "2652 USA Supply Chain"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-7986131003",
+      "title": "Supply Chain Intern Spring 2027",
+      "company": "Rocket Lab Corporation",
+      "location": "Silver Spring, MD",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986131003",
+      "source": "Greenhouse",
+      "tags": [
+        "122 OS - Supply Chain"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -80598,18 +80621,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-7987046003",
-      "title": "Systems Engineering Intern Summer 2027",
-      "company": "Rocket Lab Corporation",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003",
-      "source": "Greenhouse",
-      "tags": [
-        "4015 USA Space Systems"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7990272003",
       "title": "Systems Engineering Intern Summer 2027",
       "company": "Rocket Lab Corporation",
@@ -80627,6 +80638,18 @@
       "company": "Rocket Lab Corporation",
       "location": "Pasadena, CA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990138003",
+      "source": "Greenhouse",
+      "tags": [
+        "4015 USA Space Systems"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-7987046003",
+      "title": "Systems Engineering Intern Summer 2027",
+      "company": "Rocket Lab Corporation",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003",
       "source": "Greenhouse",
       "tags": [
         "4015 USA Space Systems"
@@ -80994,18 +81017,6 @@
       "posted": "2026-10-29T13:46:32-04:00"
     },
     {
-      "id": "greenhouse-rocketlab-8017013003",
-      "title": "Vehicle Integration Engineer II",
-      "company": "Rocket Lab Corporation",
-      "location": "Middle River, MD",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8017013003",
-      "source": "Greenhouse",
-      "tags": [
-        "2256 Neutron - SSC"
-      ],
-      "posted": "2026-10-29T13:46:32-04:00"
-    },
-    {
       "id": "greenhouse-rocketlab-7565895003",
       "title": "Vehicle Integration Engineer II",
       "company": "Rocket Lab Corporation",
@@ -81014,6 +81025,18 @@
       "source": "Greenhouse",
       "tags": [
         "2245 Neutron - LC3"
+      ],
+      "posted": "2026-10-29T13:46:32-04:00"
+    },
+    {
+      "id": "greenhouse-rocketlab-8017013003",
+      "title": "Vehicle Integration Engineer II",
+      "company": "Rocket Lab Corporation",
+      "location": "Middle River, MD",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8017013003",
+      "source": "Greenhouse",
+      "tags": [
+        "2256 Neutron - SSC"
       ],
       "posted": "2026-10-29T13:46:32-04:00"
     },
@@ -121572,540 +121595,28 @@
       "posted": "2026-10-02T21:24:43.058+00:00"
     },
     {
-      "id": "ashby-crusoe-fc530bc9-0745-45e7-b433-fb0151005d10",
-      "title": "Staff Electrical Engineer, Power Systems",
-      "company": "Crusoe",
-      "location": "Denver, CO - US",
-      "url": "https://jobs.ashbyhq.com/crusoe/fc530bc9-0745-45e7-b433-fb0151005d10",
-      "source": "Ashby",
+      "id": "workday-nvidia-JR2028280",
+      "title": "Manufacturing Automation Solution Intern - 2027",
+      "company": "NVIDIA",
+      "location": "China, Shenzhen",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/Manufacturing-Automation-Solution-Intern---2027_JR2028280",
+      "source": "Workday",
       "tags": [
-        "Power Infrastructure"
+        "NVIDIA"
       ],
-      "posted": "2026-10-02T21:21:17.443+00:00"
+      "posted": null
     },
     {
-      "id": "ashby-vanta-9962b3c8-f1c4-4ad1-9308-7c8df6a28b28",
-      "title": "Staff Software Engineer, Program Structure & Trust",
-      "company": "Vanta",
-      "location": "Remote U.S.",
-      "url": "https://jobs.ashbyhq.com/vanta/9962b3c8-f1c4-4ad1-9308-7c8df6a28b28",
-      "source": "Ashby",
+      "id": "workday-nvidia-JR2028899",
+      "title": "Systems Software Manager, CPU",
+      "company": "NVIDIA",
+      "location": "Taiwan, Taipei",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Systems-Software-Manager--CPU_JR2028899",
+      "source": "Workday",
       "tags": [
-        "Software Engineering"
+        "NVIDIA"
       ],
-      "posted": "2026-10-02T20:55:36.759+00:00"
-    },
-    {
-      "id": "ashby-vanta-ee1f63bd-c72e-4e71-9011-b9b4560dbfe7",
-      "title": "Engineering Manager, Customer Trust - Canada",
-      "company": "Vanta",
-      "location": "Remote - Canada",
-      "url": "https://jobs.ashbyhq.com/vanta/ee1f63bd-c72e-4e71-9011-b9b4560dbfe7",
-      "source": "Ashby",
-      "tags": [
-        "Software Engineering"
-      ],
-      "posted": "2026-10-02T20:29:41.743+00:00"
-    },
-    {
-      "id": "ashby-vanta-f19964fc-3df1-4ffd-bac2-0deedb1266a2",
-      "title": "Engineering Manager, Customer Trust",
-      "company": "Vanta",
-      "location": "Remote U.S.",
-      "url": "https://jobs.ashbyhq.com/vanta/f19964fc-3df1-4ffd-bac2-0deedb1266a2",
-      "source": "Ashby",
-      "tags": [
-        "Software Engineering"
-      ],
-      "posted": "2026-10-02T20:29:38.021+00:00"
-    },
-    {
-      "id": "lever-zoox-4fcf2e08-0703-4246-a8f7-064cc221be3f",
-      "title": "Manager, Technical Product Management – Autonomy Integration",
-      "company": "zoox",
-      "location": "Foster City, CA",
-      "url": "https://jobs.lever.co/zoox/4fcf2e08-0703-4246-a8f7-064cc221be3f",
-      "source": "Lever",
-      "tags": [
-        "Autonomy Software"
-      ],
-      "posted": "2026-10-02T20:29:21.193Z"
-    },
-    {
-      "id": "ashby-hadrian-automation-89444d44-ed57-4bed-8c3c-eacc78050adc",
-      "title": "Systems Qualification Engineer, Additive Manufacturing",
-      "company": "Hadrian",
-      "location": "Los Angeles, CA",
-      "url": "https://jobs.ashbyhq.com/hadrian-automation/89444d44-ed57-4bed-8c3c-eacc78050adc",
-      "source": "Ashby",
-      "tags": [
-        "Manufacturing"
-      ],
-      "posted": "2026-10-02T20:13:28.487+00:00"
-    },
-    {
-      "id": "remotive-1749306",
-      "title": "Freelance Copywriter",
-      "company": "Coalition Technologies ",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
-      "source": "Remotive",
-      "tags": [
-        "accounting",
-        "excel",
-        "research",
-        "data analysis",
-        "bookkeeping",
-        "google sheets",
-        "quickbooks",
-        "data entry",
-        "insurance",
-        "G Suite"
-      ],
-      "posted": "2026-10-02T20:01:00"
-    },
-    {
-      "id": "ashby-notion-92de7ece-b7d9-4b2a-b9cb-b978cc690a46",
-      "title": "Payroll Analyst ",
-      "company": "Notion",
-      "location": "San Francisco, California",
-      "url": "https://jobs.ashbyhq.com/notion/92de7ece-b7d9-4b2a-b9cb-b978cc690a46",
-      "source": "Ashby",
-      "tags": [
-        "Finance"
-      ],
-      "posted": "2026-10-02T19:56:09.176+00:00"
-    },
-    {
-      "id": "ashby-openai-d089cc3e-e81e-42b7-be77-23bbc9d02431",
-      "title": "ITAV Event Technical Producer",
-      "company": "OpenAI",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/d089cc3e-e81e-42b7-be77-23bbc9d02431",
-      "source": "Ashby",
-      "tags": [
-        "IT"
-      ],
-      "posted": "2026-10-02T19:55:42.991+00:00"
-    },
-    {
-      "id": "ashby-openai-3ae71c21-60dd-42b2-a913-58df05988976",
-      "title": "Vendor Security Technical Program Manager",
-      "company": "OpenAI",
-      "location": "US - Remote",
-      "url": "https://jobs.ashbyhq.com/openai/3ae71c21-60dd-42b2-a913-58df05988976",
-      "source": "Ashby",
-      "tags": [
-        "Security"
-      ],
-      "posted": "2026-10-02T19:54:48.855+00:00"
-    },
-    {
-      "id": "ashby-notion-e9827815-0e9a-489f-a121-41ae83f54f77",
-      "title": "Head of Sales Recruiting, AMER",
-      "company": "Notion",
-      "location": "San Francisco, California",
-      "url": "https://jobs.ashbyhq.com/notion/e9827815-0e9a-489f-a121-41ae83f54f77",
-      "source": "Ashby",
-      "tags": [
-        "People"
-      ],
-      "posted": "2026-10-02T19:36:35.407+00:00"
-    },
-    {
-      "id": "ashby-hadrian-automation-7435e81a-0f86-4cb8-ae3f-7df9a9d14175",
-      "title": "IT Operations Lead",
-      "company": "Hadrian",
-      "location": "Los Angeles, CA",
-      "url": "https://jobs.ashbyhq.com/hadrian-automation/7435e81a-0f86-4cb8-ae3f-7df9a9d14175",
-      "source": "Ashby",
-      "tags": [
-        "Engineering, Product, Design"
-      ],
-      "posted": "2026-10-02T19:25:20.740+00:00"
-    },
-    {
-      "id": "ashby-hadrian-automation-7ef244e7-29ca-440c-8a51-531154cefa48",
-      "title": "Metal Manufacturing Engineer, Additive",
-      "company": "Hadrian",
-      "location": "Texarkana, TX",
-      "url": "https://jobs.ashbyhq.com/hadrian-automation/7ef244e7-29ca-440c-8a51-531154cefa48",
-      "source": "Ashby",
-      "tags": [
-        "Manufacturing"
-      ],
-      "posted": "2026-10-02T19:18:03.963+00:00"
-    },
-    {
-      "id": "ashby-harvey-4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
-      "title": "Software Engineer, New Grad (2027)",
-      "company": "Harvey",
-      "location": "New York",
-      "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
-      "source": "Ashby",
-      "tags": [
-        "Engineering"
-      ],
-      "posted": "2026-10-02T19:13:48.998+00:00"
-    },
-    {
-      "id": "ashby-harvey-b0996df6-6b6e-42be-a4f9-0084536068f5",
-      "title": "Software Engineer, New Grad (2027)",
-      "company": "Harvey",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5",
-      "source": "Ashby",
-      "tags": [
-        "Engineering"
-      ],
-      "posted": "2026-10-02T19:13:45.839+00:00"
-    },
-    {
-      "id": "ashby-crusoe-40d87d12-e3b2-4d42-ac31-3316798dbb32",
-      "title": "Vice President, Product Management, Managed AI",
-      "company": "Crusoe",
-      "location": "San Francisco, CA - US",
-      "url": "https://jobs.ashbyhq.com/crusoe/40d87d12-e3b2-4d42-ac31-3316798dbb32",
-      "source": "Ashby",
-      "tags": [
-        "Product and Design"
-      ],
-      "posted": "2026-10-02T18:59:52.038+00:00"
-    },
-    {
-      "id": "ashby-openai-5b334d54-fc7f-4de7-a37f-5c759c79beb6",
-      "title": "Strategic Sourcing Leader, Professional Services",
-      "company": "OpenAI",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/5b334d54-fc7f-4de7-a37f-5c759c79beb6",
-      "source": "Ashby",
-      "tags": [
-        "Finance"
-      ],
-      "posted": "2026-10-02T18:59:34.572+00:00"
-    },
-    {
-      "id": "ashby-apex-technology-inc-7f38b1e7-b7b8-4bd3-91c1-36a06102772a",
-      "title": "Environmental, Health & Safety (EHS) Engineer",
-      "company": "Apex Space",
-      "location": "Los Angeles",
-      "url": "https://jobs.ashbyhq.com/apex-technology-inc/7f38b1e7-b7b8-4bd3-91c1-36a06102772a",
-      "source": "Ashby",
-      "tags": [
-        "Corporate"
-      ],
-      "posted": "2026-10-02T18:51:32.964+00:00"
-    },
-    {
-      "id": "lever-shieldai-361f2b96-d28b-45df-afb6-109643d33d18",
-      "title": "Principal Technical Program Manager, Ranger",
-      "company": "shieldai",
-      "location": "San Diego, California",
-      "url": "https://jobs.lever.co/shieldai/361f2b96-d28b-45df-afb6-109643d33d18",
-      "source": "Lever",
-      "tags": [
-        "X-BAT Technical Program Management"
-      ],
-      "posted": "2026-10-02T18:45:29.394Z"
-    },
-    {
-      "id": "lever-sila-64accc51-04b5-4158-b409-bede40ccbe7b",
-      "title": "Comfort Advisor",
-      "company": "sila",
-      "location": "Edgecomb, ME",
-      "url": "https://jobs.lever.co/sila/64accc51-04b5-4158-b409-bede40ccbe7b",
-      "source": "Lever",
-      "tags": [
-        "Outside Sales"
-      ],
-      "posted": "2026-10-02T18:05:21.589Z"
-    },
-    {
-      "id": "lever-sila-9b4a5028-29f6-4db5-8930-827caf4ebcea",
-      "title": "Comfort Advisor",
-      "company": "sila",
-      "location": "Windham, ME",
-      "url": "https://jobs.lever.co/sila/9b4a5028-29f6-4db5-8930-827caf4ebcea",
-      "source": "Lever",
-      "tags": [
-        "Outside Sales"
-      ],
-      "posted": "2026-10-02T18:02:52.738Z"
-    },
-    {
-      "id": "greenhouse-neuralink-5663271003",
-      "title": "Machine Learning Engineer",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States; South San Francisco, California, United States",
-      "url": "https://boards.greenhouse.io/neuralink/jobs/5663271003?gh_jid=5663271003",
-      "source": "Greenhouse",
-      "tags": [
-        "BCI Applications"
-      ],
-      "posted": "2026-10-02T13:57:59-04:00"
-    },
-    {
-      "id": "lever-sila-c9825484-e595-470e-b999-b878e6833e19",
-      "title": "Comfort Advisor",
-      "company": "sila",
-      "location": "Augusta, ME",
-      "url": "https://jobs.lever.co/sila/c9825484-e595-470e-b999-b878e6833e19",
-      "source": "Lever",
-      "tags": [
-        "Outside Sales"
-      ],
-      "posted": "2026-10-02T17:57:51.988Z"
-    },
-    {
-      "id": "greenhouse-divergent-5194800008",
-      "title": "Director, Supplier Quality",
-      "company": "Divergent",
-      "location": "Torrance, California, United States",
-      "url": "https://job-boards.greenhouse.io/divergent/jobs/5194800008",
-      "source": "Greenhouse",
-      "tags": [
-        "56-Supply Chain"
-      ],
-      "posted": "2026-10-02T13:31:14-04:00"
-    },
-    {
-      "id": "ashby-openai-bb28a39e-eb1f-41ef-96de-98adf58a8c3c",
-      "title": "People Technology Analyst, Workday PATT & Benefits",
-      "company": "OpenAI",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c",
-      "source": "Ashby",
-      "tags": [
-        "People"
-      ],
-      "posted": "2026-10-02T17:13:03.539+00:00"
-    },
-    {
-      "id": "ashby-notion-b49d4c15-d716-4a52-8858-1a89319f3191",
-      "title": "Senior Accountant - Corporate Accounting",
-      "company": "Notion",
-      "location": "San Francisco, California",
-      "url": "https://jobs.ashbyhq.com/notion/b49d4c15-d716-4a52-8858-1a89319f3191",
-      "source": "Ashby",
-      "tags": [
-        "Finance"
-      ],
-      "posted": "2026-10-02T16:52:26.788+00:00"
-    },
-    {
-      "id": "ashby-harvey-214e8a77-88c5-42da-b142-74bb7a890063",
-      "title": "Account Executive, SMB (Portuguese Speaking)",
-      "company": "Harvey",
-      "location": "Dublin",
-      "url": "https://jobs.ashbyhq.com/harvey/214e8a77-88c5-42da-b142-74bb7a890063",
-      "source": "Ashby",
-      "tags": [
-        "Go to Market"
-      ],
-      "posted": "2026-10-02T16:47:38.086+00:00"
-    },
-    {
-      "id": "ashby-harvey-568a6afb-89fa-46bc-96cf-a7e75c8602e8",
-      "title": "Account Executive, Mid Market (German Speaking)",
-      "company": "Harvey",
-      "location": "London",
-      "url": "https://jobs.ashbyhq.com/harvey/568a6afb-89fa-46bc-96cf-a7e75c8602e8",
-      "source": "Ashby",
-      "tags": [
-        "Go to Market"
-      ],
-      "posted": "2026-10-02T16:43:22.289+00:00"
-    },
-    {
-      "id": "ashby-harvey-46ca5e0d-20c3-44e6-b30e-09eac08726ab",
-      "title": "Account Executive, Mid Market (Spanish Speaking)",
-      "company": "Harvey",
-      "location": "London",
-      "url": "https://jobs.ashbyhq.com/harvey/46ca5e0d-20c3-44e6-b30e-09eac08726ab",
-      "source": "Ashby",
-      "tags": [
-        "Go to Market"
-      ],
-      "posted": "2026-10-02T16:43:06.471+00:00"
-    },
-    {
-      "id": "ashby-harvey-669bf81e-3f34-406a-bfe5-07f45dc66839",
-      "title": "Account Executive, Mid Market (Italian Speaking)",
-      "company": "Harvey",
-      "location": "Dublin",
-      "url": "https://jobs.ashbyhq.com/harvey/669bf81e-3f34-406a-bfe5-07f45dc66839",
-      "source": "Ashby",
-      "tags": [
-        "Go to Market"
-      ],
-      "posted": "2026-10-02T16:42:55.761+00:00"
-    },
-    {
-      "id": "ashby-harvey-758d43a5-eb76-4ca6-b79c-6607415a7e86",
-      "title": "Account Executive, Mid Market (French Speaking)",
-      "company": "Harvey",
-      "location": "Dublin",
-      "url": "https://jobs.ashbyhq.com/harvey/758d43a5-eb76-4ca6-b79c-6607415a7e86",
-      "source": "Ashby",
-      "tags": [
-        "Go to Market"
-      ],
-      "posted": "2026-10-02T16:42:45.840+00:00"
-    },
-    {
-      "id": "lever-sila-46df3971-a656-49e9-bacc-8bc4dbaffae9",
-      "title": "HVAC Installer - Journeyman",
-      "company": "sila",
-      "location": "Weymouth, MA",
-      "url": "https://jobs.lever.co/sila/46df3971-a656-49e9-bacc-8bc4dbaffae9",
-      "source": "Lever",
-      "tags": [
-        "HVAC Install"
-      ],
-      "posted": "2026-10-02T16:32:03.419Z"
-    },
-    {
-      "id": "ashby-cerebras-89ed36d3-d7e4-4c41-b466-2e39a30a84f4",
-      "title": "AI Fleet Platform Software Engineer",
-      "company": "Cerebras Systems",
-      "location": "Sunnyvale, CA",
-      "url": "https://jobs.ashbyhq.com/cerebras/89ed36d3-d7e4-4c41-b466-2e39a30a84f4",
-      "source": "Ashby",
-      "tags": [
-        "Software Engineering "
-      ],
-      "posted": "2026-10-02T16:09:12.836+00:00"
-    },
-    {
-      "id": "ashby-harvey-023ab8da-243b-44bd-860d-f4ca5d0b1678",
-      "title": "Account Executive, SMB (German Speaking)",
-      "company": "Harvey",
-      "location": "Dublin",
-      "url": "https://jobs.ashbyhq.com/harvey/023ab8da-243b-44bd-860d-f4ca5d0b1678",
-      "source": "Ashby",
-      "tags": [
-        "Go to Market"
-      ],
-      "posted": "2026-10-02T15:58:18.256+00:00"
-    },
-    {
-      "id": "ashby-harvey-f6a40913-3189-483a-b8d0-65024cc4e77a",
-      "title": "Account Executive, SMB (Spanish Speaking)",
-      "company": "Harvey",
-      "location": "Dublin",
-      "url": "https://jobs.ashbyhq.com/harvey/f6a40913-3189-483a-b8d0-65024cc4e77a",
-      "source": "Ashby",
-      "tags": [
-        "Go to Market"
-      ],
-      "posted": "2026-10-02T15:58:03.708+00:00"
-    },
-    {
-      "id": "ashby-harvey-7ab6524a-12e0-49d1-b034-718da3fa7479",
-      "title": "Account Executive, SMB (French Speaking)",
-      "company": "Harvey",
-      "location": "Dublin",
-      "url": "https://jobs.ashbyhq.com/harvey/7ab6524a-12e0-49d1-b034-718da3fa7479",
-      "source": "Ashby",
-      "tags": [
-        "Go to Market"
-      ],
-      "posted": "2026-10-02T15:56:00.818+00:00"
-    },
-    {
-      "id": "ashby-elevenlabs-8cf16203-4039-4bcb-828d-a3d3d6bab4a1",
-      "title": "Commercial Counsel - US",
-      "company": "ElevenLabs",
-      "location": "United States",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/8cf16203-4039-4bcb-828d-a3d3d6bab4a1",
-      "source": "Ashby",
-      "tags": [
-        "Legal"
-      ],
-      "posted": "2026-10-02T15:50:12.333+00:00"
-    },
-    {
-      "id": "ashby-openai-ba36fd95-2474-4986-98a6-5280c4e41bd3",
-      "title": "Strategic Sourcing Lead, Professional Services – Human Data",
-      "company": "OpenAI",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/ba36fd95-2474-4986-98a6-5280c4e41bd3",
-      "source": "Ashby",
-      "tags": [
-        "Finance"
-      ],
-      "posted": "2026-10-02T14:37:09.260+00:00"
-    },
-    {
-      "id": "ashby-sierra-cfb17e80-6326-44b2-9c33-1f6e6cb0835b",
-      "title": "Enterprise Sales Director, Nordics",
-      "company": "Sierra",
-      "location": "London",
-      "url": "https://jobs.ashbyhq.com/sierra/cfb17e80-6326-44b2-9c33-1f6e6cb0835b",
-      "source": "Ashby",
-      "tags": [
-        "Sales"
-      ],
-      "posted": "2026-10-02T13:34:21.302+00:00"
-    },
-    {
-      "id": "remotive-2091133",
-      "title": "Senior React Full-stack Developer",
-      "company": "Lemon.io",
-      "location": "Europe, USA, Canada, APAC",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
-      "source": "Remotive",
-      "tags": [
-        ".Net",
-        "android",
-        "AWS",
-        "azure",
-        "C",
-        "C#",
-        "C++",
-        "data science",
-        "fullstack",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "react js",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "swift",
-        "UI/UX",
-        "wordpress",
-        "blockchain",
-        "AI/ML",
-        "automation",
-        "react native",
-        "rust",
-        "product management",
-        "unity",
-        "electron",
-        "spring",
-        "data analysis",
-        "laravel",
-        "Ethereum",
-        "graphic design",
-        "Typescript ",
-        "angular ",
-        "GCP",
-        "firebase",
-        "data engineering",
-        "Site Reliability",
-        "Symfony",
-        "startup",
-        "marketplace",
-        "next.js",
-        "flutter"
-      ],
-      "posted": "2026-10-02T13:30:06"
+      "posted": null
     },
     {
       "id": "workday-nvidia-JR2013122",
@@ -122120,35 +121631,11 @@
       "posted": null
     },
     {
-      "id": "workday-nvidia-JR2027311",
-      "title": "Advanced Development Engineering Student, GPU Networking",
-      "company": "NVIDIA",
-      "location": "3 Locations",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Advanced-Development-Engineering-Student--GPU-Networking_JR2027311",
-      "source": "Workday",
-      "tags": [
-        "NVIDIA"
-      ],
-      "posted": null
-    },
-    {
       "id": "workday-nvidia-JR2026556",
       "title": "Firmware Engineer",
       "company": "NVIDIA",
       "location": "2 Locations",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Engineer_JR2026556",
-      "source": "Workday",
-      "tags": [
-        "NVIDIA"
-      ],
-      "posted": null
-    },
-    {
-      "id": "workday-nvidia-JR2027271",
-      "title": "Hardware Validation Engineer",
-      "company": "NVIDIA",
-      "location": "Israel, Yokneam",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Hardware-Validation-Engineer_JR2027271",
       "source": "Workday",
       "tags": [
         "NVIDIA"
@@ -122828,6 +122315,90 @@
       "posted": null
     },
     {
+      "id": "workday-ngc-R10256622",
+      "title": "Contract Administrator",
+      "company": "Northrop Grumman",
+      "location": "United States-Maryland-Linthicum",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Contract-Administrator_R10256622",
+      "source": "Workday",
+      "tags": [
+        "Northrop Grumman"
+      ],
+      "posted": null
+    },
+    {
+      "id": "workday-ngc-R10256617",
+      "title": "Principal Contract Administrator",
+      "company": "Northrop Grumman",
+      "location": "United States-Maryland-Linthicum",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Principal-Contract-Administrator_R10256617",
+      "source": "Workday",
+      "tags": [
+        "Northrop Grumman"
+      ],
+      "posted": null
+    },
+    {
+      "id": "workday-ngc-R10258692",
+      "title": "Principal Optomechanical Engineer - 3",
+      "company": "Northrop Grumman",
+      "location": "United States-Arizona-Chandler",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Principal-Optomechanical-Engineer---3_R10258692",
+      "source": "Workday",
+      "tags": [
+        "Northrop Grumman"
+      ],
+      "posted": null
+    },
+    {
+      "id": "workday-ngc-R10258691",
+      "title": "Optomechanical Engineer - 2",
+      "company": "Northrop Grumman",
+      "location": "United States-Arizona-Chandler",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Optomechanical-Engineer---2_R10258691",
+      "source": "Workday",
+      "tags": [
+        "Northrop Grumman"
+      ],
+      "posted": null
+    },
+    {
+      "id": "workday-ngc-R10251598",
+      "title": "Sentinel - Staff Systems Engineer - 17379",
+      "company": "Northrop Grumman",
+      "location": "United States-Utah-Roy",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Staff-Systems-Engineer---17379_R10251598",
+      "source": "Workday",
+      "tags": [
+        "Northrop Grumman"
+      ],
+      "posted": null
+    },
+    {
+      "id": "workday-ngc-R10253741",
+      "title": "Staff Systems Engineer - Modeling Simulation & Analysis - 20144",
+      "company": "Northrop Grumman",
+      "location": "United States-Alabama-Huntsville",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Staff-Systems-Engineer---Modeling-Simulation---Analysis---20144_R10253741",
+      "source": "Workday",
+      "tags": [
+        "Northrop Grumman"
+      ],
+      "posted": null
+    },
+    {
+      "id": "workday-ngc-R10257729",
+      "title": "Sentinel - Staff Systems Engineer - Mechanical Systems Design Integrator",
+      "company": "Northrop Grumman",
+      "location": "2 Locations",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Staff-Systems-Engineer---Mechanical-Systems-Design-Integrator_R10257729",
+      "source": "Workday",
+      "tags": [
+        "Northrop Grumman"
+      ],
+      "posted": null
+    },
+    {
       "id": "workday-ngc-R10258366",
       "title": "2027 Associate Software Engineer - Bellevue (NE)",
       "company": "Northrop Grumman",
@@ -122984,86 +122555,62 @@
       "posted": null
     },
     {
-      "id": "workday-ngc-R10258674",
-      "title": "Principal/Sr. Principal RF Microwave/Mixed Signal Design Engineer",
-      "company": "Northrop Grumman",
-      "location": "United States-Maryland-Baltimore",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Principal-Sr-Principal-RF-Microwave-Mixed-Signal-Design-Engineer_R10258674",
+      "id": "workday-globalhr-01857983",
+      "title": "Młodszy Operator Linii Gięcia i Spawania_I",
+      "company": "RTX / Raytheon",
+      "location": "PL-12-NIEPOLOMICE-004 ~ Grabska 4 ~ GRABSKA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/PL-12-NIEPOLOMICE-004--Grabska-4--GRABSKA/Modsza-Operatorka---Modszy-Operator_01857983",
       "source": "Workday",
       "tags": [
-        "Northrop Grumman"
+        "RTX / Raytheon"
       ],
       "posted": null
     },
     {
-      "id": "workday-ngc-R10258470",
-      "title": "Principal/Sr. Principal RF Microwave Design Engineer (Level 3 or 4)",
-      "company": "Northrop Grumman",
-      "location": "United States-California-Goleta",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Goleta/Principal-Sr-Principal-RF-Microwave-Design-Engineer--Level-3-or-4-_R10258470",
+      "id": "workday-globalhr-01874793",
+      "title": "Młodszy Operator Procesów Końcowych",
+      "company": "RTX / Raytheon",
+      "location": "PL-12-NIEPOLOMICE-004 ~ Grabska 4 ~ GRABSKA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/PL-12-NIEPOLOMICE-004--Grabska-4--GRABSKA/Mlodszy-Operator-Procesow-Koncowych_01874793",
       "source": "Workday",
       "tags": [
-        "Northrop Grumman"
+        "RTX / Raytheon"
       ],
       "posted": null
     },
     {
-      "id": "workday-ngc-R10258677",
-      "title": "Sr Principal Contract Administrator - 18570",
-      "company": "Northrop Grumman",
-      "location": "United States-Utah-Roy",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sr-Principal-Contract-Administrator---18570_R10258677",
+      "id": "workday-globalhr-01880926",
+      "title": "Młodszy Operator Linii Gięcia i Spawania_I",
+      "company": "RTX / Raytheon",
+      "location": "PL-12-NIEPOLOMICE-004 ~ Grabska 4 ~ GRABSKA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/PL-12-NIEPOLOMICE-004--Grabska-4--GRABSKA/Modszy-Operator-Linii-Gicia-i-Spawania-I_01880926",
       "source": "Workday",
       "tags": [
-        "Northrop Grumman"
+        "RTX / Raytheon"
       ],
       "posted": null
     },
     {
-      "id": "workday-ngc-R10255813",
-      "title": "MBSE Systems Engineer - Level 3 or 4 (AHT)",
-      "company": "Northrop Grumman",
-      "location": "United States-Colorado-Boulder",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/MBSE-Systems-Engineer---Level-3-or-4--AHT-_R10255813",
+      "id": "workday-globalhr-01883090",
+      "title": "Principal Specialist - Wireless Network Administrator",
+      "company": "RTX / Raytheon",
+      "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Principal-Specialist---Wireless-Network-Administrator_01883090",
       "source": "Workday",
       "tags": [
-        "Northrop Grumman"
+        "RTX / Raytheon"
       ],
       "posted": null
     },
     {
-      "id": "workday-ngc-R10252569",
-      "title": "Systems Engineer - Level 3 or 4 (AHT)",
-      "company": "Northrop Grumman",
-      "location": "United States-Colorado-Boulder",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Systems-Engineer---Level-3-or-4--AHT-_R10252569",
+      "id": "workday-globalhr-01885032",
+      "title": "Supplier Quality Engineer",
+      "company": "RTX / Raytheon",
+      "location": "US-TX-MCKINNEY-513PW ~ 2501 W University Dr ~ PW BLDG",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Supplier-Quality-Engineer_01885032",
       "source": "Workday",
       "tags": [
-        "Northrop Grumman"
-      ],
-      "posted": null
-    },
-    {
-      "id": "workday-ngc-R10252869",
-      "title": "Systems Engineer - Level 3 or 4 (AHT)",
-      "company": "Northrop Grumman",
-      "location": "United States-Colorado-Boulder",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Systems-Engineer---Level-3-or-4--AHT-_R10252869",
-      "source": "Workday",
-      "tags": [
-        "Northrop Grumman"
-      ],
-      "posted": null
-    },
-    {
-      "id": "workday-ngc-R10258672",
-      "title": "Industrial Security Analyst/Project Manager - Level 3 or 4",
-      "company": "Northrop Grumman",
-      "location": "United States-Virginia-Dulles",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Industrial-Security-Analyst-Project-Manager---Level-3-or-4_R10258672",
-      "source": "Workday",
-      "tags": [
-        "Northrop Grumman"
+        "RTX / Raytheon"
       ],
       "posted": null
     },
@@ -123248,66 +122795,6 @@
       "posted": null
     },
     {
-      "id": "workday-globalhr-01883594",
-      "title": "F117 HMC Materials Analyst (Onsite)",
-      "company": "RTX / Raytheon",
-      "location": "US-OK-OKLAHOMA CITY-8120SC ~ 8120 S Air Depot Blvd ~ SUSTAINMENT CTR, Dock 18",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/F117-HMC-Materials-Analyst--Onsite-_01883594",
-      "source": "Workday",
-      "tags": [
-        "RTX / Raytheon"
-      ],
-      "posted": null
-    },
-    {
-      "id": "workday-globalhr-01885823",
-      "title": "Electrical Engineering Co-op (Winter/Spring 2027)",
-      "company": "RTX / Raytheon",
-      "location": "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Electrical-Engineering-Co-op--Winter-Spring-2027-_01885823",
-      "source": "Workday",
-      "tags": [
-        "RTX / Raytheon"
-      ],
-      "posted": null
-    },
-    {
-      "id": "workday-globalhr-01885489",
-      "title": "Sr Manager, SAP Transformation - P2S Field Service Management & Integration (Remote)",
-      "company": "RTX / Raytheon",
-      "location": "US-GA-REMOTE",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-GA-REMOTE/Sr-Manager--SAP-Transformation---P2S-Field-Service-Management---Integration--Remote-_01885489",
-      "source": "Workday",
-      "tags": [
-        "RTX / Raytheon"
-      ],
-      "posted": null
-    },
-    {
-      "id": "workday-globalhr-01885094",
-      "title": "Rédacteur technique et illustrateur en aéronautique – Bulletins de service et catalogues de pièces illustrés / Aerospace Technical Writer & Illustrator – Service Bulletins and Illustrated Parts Catalog",
-      "company": "RTX / Raytheon",
-      "location": "CA-QC-LONGUEUIL-AY ~ 1000 Blvd Marie-Victorin ~ AY BLDG",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Rdacteur-technique-et-illustrateur-en-aronautique---Bulletins-de-service-et-catalogues-de-pices-illustrs---Aerospace-Technical-Writer---Illustrator---Service-Bulletins-and-Illustrated-Parts-Catalog_01885094",
-      "source": "Workday",
-      "tags": [
-        "RTX / Raytheon"
-      ],
-      "posted": null
-    },
-    {
-      "id": "workday-globalhr-01886396",
-      "title": "Machinist II - 2nd Shift (Onsite)",
-      "company": "RTX / Raytheon",
-      "location": "US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Machinist-II---2nd-Shift--Onsite-_01886396",
-      "source": "Workday",
-      "tags": [
-        "RTX / Raytheon"
-      ],
-      "posted": null
-    },
-    {
       "id": "workday-geaerospace-R5040897",
       "title": "Lead Manufacturing Engineer",
       "company": "GE Aerospace",
@@ -123325,6 +122812,18 @@
       "company": "GE Aerospace",
       "location": "Clearwater",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Clearwater/Lead-Manufacturing-Engineer---2nd-Shift_R5040369-1",
+      "source": "Workday",
+      "tags": [
+        "GE Aerospace"
+      ],
+      "posted": null
+    },
+    {
+      "id": "workday-geaerospace-R5041681",
+      "title": "Advanced Lead Engineer Combustion Aero Design",
+      "company": "GE Aerospace",
+      "location": "Bengaluru",
+      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Bengaluru/Lead-engineer-combustion-aero-design_R5041681-1",
       "source": "Workday",
       "tags": [
         "GE Aerospace"
@@ -123529,18 +123028,6 @@
       "company": "GE Aerospace",
       "location": "Grand Rapids",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Grand-Rapids/Lead-Component-Engineer_R5042469-1",
-      "source": "Workday",
-      "tags": [
-        "GE Aerospace"
-      ],
-      "posted": null
-    },
-    {
-      "id": "workday-geaerospace-R5042535",
-      "title": "Senior Data Scientist",
-      "company": "GE Aerospace",
-      "location": "Gloucester",
-      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Gloucester/Senior-Data-Scientist_R5042535-1",
       "source": "Workday",
       "tags": [
         "GE Aerospace"
@@ -125708,11 +125195,59 @@
       "posted": null
     },
     {
-      "id": "workday-cat-R0000348719",
-      "title": "Manager Production-Engine Assembly",
+      "id": "workday-cat-R0000355539",
+      "title": "Senior IT Analyst Applications (Salesforce DevOps Lead/Engineer)",
       "company": "Caterpillar",
-      "location": "Chhatrapati Sambhaji Nagar,  Maharashtra",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chhatrapati-Sambhaji-Nagar--Maharashtra/Manager-Quality-3_R0000348719",
+      "location": "Chennai, Tamil Nadu",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Senior-IT-Analyst-Applications--Salesforce-DevOps-Lead-Engineer-_R0000355539",
+      "source": "Workday",
+      "tags": [
+        "Caterpillar"
+      ],
+      "posted": null
+    },
+    {
+      "id": "workday-cat-R0000395398",
+      "title": "Warehouse Associate",
+      "company": "Caterpillar",
+      "location": "Athens, Georgia",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Athens-Georgia/Warehouse-Associate_R0000395398",
+      "source": "Workday",
+      "tags": [
+        "Caterpillar"
+      ],
+      "posted": null
+    },
+    {
+      "id": "workday-cat-R0000400872",
+      "title": "Console & Cab Components Engineer",
+      "company": "Caterpillar",
+      "location": "Akashi, Hyogo",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Akashi-Hyogo/Console---Cab-Components-Engineer_R0000400872",
+      "source": "Workday",
+      "tags": [
+        "Caterpillar"
+      ],
+      "posted": null
+    },
+    {
+      "id": "workday-cat-R0000393808",
+      "title": "Principal Digital Architect",
+      "company": "Caterpillar",
+      "location": "4 Locations",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Principal-Digital-Architect_R0000393808",
+      "source": "Workday",
+      "tags": [
+        "Caterpillar"
+      ],
+      "posted": null
+    },
+    {
+      "id": "workday-cat-R0000390959",
+      "title": "2027校园招聘: 研发类-自动驾驶方向",
+      "company": "Caterpillar",
+      "location": "2 Locations",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/XMLNAME-2027---_R0000390959",
       "source": "Workday",
       "tags": [
         "Caterpillar"
@@ -125893,54 +125428,6 @@
       "company": "Caterpillar",
       "location": "Lafayette, Indiana",
       "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Lafayette-Indiana/Design-Engineer--C175-Engine-Platform_R0000402877",
-      "source": "Workday",
-      "tags": [
-        "Caterpillar"
-      ],
-      "posted": null
-    },
-    {
-      "id": "workday-cat-R0000396380",
-      "title": "Global Manager Performance & Value Intelligence",
-      "company": "Caterpillar",
-      "location": "2 Locations",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mesa-Arizona/Global-Manager-Performance---Value-Intelligence_R0000396380",
-      "source": "Workday",
-      "tags": [
-        "Caterpillar"
-      ],
-      "posted": null
-    },
-    {
-      "id": "workday-cat-R0000403145",
-      "title": "Field Service Specialist",
-      "company": "Caterpillar",
-      "location": "4 Locations",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Miramar-Florida/Field-Service-Specialist_R0000403145",
-      "source": "Workday",
-      "tags": [
-        "Caterpillar"
-      ],
-      "posted": null
-    },
-    {
-      "id": "workday-cat-R0000403140",
-      "title": "Warehouse Associate – Second and Third Shift",
-      "company": "Caterpillar",
-      "location": "Clayton, Ohio",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Clayton-Ohio/Warehouse-Associate---Second-and-Third-Shift_R0000403140",
-      "source": "Workday",
-      "tags": [
-        "Caterpillar"
-      ],
-      "posted": null
-    },
-    {
-      "id": "workday-cat-R0000390787",
-      "title": "Material Handler - Full Time / Multiple Shifts",
-      "company": "Caterpillar",
-      "location": "Brooklyn Park, Minnesota",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Brooklyn-Park-Minnesota/Material-Handling---Multiple-Shifts_R0000390787",
       "source": "Workday",
       "tags": [
         "Caterpillar"
